@@ -1,0 +1,47 @@
+{
+  "pages": [
+    {
+      "image": "page-001.png",
+      "page_index": 0,
+      "glyphs": [
+        {
+          "trial_id": "PN-001",
+          "expected_label": "尺",
+          "exemplar_id": "7ed4b382af2993d67fc068216195278986aad5fc16fdc4691ae15a833cf42418:alternative:尺:split:0",
+          "geometry_sha256": "57c45f3e4407761d292180abf95e3685dabde44bef2ce9a364e22ce4b508c841",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-002",
+          "expected_label": "掛",
+          "exemplar_id": "88f3657702b964e8b767625a8d322df49cd03c59a1a544580a13f9371a60d791:alternative:掛:split:0",
+          "geometry_sha256": "84aa13b65dae07e24bb45af8f5b6973da2cb3ed9beefe367582b9e3d0f79c3e5",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-003",
+          "expected_label": "断",
+          "exemplar_id": "6330ca0c0a9a3413e789db4c5334c50dba5cbc349f064671a611ecfd828058ef:alternative:情報断理:split:2",
+          "geometry_sha256": "0b3293927a388234efbdf63e1f05001c5936e843f98bb58c46e8bbd5ca224b92",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-004",
+          "expected_label": "替",
+          "exemplar_id": "89bdbf04f04ab784f8bc7659698160182f95fcf393618dfde59dea837384261c:alternative:替例:split:0",
+          "geometry_sha256": "0d0cc493f1420bc4792941394fe82d2ce52706b3a9e83e6ef7a955ca97a2de72",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-005",
+          "expected_label": "険",
+          "exemplar_id": "8c9b0319f8bc645ae03d55a30a83bcdb96200fdfa2feef4b374b075e68a9a64a:alternative:危険:split:1",
+          "geometry_sha256": "c89ef790e756b04d7e836ead9d4a244337d65767e341570e1c8e1e25170b7781",
+          "previously_accepted": false
+        }
+      ]
+    }
+  ],
+  "unconfirmed_characters": 7,
+  "selected": 5
+}

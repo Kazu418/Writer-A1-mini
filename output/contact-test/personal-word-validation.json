@@ -1,0 +1,30 @@
+{
+  "valid": true,
+  "moves": 2114,
+  "strokes": 44,
+  "source_geometry_checked": true,
+  "text": "生活習慣病",
+  "size_em_mm": 2.5,
+  "pen_bounds_mm": [
+    70.0,
+    71.49366760253906,
+    80.64103469930143,
+    73.97973662156325
+  ],
+  "nozzle_bounds_mm": [
+    70.0,
+    102.29366760253906,
+    80.64103469930143,
+    104.77973662156325
+  ],
+  "source_sha256": "a9fbcd34c25734f9f2984b2e5551b8dbc71e1dd89ce26458d4e339dd2dd305e3",
+  "source": "Original Goodnotes centerlines; no randomized standard glyphs",
+  "previous_paragraph_bounds_mm": [
+    70.2408256880734,
+    79.425,
+    108.54559354169655,
+    96.7993119266055
+  ],
+  "user_confirmed_no_rehoming_and_same_paper": true,
+  "stroke_chronology_verified": false
+}

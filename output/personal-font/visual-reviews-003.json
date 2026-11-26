@@ -1,0 +1,106 @@
+{
+  "format": "plotnote-visual-review-v1",
+  "source_manifest": "remaining-contact/manifest.json",
+  "source_sha256": "d17d4dfbf3d7b637e6045e5a5023dc43a9198009a4fb01a11709297ee6ab6846",
+  "reviews": [
+    {
+      "id": "dcd98afc8ae82d93ad001f5044eacba9d40f2e604ab01cf65b99b5c4bba06e92",
+      "label": "h",
+      "status": "accepted",
+      "geometry_sha256": "335fa7d453f4ec985b537ed8c806496fbb1d24c188b3391ffb3348e8316ba8da",
+      "sheet_page": 2,
+      "trial_id": "C-14",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "690d92c41a6a21e96dec95b5147d2ba5fc82ad5a8471f26715c37928ed9238c9",
+      "label": "m",
+      "status": "accepted",
+      "geometry_sha256": "5522be6f0286e921222903f0eb6cab336bf6bd64561aae34eef4ad8a524229b3",
+      "sheet_page": 4,
+      "trial_id": "C-10",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "38a516445d31a0bf3408549bd1158a1db23eb8ca234beab62c968d9baee28efb",
+      "label": "n",
+      "status": "accepted",
+      "geometry_sha256": "b2b8ff3423888e577a7fc146dd35368fc5780bcfdf256ec635aa39066ecb4416",
+      "sheet_page": 5,
+      "trial_id": "C-11",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "ac9bb21b999f60cc03a2bfb4ab75a279fc59b4a87c0eb7311d3eb6cedba68bbd",
+      "label": "s",
+      "status": "accepted",
+      "geometry_sha256": "e7f7665d5754c1ad82e2ed89faa83c4026f299876ced76d2a3dea4495b7c121a",
+      "sheet_page": 6,
+      "trial_id": "C-03",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "2e104fbc5f3ab2f0bbc044addf1d951bcda6b41364d98b591b7b9532ac81d1c3",
+      "label": "u",
+      "status": "accepted",
+      "geometry_sha256": "cdee978fbce7e5e3b516d600286984e9aff5eaf573a2cbe77d3d95a3c191a10e",
+      "sheet_page": 7,
+      "trial_id": "C-10",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "509339180b62a8a04d1a54b7595f7bade67bd4a2e852607c46e6578c8f24b037",
+      "label": "ジ",
+      "status": "accepted",
+      "geometry_sha256": "f1cf2500bbe42bdd6a3b86ed010bcc54deb4ec6e6edf6ce229ad85c4bd42aea0",
+      "sheet_page": 11,
+      "trial_id": "C-01",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "aec848eb3b352882530c5fbaaf4972cf25dccadcbba7e7020cb0fc850bf776be",
+      "label": "比",
+      "status": "accepted",
+      "geometry_sha256": "d3e1e7a745f3a6371fe21c2c07b89eed186c530c2e37da5836b7126509392654",
+      "sheet_page": 25,
+      "trial_id": "C-03",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "ca67e2df6ea33f289d67b872291c849e0489b780f7be6ce514ab18731ba96481",
+      "label": "氏",
+      "status": "accepted",
+      "geometry_sha256": "725aae652a15747abc7e80914523bc0b4b68a9ff373b6f91e699abac4097c009",
+      "sheet_page": 26,
+      "trial_id": "C-14",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "3a2bfecdb359905ccd3be1a624819cc7508e35e484ee73d41d3cdf663731c36a",
+      "label": "番",
+      "status": "accepted",
+      "geometry_sha256": "2049662031905353916a1bb610d810ba577d5b56e5a9caca4baba53186b8c8c4",
+      "sheet_page": 28,
+      "trial_id": "C-01",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "774ac50eae484ddec098e3d40c10259f639b9d02ed70686b1117c7040339e08a:alternative:睡:split:0",
+      "label": "睡",
+      "status": "accepted",
+      "geometry_sha256": "17ec4f016e217d162c42b6766d5acbf35c002bff4fd6d634aa2a8a20282c021c",
+      "sheet_page": 30,
+      "trial_id": "C-01",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    },
+    {
+      "id": "2164e1883e04820969ecfcfb6ba46b6e14921854b17b9b4756af4d20a5bca53b",
+      "label": "象",
+      "status": "accepted",
+      "geometry_sha256": "745f5239da8d89e5a6f2a2744f35c054c1d63c29dabd7d569e73606490a1de44",
+      "sheet_page": 36,
+      "trial_id": "C-04",
+      "reviewer": "Codex visual inspection of original ink; complete letter only"
+    }
+  ]
+}

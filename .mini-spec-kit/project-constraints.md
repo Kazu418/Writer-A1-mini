@@ -1,0 +1,13 @@
+# PlotNote project constraints
+- Python 3.11+, macOS first; local/offline conversion after installation.
+- Input: text-bearing PDF with vector diagrams; standalone SVG also supported.
+- Output: physical-size ordered stroke SVG, PDF/PNG/HTML previews, per-page G-code and Bambu package.
+- A1 mini only: nominal XY 0..180 mm; actual reachable pen area computed from calibrated nozzle-to-pen offsets and paper placement. No guessed calibration.
+- Preserve source layout, character order, stroke order and stroke direction. No automatic resizing or path reordering.
+- No raster tracing/OCR, outline-font conversion, live printer control or autonomous paper changes.
+- Images and unsupported constructs fail with actionable diagnostics instead of silent omission.
+- Generate no heating/extrusion/homing/probing routines. User homes before mounting pen; software export requires calibrated profile and explicit homed-session acknowledgment.
+- G-code validator independently checks command allowlist, coordinate bounds and pen-up travel.
+- Physical calibration and hardware execution are human steps; software must supply calibration workflow and cannot claim hardware verified.
+- Tests must exercise actual PDF extraction, geometry, negative inputs and end-to-end exports.
+- Existing PDFs/ZIPs outside PlotNote are never modified.

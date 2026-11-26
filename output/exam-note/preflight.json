@@ -1,0 +1,100 @@
+{
+  "calibration": "not measured",
+  "executable_files_created": false,
+  "physical_drawing_verified": false,
+  "content_layout": "4 square pages, 2.8mm body em",
+  "pages": [
+    {
+      "width_mm": 148.0,
+      "height_mm": 148.0,
+      "strokes": 3567,
+      "points": 40728,
+      "ink_mm": 4908.407,
+      "travel_mm": 6385.02,
+      "warnings": [],
+      "file": "a1-mini-note/page-001.svg",
+      "bounds_mm": [
+        12.0,
+        8.429,
+        136.0,
+        142.17
+      ],
+      "export_check": "passed using synthetic profile, in memory only",
+      "model_minutes": 53.8
+    },
+    {
+      "width_mm": 148.0,
+      "height_mm": 148.0,
+      "strokes": 2787,
+      "points": 30595,
+      "ink_mm": 4882.421,
+      "travel_mm": 6833.928,
+      "warnings": [],
+      "file": "a1-mini-note/page-002.svg",
+      "bounds_mm": [
+        12.0,
+        8.416,
+        136.0,
+        142.17
+      ],
+      "export_check": "passed using synthetic profile, in memory only",
+      "model_minutes": 43.5
+    },
+    {
+      "width_mm": 148.0,
+      "height_mm": 148.0,
+      "strokes": 2406,
+      "points": 27658,
+      "ink_mm": 3591.22,
+      "travel_mm": 4751.373,
+      "warnings": [],
+      "file": "a1-mini-note/page-003.svg",
+      "bounds_mm": [
+        12.0,
+        8.349,
+        136.0,
+        142.17
+      ],
+      "export_check": "passed using synthetic profile, in memory only",
+      "model_minutes": 36.7
+    },
+    {
+      "width_mm": 148.0,
+      "height_mm": 148.0,
+      "strokes": 2454,
+      "points": 29991,
+      "ink_mm": 3742.881,
+      "travel_mm": 4854.482,
+      "warnings": [],
+      "file": "a1-mini-note/page-004.svg",
+      "bounds_mm": [
+        12.0,
+        8.313,
+        136.0,
+        142.17
+      ],
+      "export_check": "passed using synthetic profile, in memory only",
+      "model_minutes": 37.5
+    },
+    {
+      "width_mm": 148.0,
+      "height_mm": 148.0,
+      "strokes": 377,
+      "points": 4811,
+      "ink_mm": 714.673,
+      "travel_mm": 1034.614,
+      "warnings": [],
+      "file": "pen-test/page-001.svg",
+      "bounds_mm": [
+        12.0,
+        8.341,
+        136.0,
+        142.17
+      ],
+      "export_check": "passed using synthetic profile, in memory only",
+      "model_minutes": 6.0
+    }
+  ],
+  "uncalibrated_export_gate": "passed: blocked before output",
+  "notes_model_total_minutes": 171.5
+}

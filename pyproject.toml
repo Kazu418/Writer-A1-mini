@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "plotnote"
+version = "0.1.0"
+description = "Ordered Japanese pen strokes from PDF and SVG for Bambu Lab A1 mini"
+requires-python = ">=3.11"
+dependencies = ["PyMuPDF>=1.26,<1.28", "fonttools>=4.50,<5"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10"]
+
+[project.scripts]
+plotnote = "plotnote.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+plotnote = ["data/*.json", "data/*.txt", "data/*.html"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

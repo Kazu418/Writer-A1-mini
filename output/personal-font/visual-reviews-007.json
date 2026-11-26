@@ -1,0 +1,13 @@
+{
+  "format": "plotnote-visual-review-v1",
+  "reviews": [
+    {
+      "id": "7ed4b382af2993d67fc068216195278986aad5fc16fdc4691ae15a833cf42418:alternative:尺:split:0",
+      "label": "尺",
+      "status": "accepted",
+      "geometry_sha256": "57c45f3e4407761d292180abf95e3685dabde44bef2ce9a364e22ce4b508c841",
+      "evidence": "hard-alternatives-review/page-001.png / PN-001",
+      "reviewer": "Codex visual review of complete original ink"
+    }
+  ]
+}

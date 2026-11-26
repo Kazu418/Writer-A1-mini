@@ -1,0 +1,806 @@
+{
+  "pages": [
+    {
+      "image": "page-001.png",
+      "page_index": 0,
+      "glyphs": [
+        {
+          "trial_id": "PN-001",
+          "expected_label": "6",
+          "exemplar_id": "253b86ef2abb5c6ae47a3a9a013169b9cd28cef354cb83c4e7f34fb49db8e7b8",
+          "geometry_sha256": "d4e9da928d0b40ce0988573d2efd5441edd06fa379f8c60d0bd1268abc12f2bd",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-002",
+          "expected_label": "D",
+          "exemplar_id": "6fc5dc06c8ec900e898be48c65c2a783d2ded2e06f8bdf3669d0efa5af4ae0d7",
+          "geometry_sha256": "6e605ed14061a588d6eea6f6eb79efa8d739df0261e867e453fc83d2340322e0",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-003",
+          "expected_label": "G",
+          "exemplar_id": "99292507176a55f7d3ff16dbd29a40950bfb96d11fd2d48234eeda5a92289d12",
+          "geometry_sha256": "ab447a276522cc6c04bf0e6cf6263ecc2af936293e029f7c26e8f2cc6dbd3954",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-004",
+          "expected_label": "b",
+          "exemplar_id": "c691e4aca698297c4cfe6baceab9bc1b2ac5d8ac40713328bc3b27dc46c9b1ea",
+          "geometry_sha256": "e74550f099ebc0fe75f4e761bd7be7eacfdb73f06c817937189440147285d64f",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-005",
+          "expected_label": "d",
+          "exemplar_id": "a626ba994ed82da033c34990547bc7873502177873d87298e86cce6a763c67bc",
+          "geometry_sha256": "2c2fdaf860d0ef465d7229531998b87b2ecd3eced207a1ee1576f942ce37af27",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-006",
+          "expected_label": "g",
+          "exemplar_id": "e43a0e2fbe26b2e47e87991085e5dffbe721dff82981de5054b44dc2b667f3ab",
+          "geometry_sha256": "0f311de49d598409a903e75914a1ccc933495419352406a090af078db35a8838",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-007",
+          "expected_label": "u",
+          "exemplar_id": "a90a86aa0d8d161d8d3d49ffb35bbddab30326e5b6e78729efe032c9cc93486e",
+          "geometry_sha256": "2f43a64418d508f225364980ac5a8d17031ec358e894f03b5535cca8c225a966",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-008",
+          "expected_label": "像",
+          "exemplar_id": "9de343d062dc1b32fd6d7b6ffce1e9f7125264e08700e28287905bad38cf9e7b",
+          "geometry_sha256": "6727c5427234f8f53dae5a1305d8dcbb5e93d8b166808be6d8534a29a4920f29",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-009",
+          "expected_label": "原",
+          "exemplar_id": "c1f376fa3519e9cdc080251a02528bd79cdfdf13a9e5a4d7c0f2075c5fc3351f",
+          "geometry_sha256": "009c2328b6c4cdf3debe9dafe061d0f1f27717c0f71fefa9b51c9077d6a8a702",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-010",
+          "expected_label": "学",
+          "exemplar_id": "d3435f755667251a4d696e035a67b3a5d8f0326633c66306d500ada7b2fb6b5a",
+          "geometry_sha256": "0b6f8b98bda3323013f3b8a51af08169483e7648b565547dee5294b89c58db77",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-011",
+          "expected_label": "展",
+          "exemplar_id": "25f51807d07f0047155f77daac372e93d22292e0bd1269c3155cdc64c4a210cb:split:1",
+          "geometry_sha256": "c07311b6ebe5f96778a5c642fcd5773442a0b53cea242959f827fbb1ae583409",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-012",
+          "expected_label": "心",
+          "exemplar_id": "ec7b17bc10cae8ccb1d15b2c82793f8ef70e784c30de18d3b75b66981c1a0b73",
+          "geometry_sha256": "c438ecf3f576da579ffdcce498cd1b5e11b4b234a30eb6c2d82434da12b3bd84",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-013",
+          "expected_label": "結",
+          "exemplar_id": "f7902dddc4d6bceb37f3dac71e22fbcceed0ed07fdfc3c3f9035f0bfc0a560bf",
+          "geometry_sha256": "83946fd6df114cd7852d9fa71e837ac031c23ce31f33f6479d7d4e4f8337fad3",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-014",
+          "expected_label": "続",
+          "exemplar_id": "4e648ee5c403a1d8395e9ed9ab801f2079ec0fc89d41205459c16cc9ed16d3a8",
+          "geometry_sha256": "5e3d477eedd6787f0ed1e0d23886d1672d9039306427816f356dca5be15d8f7c",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-015",
+          "expected_label": "融",
+          "exemplar_id": "f73a733a27d8150f3e0320cb3d8b3e5e59cb9d8ceb1ab75203a3e7fb0c593549:split:2",
+          "geometry_sha256": "ff1f656822750a6c68867df5dce16c5bf6a7f51da00ef3279a7339e330898832",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-016",
+          "expected_label": "西",
+          "exemplar_id": "156d882f20564ad37114817f446eb2337d34fd40f471d6e6c6096fc036a0457f",
+          "geometry_sha256": "ea6f5d4b7375089a07c9eb968e5f4489cd1dc762dfcc79652012a374f6da96f0",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-017",
+          "expected_label": "販",
+          "exemplar_id": "27006e54130f330f9f9f3d9744c6e6293880821503e7676fbcb6c2b03f013782",
+          "geometry_sha256": "2a1a323e44f0b6d7f451c95385b794934f6c0410b0859251350bcc21a9ab49f4",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-018",
+          "expected_label": "質",
+          "exemplar_id": "8b84d9463d89ce6b2a9141293298bed272c08bedaf81ff712c4a8f25b4485d9b",
+          "geometry_sha256": "f431aa0a6b675d6dc02de2e5017153e371cab2da6f82a3790009d703ab9129c9",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-019",
+          "expected_label": "追",
+          "exemplar_id": "1c1c0db2b15d0ec5890f2f54fa796bd4964279556043a6da1a36fc0b520c0003",
+          "geometry_sha256": "782da4f4f87392fafdc6a4ea996668cc78113de6d0ef800e9ee0700fe72bfed5",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-020",
+          "expected_label": "逆",
+          "exemplar_id": "2faaa30c2521325b5838f9d025cae39e965fb553e07cc7f508040bcca7d0f613",
+          "geometry_sha256": "6fa11e9187eae1ed80a18f93ff0a1554e3066bdfc18567039524e58a82dc9498",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-021",
+          "expected_label": "通",
+          "exemplar_id": "eff518a3e1a7e64efaeb5a454eee8f1eb7410855f617e8513392f65428e6d200",
+          "geometry_sha256": "424a5c64d0450a1f49e6fcc5969680a5e839bdccba78cb2349da7bb62374708d",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-022",
+          "expected_label": "速",
+          "exemplar_id": "ef00a2304a77dd510a16c70644821d62f3fd27ff410f6e0523fb42604b7405a3",
+          "geometry_sha256": "ede9d79e008c055f8bf4a0732381ae3f892d922baa7ca939c166a5b9346f776c",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-023",
+          "expected_label": "連",
+          "exemplar_id": "d479bba0171487ac6786471545074a03a8e7989f16183534d232e7622f5a75f9",
+          "geometry_sha256": "6ec0ae03d70376db2b87cdbd5b443dcebc658bd3d7b9f22c1201c144c4f3215e",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-024",
+          "expected_label": "過",
+          "exemplar_id": "7aed97dda129ffe52dcefd52f76f545b9003a6cb0091ec50fdf7e7ffa036ecf5",
+          "geometry_sha256": "615cc2190d10c0bd9374def858704809d2be1f49906d4fc2d12e8df397e6dbef",
+          "previously_accepted": false
+        }
+      ]
+    },
+    {
+      "image": "page-002.png",
+      "page_index": 1,
+      "glyphs": [
+        {
+          "trial_id": "PN-001",
+          "expected_label": "選",
+          "exemplar_id": "1d4800ceb462d42a49cb3c665378fccfe2d82b3ad1c2ee932ad3749c1d84346c",
+          "geometry_sha256": "66ea3ac60740ad4cbe6b799298a2858939145df5d1bc6a7d58066e9849e5ba6c",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-002",
+          "expected_label": "重",
+          "exemplar_id": "f69b3b6f483940ea13cda9d6a7e2a45a0148bac5cbb5c356e73cb8b49edb4c04",
+          "geometry_sha256": "9ccd8091cd1b288163acdd84c3210a1abb49e34d1dfb0c32435c874a9752d00d",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-003",
+          "expected_label": "量",
+          "exemplar_id": "1b91d82f1935094a6442385db51924b3dd959d079ca901028e9e7bbafd283656",
+          "geometry_sha256": "1cac33d6fc5ade7dc7af2c3825bbf2eec8ac88d297bdb4cb7e9346c0c6fb092b",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-004",
+          "expected_label": "長",
+          "exemplar_id": "a8be02d2eeeb6a2fad4f8d135bc3f7ecc70880cbb681ab0c999d706f6e022378",
+          "geometry_sha256": "a1a439fdb0d3408fda50e3014de458af493dcb3a62348e95fa2608806e9cb7b6",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-005",
+          "expected_label": "間",
+          "exemplar_id": "ec42b2c6820667e373ed703c6cb01ff31097a88cb817b48cf5dfd62bde0af6fe",
+          "geometry_sha256": "ddefdd2e53e673ac186197e0ed35de61ac51c8af4bfb6aa47d1a620f3466e1e1",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-006",
+          "expected_label": "関",
+          "exemplar_id": "9bd1bdc5e4f508a50aec6c7bf1ac5d36c18b21e027858cb8df56e0112e5e31c4",
+          "geometry_sha256": "6480f0b07ea12bdbf8288a971dae6d5dab7edc5548e32126b5196857ec6b8a8f",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-007",
+          "expected_label": "除",
+          "exemplar_id": "9bf271a926defb18f9f42a38f39f4966c712c563500f9d343c4d8815405a85ec",
+          "geometry_sha256": "c4f0d87ab60057f80d4f3d57b3a6f1cb0f319808f96252f70c7279570e937c1b",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-008",
+          "expected_label": "隔",
+          "exemplar_id": "1c70f390d5e75e7c029078a37400c9342e836d7b9fe3ef2f95eced58fc9d87f9",
+          "geometry_sha256": "d1b77cfe2bb41bf45be92332a1b32156b86bd1dce4ddce270ec13ebfdcb991d5",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-009",
+          "expected_label": "集",
+          "exemplar_id": "4f54aec237bd28fb9d5a3d8e15a4e1c83ddee72ae6c7c31b2cac3dd49ebd8300",
+          "geometry_sha256": "c9225541d1f948b7fcf48c920f71e2a1839267a8733db49a44637a32c034beaa",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-010",
+          "expected_label": "離",
+          "exemplar_id": "01601c13394908fb3e7795176ec5a3d1a329904b5fedc2b3dcd3dcbc37159993",
+          "geometry_sha256": "8e3d4b9ba1e8b86e7780808f46881f511d43c4f188bcb2309abf0e1e55741cec",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-011",
+          "expected_label": "項",
+          "exemplar_id": "35d6df4071e46330b62e23e1ed397a0f6f3036e6762a7e1a6f6c3367d5552177",
+          "geometry_sha256": "dab495b48fa97c543d1dfadb5fbe13ea1e18a9000cd9050ac5c55e4f415016fa",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-012",
+          "expected_label": "順",
+          "exemplar_id": "cfed55065440577a9c41e1de1f1a6bce56337d5ac983fdd9a77bb1067e8e4400",
+          "geometry_sha256": "7a59a8fd378fb9ae875e25b441ec4c40e6ae6ee1b4f0999a2e157ad09148a00e",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-013",
+          "expected_label": "領",
+          "exemplar_id": "814822f3ab2541abb8389fc89ea7efacf60eae372ec7f059e46ccae68dc69cd5",
+          "geometry_sha256": "4fbcb77f1e4c3526818610348a488c91919db59665e3a48d155b98ea226bbc83",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-014",
+          "expected_label": "題",
+          "exemplar_id": "365455f0d275143fab56184b9b1c777f6ddbac1b332b191ce190f7d13d49eb83",
+          "geometry_sha256": "b175c5544a3d97e8193055489e8a02af08e7b0d826ac373c0e860561e0aaf0d7",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-015",
+          "expected_label": "類",
+          "exemplar_id": "5849a22a1472f6bf3decbd3adbcfe6aaafabf2a7e7d7a171945035e1bcb815e9",
+          "geometry_sha256": "2da37685b8927011a6ee6523be9bb5ad173e3fde2fc3d7fb6a0b8901295a3b03",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-016",
+          "expected_label": "高",
+          "exemplar_id": "0e5ea40236cbeda94f8dc1c109e20c3b08faad5ae542dded65f6c94c4760c567",
+          "geometry_sha256": "e76ce87edfbc43f9dd07bb006ae882ede3e40229d1e4aa619ec9c168db2b8e3b",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-017",
+          "expected_label": ".",
+          "exemplar_id": "53a14b189f482f945ea7a7dd11cec58576113fa7f222b8ed4bfb82d6a5d9c25c",
+          "geometry_sha256": "c6695f939c4bb2afc7e1897668b83d9a5a0a7aef5901dd968366962dc17fc05f",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-018",
+          "expected_label": "h",
+          "exemplar_id": "a5d3c3138b3a0009cbb597952153e9d587669405da2adbdbc1acb56e4d5d9721",
+          "geometry_sha256": "8bcfbd2d672d9dc11a4e47bdf7083fe40d85855a9b6cd6cbc5c2aba29a5aff00",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-019",
+          "expected_label": "i",
+          "exemplar_id": "337ef323778e1c2d57792e3c011eee0f4093cd21875b7f10197f590e1b51bad5",
+          "geometry_sha256": "bdc20dbaa9195fa8dccd1da9502c67d967afb7735b52187b6ebb0579f0db522c",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-020",
+          "expected_label": "m",
+          "exemplar_id": "61c9d0bd13530802366a8de8da3e0bfe883ae9d451738039833a3bedb960292c",
+          "geometry_sha256": "6a9c254e799e9f9b96b4df257cb76163dc098db4fee91d50af02eb8435ff4f02",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-021",
+          "expected_label": "n",
+          "exemplar_id": "d01377dcf9539f5915250fff4f6d596467a08e9ae3f52ebc96e048d5fb2c6a00",
+          "geometry_sha256": "33a14f598b20831a3cdd697d0756d1b50b3a724599392d3e2cf858514f27892c",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-022",
+          "expected_label": "s",
+          "exemplar_id": "ae2f435eecf14c6986bb513948ce1a69ff3ee7d1441dfcd970ece26fa4f373a2",
+          "geometry_sha256": "00dab0b8bed6bd5606fbf792018120daace359509ad0c2fe684bbc7ae0c201ec",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-023",
+          "expected_label": "、",
+          "exemplar_id": "857b0abfa38bd9c6b6618f377aa8271a8f0c6b8cab78738d1c4101b0d4b5bd26",
+          "geometry_sha256": "f18aa9881ab70506fb0c8708140e05a263b2db8c4f4ef5b745fc48001cfd9f64",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-024",
+          "expected_label": "。",
+          "exemplar_id": "fc5ae8baad2cc8cae9417ca2c368753f832d92b0c815331610f8292958938bda",
+          "geometry_sha256": "e2c25ba5783e20af8666563fb3dc761af55bf0528ece69b31cadebb695d68320",
+          "previously_accepted": false
+        }
+      ]
+    },
+    {
+      "image": "page-003.png",
+      "page_index": 2,
+      "glyphs": [
+        {
+          "trial_id": "PN-001",
+          "expected_label": "ず",
+          "exemplar_id": "eb7cbe65e8a3f95a97a8102de18cdbf4fb7357031a8de9c85d774bb87492354f",
+          "geometry_sha256": "1d2ec34a97c71c3b5529f3cb2f5eec9a968d2d9bf61b29f84ff6d6db76a45493",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-002",
+          "expected_label": "ィ",
+          "exemplar_id": "3731774667acd42d12cca7f360a6ada73093f9a2d2b68fd88486929912f272eb",
+          "geometry_sha256": "5cba01d05ef4a018c76ec1242737054cedec9dfdce34fbce2f898294c19026e1",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-003",
+          "expected_label": "ゴ",
+          "exemplar_id": "b3890f4e5b43d83ea0c5892dab25f02092639b80f9fa0760a7a34492dbc138cf",
+          "geometry_sha256": "7cdec892dd7d6509a1251b006761cac2e5efd1c7bc9339dbd05c96d08da9a19a",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-004",
+          "expected_label": "ジ",
+          "exemplar_id": "7b60937ba6e8a247844c2a80f94c68055b69d2247633c293291d09cf1e1f6dd2",
+          "geometry_sha256": "256dddfdaf8b72252c0af1954f53d068e3802b84bea75aae7f4bf24878fb804d",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-005",
+          "expected_label": "ズ",
+          "exemplar_id": "93bba37219fcd573346201728d203a1884923ef77b6113dd76290afdd00998fc",
+          "geometry_sha256": "4a51e0860eeae02d94e81f8ff4d007b7edac5ece35d31717df667b590aaa9d74",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-006",
+          "expected_label": "ッ",
+          "exemplar_id": "b6fb2f04f602105d0cfabfa447e30fd25ac53d9c480b534b482a8780bd8253e8",
+          "geometry_sha256": "c99d42be08e07a5de4c7c0a9896fa868681d68ed79cb05ac7df59f703ecb4b67",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-007",
+          "expected_label": "ビ",
+          "exemplar_id": "064dea47b1ff9e1083debba97f94a0e124fce6618083e908a4650580cf828332",
+          "geometry_sha256": "c2f4cc8a13680cc7bebaa93d915a133ca47d009074463119ed4f9a5af7151cfc",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-008",
+          "expected_label": "乗",
+          "exemplar_id": "5cd4b033c2a932c243ae5eb3c08feb33984d844b81d85febe0c2c83ad5c1337d",
+          "geometry_sha256": "30fed04e7f34b707b1cdaea1b496042bfc6c88090466f1910e7bb7ab47e5a72e",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-009",
+          "expected_label": "件",
+          "exemplar_id": "f094b232c9d442e5b7b2be6199528cd859f7145cb265a5033c142bd505e67d4a",
+          "geometry_sha256": "bb97fae8e1f734ec1bd778b9fdb1a42569f3fb039e084dc64075d8d0c1c67c9c",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-010",
+          "expected_label": "何",
+          "exemplar_id": "c04c4a3fb435907423c8b20cf6e96ef5b3cde052a90b71ea19cdd3eb6caf8e76",
+          "geometry_sha256": "209ae8bdf634b7765a604786a6d7f5e69ffc5960e5c66aa8a3bf845644ad28b1",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-011",
+          "expected_label": "判",
+          "exemplar_id": "0f8137248a8828bb56c07191f12e4bec91a96ac3fb463c510d596b139ab3848f",
+          "geometry_sha256": "3ab0153002005bc15dec4de4948316e4df8cdf4e077932bbadf3f65a7ff584d9",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-012",
+          "expected_label": "加",
+          "exemplar_id": "6f0e01a03ad762c34e01696a997109dff2c48a2e61715e55f92385c1fccf81fd",
+          "geometry_sha256": "0747ab9a961b3b3ba04a8bb8c5ddccb4bcca56870ec39cc846d5fd33181372a3",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-013",
+          "expected_label": "可",
+          "exemplar_id": "3a73ea965102d93831f86c1a685cb701d1ff44474ae67ff3a11e08128f58ad12",
+          "geometry_sha256": "b602cb61d82a92c53c2df8bf8a22ce287b60b4061e9d283cc157e73bf357a329",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-014",
+          "expected_label": "号",
+          "exemplar_id": "79f224bdc3716aba9fcbb5071aca497378a01d1ac0fc388422466a30c67bcb11",
+          "geometry_sha256": "84d1f74a0befbc6b2ed474d74f5d7a1f59722e84fee7474bcf9b19e67a774ea4",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-015",
+          "expected_label": "和",
+          "exemplar_id": "7414d18f0ff11c2d1e38f4c0a45cd6f410c8133da3a2b497753c64d719c90ca1",
+          "geometry_sha256": "fcb95affd501f4c7be61ba6e34a261604aec7ad25cdfa8cbeaaf766fa36bccfa",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-016",
+          "expected_label": "善",
+          "exemplar_id": "f234fe3f28d4c217f18b19c1d09be0ebdaefeaeefa89f41d5e1ea759b14dc3af",
+          "geometry_sha256": "b54a129c5ba06966d0c61adbf791d1b10c53fe421fb13018559c231f28d13b21",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-017",
+          "expected_label": "四",
+          "exemplar_id": "66fc5ebbaf373ede246c43598650ed775fec7f27ce7a2200cdecb50efdc34e18",
+          "geometry_sha256": "40f6d1d90a2860333aedc3fd1087e2f6dad8af4be93cbaa0356dad4ea43b968b",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-018",
+          "expected_label": "域",
+          "exemplar_id": "4997b5c1b462218c4cebbd2d97a5fe627992992926da2d7d05329846def1e471",
+          "geometry_sha256": "98e1c8c9a26661824f181dbb0849961925be568ac24c9d38d2e1da92692d18e1",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-019",
+          "expected_label": "多",
+          "exemplar_id": "d7d42bf7048eb5ba416e5b4ccd2e586c8a657a50952f61bfaa2df307c21ddef4",
+          "geometry_sha256": "4546eb0c9304f4719ac0046651d24a24d60803306b4ea1a15ded5008a4d18980",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-020",
+          "expected_label": "央",
+          "exemplar_id": "e0811c43acb8daf459a031316be0be06315e64efae3a8bd56e65426a43a831ac:split:1",
+          "geometry_sha256": "fe09f613ec4517096ffe15b7e6ab30af24503ab7981c81f0aad35518638492c5",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-021",
+          "expected_label": "平",
+          "exemplar_id": "fb994db4dc3c9be31b86cab76184dc29c5e8ff0e58f4dc2061b06d6767bfa47d",
+          "geometry_sha256": "69c63684d9c7425f6cda83c71493d1cc497c41f6b9e908cc7a3ea80c6ce307d9",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-022",
+          "expected_label": "幾",
+          "exemplar_id": "8b0240d73eccd6f98e61d5405989982b71f5398d9292f6112ed8647a90529b03",
+          "geometry_sha256": "f80714cf92787e2f6fa3964026b9605ce8a4bd991a93dd28dc9d1a0e5588cfa1",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-023",
+          "expected_label": "広",
+          "exemplar_id": "b0d1f862a44ed3dd94037cee3f04de56ba4e86b08a584e2ea7831ba0507fd9fd",
+          "geometry_sha256": "9401f7b080c1a90225897cb2fab4ce34e18fd9eea36f03a0c0702e1b2a6b7b14",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-024",
+          "expected_label": "徴",
+          "exemplar_id": "091e6a0dd76380d74c259a09f6414190b937e1b570772c07e22139a1a961238a",
+          "geometry_sha256": "8049839e560dc27cc0f1bcb5ece29ded8135b7f92805ed435826621bb8e1fb7b",
+          "previously_accepted": false
+        }
+      ]
+    },
+    {
+      "image": "page-004.png",
+      "page_index": 3,
+      "glyphs": [
+        {
+          "trial_id": "PN-001",
+          "expected_label": "断",
+          "exemplar_id": "3cf06171f3f62a59c4da5f1b4c0f0733766ed833d1c5cb03db2e8037d1fd2ecc",
+          "geometry_sha256": "c59d495b667aabb55f8b51ba82f6f5f4bbcf6c96185055172d3c296daa414046",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-002",
+          "expected_label": "方",
+          "exemplar_id": "d324dbdf6839eece56ca466e98775fb7b11f2ab9592be0ca34d37d9344b6fd82",
+          "geometry_sha256": "072b02285a6989be5bb90c470503f5c1299b04cf369f059963ba9f2f320f1425",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-003",
+          "expected_label": "景",
+          "exemplar_id": "3964264b3ffa22df3134fd82cf5020d5d9b9729c8f344030054b24a3a8d13f34",
+          "geometry_sha256": "42a56bf195b7d400cf9e81162d7e021364d6418c9a2931b7fe076c9b3d2ba581",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-004",
+          "expected_label": "更",
+          "exemplar_id": "fb4f93e2fee6069df03d6ddce77964a9399dedb8a1b70a6ed1185d4dfc556435",
+          "geometry_sha256": "d0f0e5c5221228dcf380ec5b0d11a6897aec77615e4416dd1afa252525fef2ff",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-005",
+          "expected_label": "条",
+          "exemplar_id": "db27725fb71d651bea827d4bc83afeecd43cc179a80f135221d8ee14bb34437a",
+          "geometry_sha256": "de450cbf8d9a93165ab97990dd5a2a857c9677c78a440eebd6733d024e84a20e",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-006",
+          "expected_label": "果",
+          "exemplar_id": "1a7f4962a600ef8e33a565aba82997c868097f4f67c0836aa974ff37557cadf4",
+          "geometry_sha256": "45c301f30ee93facdc6fd16b58f0df79d74ec84a4f9069e7ebadc69bdc23905a",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-007",
+          "expected_label": "機",
+          "exemplar_id": "e30980538c2608183c2f26a38c72b397f43d56038e3f801c68a2248aceb7b188",
+          "geometry_sha256": "1b8eddca4c74fec1b46f7d105bab9e43b200c9ed355a69f32b8d22735ee20e5d",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-008",
+          "expected_label": "段",
+          "exemplar_id": "3de1c95a391119fa17af9a42cd7e5c3178376d1737f530a22b999e3a5c027862",
+          "geometry_sha256": "df83f1b58e6bbed8ee6c28ed9a375ff90578517591ed1ab3d09eb7c94c384436",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-009",
+          "expected_label": "母",
+          "exemplar_id": "07ba4b312397091af632c6861c7c65d7868b9600337da3a92a5f85fe67fe023e",
+          "geometry_sha256": "375cd086f0fdd3201e498db8caf13c531dea43bef66225852057c2bf05b01c1c",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-010",
+          "expected_label": "比",
+          "exemplar_id": "01186e375391720b1d059936426cb588228c4d29a3f9217a40472fb46a6f66d8",
+          "geometry_sha256": "e77428029e3cbb928f01afbfdb435cb4254ca096a7b409973adf5b393106138b",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-011",
+          "expected_label": "氏",
+          "exemplar_id": "f070b1620f9b5f40243f837e8648bdf686afc0f2862c478e8af6b517c868631b",
+          "geometry_sha256": "fbafd9b217c5ef9c829cd5d45e0012eff2ac7fd11079d1ff5afa22b5f9bceb1a",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-012",
+          "expected_label": "温",
+          "exemplar_id": "356bf5cf0725264edf5b25e3d02b5ddc3c6ff85b1eccccd8ece2647e49644b87",
+          "geometry_sha256": "b7f0c2e11b4f4765f990505fc115d1283e2db7b934fbf0456033fc9cab0d7bd7",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-013",
+          "expected_label": "源",
+          "exemplar_id": "787be8df75a6060a8328dfbc8b15de898fec98accddabe8d1f06104be643bc12",
+          "geometry_sha256": "0302231bb52610cf1c5c89e87598d4ca8828d6c4fba7acfd7d4a820336ee8306",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-014",
+          "expected_label": "状",
+          "exemplar_id": "3c1526452c693f1056e23d5716592063f7f5622a09aa2266c5d8b07e3ea5336c",
+          "geometry_sha256": "7beb06c935adb5906b3ec536622287d17e2a0d4ccd30eb8f008d9722d507f247",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-015",
+          "expected_label": "現",
+          "exemplar_id": "1883cd47a2aa52689f5f47eea36adb4b7a72e3a99b037748c5890834e4b05bca",
+          "geometry_sha256": "9daa6af3d3a4f90611daef1232c209c57023eddc0fbaf4fcea57fecfdf458949",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-016",
+          "expected_label": "番",
+          "exemplar_id": "a6db47427be2eedd2cc914e7fc53021fe1bbbbfaf9a72e24f481502fccf15fbd",
+          "geometry_sha256": "0f36fe65d564e9c1971568ed998be6fca9f41c9843d5b6943d15d07e860aa98b",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-017",
+          "expected_label": "眠",
+          "exemplar_id": "c7ab6523d51ddbb7b4951138b78d15c4e81216dca0d5e8667845b1253e931250",
+          "geometry_sha256": "45301d0101bc47993097809e8443f097d499bdc4b6ed26896a52aa1689450458",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-018",
+          "expected_label": "睡",
+          "exemplar_id": "367acf357b1ba0d44b4f9f66e0df3569acfde6ee2e92a7320ba6135435f764ad:alternative:睡:split:0",
+          "geometry_sha256": "a31f07e5cf3a52c8a87c61b7f07aad74a1565948f027ed942b0342b160944d9e",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-019",
+          "expected_label": "積",
+          "exemplar_id": "8d81590f942592bfa01a17cdfe9b590fca2fa2a8c74f6b3e9e81fcd8997cbca1",
+          "geometry_sha256": "e4182b22fef305f43b55fc9a304611c02b4a275a9e13de650a2a746079b6f0b0",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-020",
+          "expected_label": "策",
+          "exemplar_id": "6d73ba75f8f41edc75bc94d217f8613569cf48b09aa197e4bfbc1146c50d2e76",
+          "geometry_sha256": "7dc1c33e50bbe9db1ceb48d911b62bbee7584fbfaf1d2818e921c7de896bab7b",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-021",
+          "expected_label": "算",
+          "exemplar_id": "6f8aa5fa038c41dd01293686fd030426063117eac91982a5f6de34167de4f8ef",
+          "geometry_sha256": "98b28d4d7a62d55c75bb66b23dd69bd7544e40d9b1a4c48e103f2b9c1cba9ddc",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-022",
+          "expected_label": "約",
+          "exemplar_id": "03186b98515187b7141f60033880d16f686f38870e075e0c338605142255eeb6",
+          "geometry_sha256": "b526842aa61891a1affecccd83cf8e71105e48074e499064cfb5117d32818742",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-023",
+          "expected_label": "絶",
+          "exemplar_id": "222c95481e24193166ff2ec5073437e79c90ba8d08f48c8ff7732f8a3f1660b2",
+          "geometry_sha256": "d9f34e772abb60cf2d9446d5712c54ab5f7e966ccc3abed89d806cbc46d8d17a",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-024",
+          "expected_label": "背",
+          "exemplar_id": "9dec67338fe1d014c461539a158ee40bf8bc83d3a542172b11c41bde0ef12c43",
+          "geometry_sha256": "4e32c6515ee417fe8382b903af198c867a39c7f5ab025c1f5d1bd9567f5b1056",
+          "previously_accepted": false
+        }
+      ]
+    },
+    {
+      "image": "page-005.png",
+      "page_index": 4,
+      "glyphs": [
+        {
+          "trial_id": "PN-001",
+          "expected_label": "評",
+          "exemplar_id": "2347a0ca446cbfa81fe0f66b5255be2c8c776bcee5517adc8761974240b7375b",
+          "geometry_sha256": "a2d7191401f33de54ea8e16b50d849445357da316c2c4f245c3ca7e8f4f93935",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-002",
+          "expected_label": "誤",
+          "exemplar_id": "728365b7e3c9c994ac952d1b5a0c6fd8f7aa2c4b37d2513085e4cc88ac60d310:split:1",
+          "geometry_sha256": "3c201fe9fa8bc4d8e89e0d47c3ae34cfd63d633acbf085ee9d9e2bbf6de94cc0",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-003",
+          "expected_label": "象",
+          "exemplar_id": "75682729dab43999e5d6359e1d013b6eeb39e80fb6caa588d09edfd34da00cd8",
+          "geometry_sha256": "7f2d66c2a3444dc017f3da6798667b539fd2a76cac94b317a49627a914d4a3ed",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-004",
+          "expected_label": "資",
+          "exemplar_id": "ae9f9271453bf51cebb27c641db5ed0e9e826ec4ef36c6c7701d56e0f8891508",
+          "geometry_sha256": "983f6359f85f70026b28eaf7ba252e3f262a26d2065f84a78e4370903902964a",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-005",
+          "expected_label": "足",
+          "exemplar_id": "0dc0c6dd0ec52a21e04aacaee3cc84706eb135f4aa332093fdab8a9f62578b44",
+          "geometry_sha256": "fc6a3559de42cc0208c5b2f2a12de67abc3b92fc8fb407264ab751fd0d36849b",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-006",
+          "expected_label": "違",
+          "exemplar_id": "67a43fc408978fd17cad2970a59204a12f5407ea7cf6c15f15cc9ed58ed6d178",
+          "geometry_sha256": "81f5f8157a37d347946a365f5cacc46f3b456739205216fc7c9ab609c30349ff",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-007",
+          "expected_label": "録",
+          "exemplar_id": "74789025f9f2279d7e6c78064302f5bd8ca80c332a8cbe8d7320d75cc7a627ce:split:3",
+          "geometry_sha256": "386d75598a4fe94bc1acfcbff90c95872035c5f3e0f6c0212b6bc09c231e1b6c",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-008",
+          "expected_label": "門",
+          "exemplar_id": "bb364430c75167f05479f591f41fb4eb238f685ee2f4478fa5adc7e86aed05df",
+          "geometry_sha256": "645a2a84cf34991fcab055a77006a3996f0e2e64faaddb4bd7bc3ef71577f835",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-009",
+          "expected_label": "険",
+          "exemplar_id": "8c9b0319f8bc645ae03d55a30a83bcdb96200fdfa2feef4b374b075e68a9a64a:split:1",
+          "geometry_sha256": "c89ef790e756b04d7e836ead9d4a244337d65767e341570e1c8e1e25170b7781",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-010",
+          "expected_label": "階",
+          "exemplar_id": "84e7119a8c64545e6bc20445549276621ce94d838cb4688fb5dda87948dbcc94",
+          "geometry_sha256": "35c5d7a0d5f06e83d7f1ad447f1c329ba45597f65801e8053aa06d8d12128c56",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-011",
+          "expected_label": "際",
+          "exemplar_id": "733b3dd9fe1586e8742718917a7c07677442e26a2de010119966b66004491472",
+          "geometry_sha256": "6b8923bc98caeb821194e37037285865829d70b54461691a48828b12c0e14ddc",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-012",
+          "expected_label": "雑",
+          "exemplar_id": "ea130abe876f0f8992badbe6c04666048cbccc34edbf7611820ab2b19bc0a5b1",
+          "geometry_sha256": "7b57fae303fe90754876a7ab4db155368041ae81805002dc8ce4c4f6c8550b51",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-013",
+          "expected_label": "難",
+          "exemplar_id": "0c3fa65fa37a70bed3140aa702e91cde78482f4ced42d7620ffa90416578dd47",
+          "geometry_sha256": "697a9ae744f86d1c06330af0c6cd823fe5e0c5e50ed30686c61779116012a2ef",
+          "previously_accepted": false
+        },
+        {
+          "trial_id": "PN-014",
+          "expected_label": "験",
+          "exemplar_id": "8a00d9a0241434c233db44d9af6944e751e1f15f811055a991644ddcf2a4cb3f",
+          "geometry_sha256": "3c313ea2e2c97b492e5142ce7fcb2c84210fad3dc037dec74e3816cf47adf4f7",
+          "previously_accepted": false
+        }
+      ]
+    }
+  ],
+  "unconfirmed_characters": 135,
+  "selected": 110
+}

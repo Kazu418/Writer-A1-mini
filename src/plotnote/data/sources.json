@@ -1,0 +1,14 @@
+{
+  "kanjivg": {
+    "source": "https://github.com/KanjiVG/kanjivg",
+    "tree": "9457d21a0e90f0071ac73191f45aa5d9bcacc456",
+    "glyphs": 6984,
+    "license": "CC-BY-SA-3.0",
+    "commit": "9d7220dfca09107dca2e0b0e45f90f696185e3c3"
+  },
+  "hershey": {
+    "source": "https://github.com/techninja/hersheytextjs",
+    "blob": "1aa06c45ebf5d620b7709f26cf538a54bc5add45",
+    "license": "MIT"
+  }
+}

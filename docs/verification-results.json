@@ -1,0 +1,65 @@
+{
+  "requirements": [
+    {
+      "requirement": "REQ-001",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_001_preflight.py tests/test_req_001_visibility.py",
+      "exit_code": 0,
+      "passed": 10
+    },
+    {
+      "requirement": "REQ-002",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_002_fonts.py tests/test_req_002_math_layout.py tests/test_req_002_reproducible.py",
+      "exit_code": 0,
+      "passed": 43
+    },
+    {
+      "requirement": "REQ-003",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_003_matplotlib.py tests/test_req_003_pdf_layout.py",
+      "exit_code": 0,
+      "passed": 8
+    },
+    {
+      "requirement": "REQ-004",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_004_svg.py tests/test_req_004_svg_negative.py",
+      "exit_code": 0,
+      "passed": 29
+    },
+    {
+      "requirement": "REQ-005",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_005_artifacts.py",
+      "exit_code": 0,
+      "passed": 2
+    },
+    {
+      "requirement": "REQ-006",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_006_profile.py",
+      "exit_code": 0,
+      "passed": 15
+    },
+    {
+      "requirement": "REQ-007",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_007_gcode.py",
+      "exit_code": 0,
+      "passed": 5
+    },
+    {
+      "requirement": "REQ-008",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_008_package.py",
+      "exit_code": 0,
+      "passed": 2
+    },
+    {
+      "requirement": "REQ-009",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_009_validation.py",
+      "exit_code": 0,
+      "passed": 17
+    },
+    {
+      "requirement": "REQ-010",
+      "command": ".venv/bin/python -m pytest -q tests/test_req_010_cli.py tests/test_req_010_server.py",
+      "exit_code": 0,
+      "passed": 8
+    }
+  ],
+  "total_tests": 139
+}

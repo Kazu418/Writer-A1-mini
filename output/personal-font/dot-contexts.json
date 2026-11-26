@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "id": "19d7d2d0fb13f58839f7677df481813f569efcdfdb5065fcfa72aa5cbd5ae75b",
+    "book": "1st Grade/Chemistry.goodnotes",
+    "page": "0CFD2C40-7EE3-4CE0-BB02-6976DA01DA19",
+    "bbox": [
+      509.0094299316406,
+      1258.947021484375,
+      509.5180358886719,
+      1259.837158203125
+    ]
+  },
+  {
+    "index": 2,
+    "id": "07c2d3c4f3231486b22deb1b65578dc4110919b01d70b5cd8152ff8ce68ac032",
+    "book": "1st Grade/Chemistry.goodnotes",
+    "page": "17B47BDE-C165-4797-9B1D-B76F4BFD9CCF",
+    "bbox": [
+      624.3712827894423,
+      194.96829986572266,
+      624.9464263916016,
+      195.59014129638672
+    ]
+  },
+  {
+    "index": 3,
+    "id": "edac11fba3fbc1acdb1f92970cd992851fb43e8cfcecbb581e858b5c2185d8fd",
+    "book": "1st Grade/Chemistry.goodnotes",
+    "page": "8BF165D8-DD86-499A-90C3-8586E0877F04",
+    "bbox": [
+      50.968902587890625,
+      167.65684509277344,
+      51.61685562133789,
+      168.47113037109375
+    ]
+  },
+  {
+    "index": 4,
+    "id": "780d92bb9355a96bde4ac214b1a032178c62796e72ae8f0165df1d8978de4c98",
+    "book": "1st Grade/Chemistry.goodnotes",
+    "page": "B028AC2E-1F7C-4264-B049-E823C0C617F5",
+    "bbox": [
+      541.09521484375,
+      460.32525634765625,
+      541.4368286132812,
+      461.244873046875
+    ]
+  },
+  {
+    "index": 5,
+    "id": "8b0b97b79a5d58173175c6009f0f460ac7134a89f2f217c446db8b992b280f55",
+    "book": "1st Grade/English.goodnotes",
+    "page": "1D72C807-FFB8-4062-8DFD-224EBC9913A9",
+    "bbox": [
+      301.8072056240506,
+      228.7340189218521,
+      302.9687843322754,
+      229.8646341562271
+    ]
+  },
+  {
+    "index": 6,
+    "id": "18c8e7bc8a5037619d94b24f826d250dc182a9b9371d1022a2747b0e2b586a64",
+    "book": "1st Grade/English.goodnotes",
+    "page": "3FF0829D-2715-4E82-BDA4-00B5D027D6D5",
+    "bbox": [
+      286.61980862087677,
+      393.4605407714844,
+      286.978759765625,
+      394.24285888671875
+    ]
+  },
+  {
+    "index": 7,
+    "id": "c13ad7b6746cbb9d5c694a2026561da216b085b0e9a18a76b9325fc9bfbc2341",
+    "book": "1st Grade/Re/For English/English 2.goodnotes",
+    "page": "6FBDEB2F-7D95-4299-B9AD-4EFC5268F3FF",
+    "bbox": [
+      789.55908203125,
+      419.7692192925348,
+      790.1900024414062,
+      420.37805938720703
+    ]
+  },
+  {
+    "index": 8,
+    "id": "b57aa8c81f402d524809c3e8d6eb0d718079b51dc90420fcc1b23e4ed1c88c1c",
+    "book": "1st Grade/Re/For English/English 2.goodnotes",
+    "page": "D4E58FCB-5838-49E8-9FC1-C71FD7475B81",
+    "bbox": [
+      455.43899875217016,
+      413.3489379882813,
+      456.4701843261719,
+      414.36687130398224
+    ]
+  },
+  {
+    "index": 9,
+    "id": "d74c7f6c5a14b2da9f5f373cf46032dda0563953c55b3c14a17629c65b8d02d0",
+    "book": "1st Grade/Re/For English/English 2.goodnotes",
+    "page": "D4E58FCB-5838-49E8-9FC1-C71FD7475B81",
+    "bbox": [
+      175.83753967285156,
+      463.9893493652344,
+      175.9649658203125,
+      464.161376953125
+    ]
+  },
+  {
+    "index": 10,
+    "id": "95ca2373386e67b217033449fe749cd79b5d63a6b4f266677e6e1a0531ee5727",
+    "book": "1st Grade/Re/For English/English 2.goodnotes",
+    "page": "D4E58FCB-5838-49E8-9FC1-C71FD7475B81",
+    "bbox": [
+      705.9575466579861,
+      649.4125230577258,
+      706.7393798828125,
+      649.9149441189237
+    ]
+  }
+]

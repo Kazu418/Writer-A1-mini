@@ -1,0 +1,25 @@
+{
+  "warning": "Ideal motion estimates, excluding acceleration, corner slowdown, firmware and startup overhead. Candidate untested on hardware; full-sheet placement not calibrated.",
+  "pages": [
+    {
+      "page": 1,
+      "old_model_minutes": 86.1,
+      "new_model_minutes": 25.2
+    },
+    {
+      "page": 2,
+      "old_model_minutes": 71.0,
+      "new_model_minutes": 21.5
+    },
+    {
+      "page": 3,
+      "old_model_minutes": 59.1,
+      "new_model_minutes": 17.5
+    },
+    {
+      "page": 4,
+      "old_model_minutes": 60.5,
+      "new_model_minutes": 18.0
+    }
+  ]
+}

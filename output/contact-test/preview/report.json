@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "width_mm": 180,
+      "height_mm": 180,
+      "strokes": 13,
+      "points": 247,
+      "ink_mm": 44.413,
+      "travel_mm": 31.972,
+      "warnings": [
+        "Canvas is nominal bed XY, not a measured paper rectangle. Cover the indicated central writing area with flat paper."
+      ]
+    }
+  ],
+  "stroke_order": "preserved",
+  "direction": "preserved",
+  "scale": 1,
+  "font_attribution": "KanjiVG (Ulrich Apel and contributors), CC BY-SA 3.0; HersheyText, MIT"
+}

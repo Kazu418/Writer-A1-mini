@@ -1,0 +1,72 @@
+{
+  "authorized_action": "one no-pen air test only",
+  "host": "192.168.2.112",
+  "serial": "0309FA590900303",
+  "certificate_sha256": "527af761368117e670669b2b89d19d20fb70a272a34cb957924db954c2301d5e",
+  "local_package_sha256": "2851c9563c9c5bb2313f5bdbec9907c071b63ab8033a83647406e88e3b0cb3d9",
+  "validation": {
+    "valid": true,
+    "strokes": 13,
+    "moves": 275,
+    "relative_z_min_mm": 2.0,
+    "relative_z_max_mm": 5.0,
+    "finish_above_initial_contact_mm": 5.0,
+    "absolute_z_known": false,
+    "air_only": true,
+    "source_geometry_checked": true
+  },
+  "start_sent": true,
+  "events": [],
+  "before": {
+    "gcode_state": "IDLE",
+    "print_error": 0,
+    "home_flag": 847070608,
+    "nozzle_temper": 17.5,
+    "nozzle_target_temper": 0,
+    "bed_temper": 17.53125,
+    "bed_target_temper": 0
+  },
+  "remote_file": "plotnote_air_20261125_075826.gcode.3mf",
+  "transfer_phase": "readback_verification",
+  "upload_verified": true,
+  "request": {
+    "print": {
+      "sequence_id": "1795593507",
+      "command": "project_file",
+      "param": "Metadata/plate_1.gcode",
+      "url": "ftp:///plotnote_air_20261125_075826.gcode.3mf",
+      "subtask_name": "PlotNote AIR ONLY - pen removed",
+      "md5": "b1e4b2a4b6bbeaae646fd93fe40164ff",
+      "project_id": "0",
+      "profile_id": "0",
+      "task_id": "0",
+      "subtask_id": "0",
+      "bed_type": "auto",
+      "timelapse": false,
+      "bed_leveling": false,
+      "flow_cali": false,
+      "vibration_cali": false,
+      "layer_inspect": false,
+      "use_ams": false,
+      "ams_mapping": []
+    }
+  },
+  "start_time_utc": "2026-11-25T07:58:27.862048+00:00",
+  "after_readonly_status": {
+    "gcode_state": "FINISH",
+    "gcode_file": "",
+    "subtask_name": "PlotNote AIR ONLY - pen removed",
+    "mc_percent": 0,
+    "mc_remaining_time": 0,
+    "print_error": 0,
+    "hms": [],
+    "nozzle_temper": 23.4375,
+    "nozzle_target_temper": 0,
+    "bed_temper": 17.6875,
+    "bed_target_temper": 0,
+    "stg_cur": 255,
+    "home_flag": 847070608
+  },
+  "user_observation": "Air test moved; user reports no filament extrusion and no calibration.",
+  "outcome": "completed_verified_by_status_and_user"
+}

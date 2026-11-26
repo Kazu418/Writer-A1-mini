@@ -1,0 +1,77 @@
+{
+  "format": "plotnote-visual-review-v1",
+  "reviews": [
+    {
+      "id": "57bbe60972ddfc6da22dceafd26c5ef15ba58354433e480f2bf54e1ad17e848a:split:2",
+      "label": "ズ",
+      "evidence": "visual-words-next/page-001.png",
+      "geometry_sha256": "5baee3c4055a32281ac381ac7ed70a5f100eef62b28734400e7ab3e1bdc29172",
+      "previous_label": "ズ",
+      "status": "accepted",
+      "reviewer": "Codex visual original-ink/context review"
+    },
+    {
+      "id": "187e74a5085af235b15daa962b4c91b7fc2e9cb8b232a2bdbec8dc4ba8e3dae0:split:1",
+      "label": "ッ",
+      "evidence": "visual-words-next/page-001.png",
+      "geometry_sha256": "4b67972131d64e5f69bb8bb11ddc1c79673741285da90b313c2215c5c661031a",
+      "previous_label": "ッ",
+      "status": "accepted",
+      "reviewer": "Codex visual original-ink/context review"
+    },
+    {
+      "id": "5653f1e5d401bca053b345278334df9a66c1c2c4b228ea8875cd02ff9273493e:split:1",
+      "label": "眠",
+      "evidence": "visual-words-next/page-001.png",
+      "geometry_sha256": "33137497b905835e7096e258ceda0ec71ea5dcdb7da4cfb77f25d0aef1fa2125",
+      "previous_label": "眠",
+      "status": "accepted",
+      "reviewer": "Codex visual original-ink/context review"
+    },
+    {
+      "id": "043dbfc5c82891cf372c50f63f20dc51ac667d19c6f44ef5feb3713e99bb6af9:split:0",
+      "label": "背",
+      "evidence": "visual-words-next/page-001.png",
+      "geometry_sha256": "7df150b73d10f12035d1c5435f7253bfc5ba8b57e9f3e6bb48e24c219632117a",
+      "previous_label": "背",
+      "status": "accepted",
+      "reviewer": "Codex visual original-ink/context review"
+    },
+    {
+      "id": "1ee5ec539ea6ae66932e692299f347224d194641d0eb3e5ac0e57cea84eb793c",
+      "label": "資",
+      "previous_label": "源",
+      "evidence": "ocr-correction-candidates.png / PN-005",
+      "geometry_sha256": "e990ff5eba10087483a1cb586a1146128ae2457784ee8a629c5f5bd0b52ca5c2",
+      "status": "accepted",
+      "reviewer": "Codex visual original-ink/context review"
+    },
+    {
+      "id": "f73a733a27d8150f3e0320cb3d8b3e5e59cb9d8ceb1ab75203a3e7fb0c593549:split:2:whole-strokes-excluding-2",
+      "label": "融",
+      "evidence": "refined-finance-glyph.png; all retained whole paths match parent exactly",
+      "geometry_sha256": "355e2c9c29c4eaa337bfe50958f409b07018b430969494136382f8a5099d8996",
+      "previous_label": "融",
+      "status": "accepted",
+      "reviewer": "Codex visual original-ink/context review"
+    },
+    {
+      "id": "07c2d3c4f3231486b22deb1b65578dc4110919b01d70b5cd8152ff8ce68ac032",
+      "label": "、",
+      "evidence": "dot-contexts.png / DOT-02; original word baseline inspected",
+      "geometry_sha256": "dea17bb795f808e3b6127f71b78b547d904601fcee2efd5ebe2bf74b7bb6aaa8",
+      "previous_label": ".",
+      "status": "accepted",
+      "reviewer": "Codex visual original-ink/context review"
+    },
+    {
+      "id": "c13ad7b6746cbb9d5c694a2026561da216b085b0e9a18a76b9325fc9bfbc2341",
+      "label": ".",
+      "evidence": "dot-contexts.png / DOT-07; original word baseline inspected",
+      "geometry_sha256": "674e3bcc5d6032bcdd306c12b828c29a60043dc11934b1a7ae5352086fd3733b",
+      "previous_label": ".",
+      "status": "accepted",
+      "reviewer": "Codex visual original-ink/context review"
+    }
+  ]
+}

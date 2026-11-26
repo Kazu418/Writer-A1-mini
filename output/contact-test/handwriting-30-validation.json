@@ -1,0 +1,65 @@
+{
+  "seed": 20261125,
+  "size_mm": 2.5,
+  "nominal_line_pitch_mm": 3.1,
+  "pen_width_mm": 0.25,
+  "rows": [
+    {
+      "text": "データサイエンスは、集めた情報から意味を見つ",
+      "origin_y": 3,
+      "ink_top": 3.152163067252292,
+      "ink_bottom": 5.322820996299599,
+      "seed": 5811698502286134404
+    },
+    {
+      "text": "け、より良い判断につなげる学問である。平均だけ",
+      "origin_y": 6.038785465255781,
+      "ink_top": 6.2085526363130885,
+      "ink_bottom": 8.406938337892086,
+      "seed": 3349199096644563725
+    },
+    {
+      "text": "でなく、ばらつきや分布にも注目しよう。目的を明確",
+      "origin_y": 9.20232886180335,
+      "ink_top": 9.411874783407084,
+      "ink_bottom": 11.669560203316118,
+      "seed": 5484641532073604365
+    },
+    {
+      "text": "にして分析し、得られた結果を確かめながら、次の",
+      "origin_y": 12.290938907432082,
+      "ink_top": 12.576010686211992,
+      "ink_bottom": 14.733854142891616,
+      "seed": 997163780110153012
+    },
+    {
+      "text": "行動へ生かしていく。",
+      "origin_y": 15.487467915316339,
+      "ink_top": 15.755523122852045,
+      "ink_bottom": 17.81879210994055,
+      "seed": 801420353498182397
+    }
+  ],
+  "stroke_order_preserved": true,
+  "valid": true,
+  "moves": 6734,
+  "strokes": 429,
+  "source_geometry_checked": true,
+  "characters": 102,
+  "draw_mm_s": 30,
+  "travel_mm_s": 40,
+  "z_mm_s": 10,
+  "draw_z_mm": 4.9,
+  "lift_z_mm": 6.5,
+  "safe_z_mm": 10,
+  "physical_result": "not yet executed",
+  "summary": {
+    "width_mm": 50,
+    "height_mm": 35,
+    "strokes": 429,
+    "points": 5874,
+    "ink_mm": 551.149,
+    "travel_mm": 604.28,
+    "warnings": []
+  }
+}

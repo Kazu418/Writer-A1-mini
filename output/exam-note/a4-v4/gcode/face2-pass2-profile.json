@@ -1,0 +1,22 @@
+{
+  "printer": "a1-mini",
+  "calibrated": true,
+  "pen_offset_x": 0,
+  "pen_offset_y": -30.8,
+  "paper_x": 7.5,
+  "paper_y": 5.0,
+  "paper_width": 165.0,
+  "paper_height": 127.5,
+  "nozzle_min_x": 5.0,
+  "nozzle_max_x": 175.0,
+  "nozzle_min_y": 5.0,
+  "nozzle_max_y": 175.0,
+  "draw_z": 4.9,
+  "lift_z": 6.5,
+  "safe_z": 10,
+  "draw_feed": 1800,
+  "travel_feed": 2400,
+  "z_feed": 600,
+  "pen_width": 0.3,
+  "calibration_notes": "Handwriting candidate: 102 characters, size2.5mm, pitch3.1mm +/-0.12 with collision clearance; draw30mm/s, travel40, Z10. ContactZ5 physical calibration must still be valid. Preview/package use identical seeded paths. New quality not physically verified. A4 two-pass window; nozzle range beyond the calibrated 40-150 is NOT verified."
+}

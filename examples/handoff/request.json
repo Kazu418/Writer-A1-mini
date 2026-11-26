@@ -1,0 +1,15 @@
+{
+  "job_id": "example-note",
+  "max_sheets": 1,
+  "duplex": false,
+  "font_size_mm": 2.8,
+  "formula_policy": "keep",
+  "faces": [
+    {
+      "sheet": 1,
+      "side": "front",
+      "pass1": "pass1.svg",
+      "pass2": "pass2.svg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "pages": [
+    {
+      "width_mm": 147.99999940660263,
+      "height_mm": 147.99999940660263,
+      "strokes": 44,
+      "points": 2024,
+      "ink_mm": 91.602,
+      "travel_mm": 91.885,
+      "warnings": []
+    }
+  ],
+  "stroke_order": "preserved",
+  "direction": "preserved",
+  "scale": 1,
+  "font_attribution": "KanjiVG (Ulrich Apel and contributors), CC BY-SA 3.0; HersheyText, MIT"
+}

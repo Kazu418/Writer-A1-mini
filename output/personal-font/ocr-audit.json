@@ -1,0 +1,7 @@
+{
+  "audited_samples": 1176,
+  "agreement_samples": 10,
+  "required_with_independent_ocr_agreement": 10,
+  "errors": 0,
+  "status": "Machine agreement is evidence for ranking, not verified labels. No candidate was accepted by this audit."
+}

@@ -1,0 +1,520 @@
+{
+  "format": "plotnote-visual-review-v1",
+  "source_manifest": "datalab/visual-next/manifest.json",
+  "source_sha256": "ee4c6cdc6605d841f70209e03b0033500e7dc14d67f835c16b7372017d113aa7",
+  "reviews": [
+    {
+      "id": "253b86ef2abb5c6ae47a3a9a013169b9cd28cef354cb83c4e7f34fb49db8e7b8",
+      "label": "6",
+      "status": "accepted",
+      "geometry_sha256": "d4e9da928d0b40ce0988573d2efd5441edd06fa379f8c60d0bd1268abc12f2bd",
+      "sheet_page": 1,
+      "trial_id": "PN-001",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "6fc5dc06c8ec900e898be48c65c2a783d2ded2e06f8bdf3669d0efa5af4ae0d7",
+      "label": "D",
+      "status": "accepted",
+      "geometry_sha256": "6e605ed14061a588d6eea6f6eb79efa8d739df0261e867e453fc83d2340322e0",
+      "sheet_page": 1,
+      "trial_id": "PN-002",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "99292507176a55f7d3ff16dbd29a40950bfb96d11fd2d48234eeda5a92289d12",
+      "label": "G",
+      "status": "accepted",
+      "geometry_sha256": "ab447a276522cc6c04bf0e6cf6263ecc2af936293e029f7c26e8f2cc6dbd3954",
+      "sheet_page": 1,
+      "trial_id": "PN-003",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "c691e4aca698297c4cfe6baceab9bc1b2ac5d8ac40713328bc3b27dc46c9b1ea",
+      "label": "b",
+      "status": "accepted",
+      "geometry_sha256": "e74550f099ebc0fe75f4e761bd7be7eacfdb73f06c817937189440147285d64f",
+      "sheet_page": 1,
+      "trial_id": "PN-004",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "a626ba994ed82da033c34990547bc7873502177873d87298e86cce6a763c67bc",
+      "label": "d",
+      "status": "accepted",
+      "geometry_sha256": "2c2fdaf860d0ef465d7229531998b87b2ecd3eced207a1ee1576f942ce37af27",
+      "sheet_page": 1,
+      "trial_id": "PN-005",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "e43a0e2fbe26b2e47e87991085e5dffbe721dff82981de5054b44dc2b667f3ab",
+      "label": "g",
+      "status": "accepted",
+      "geometry_sha256": "0f311de49d598409a903e75914a1ccc933495419352406a090af078db35a8838",
+      "sheet_page": 1,
+      "trial_id": "PN-006",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "9de343d062dc1b32fd6d7b6ffce1e9f7125264e08700e28287905bad38cf9e7b",
+      "label": "像",
+      "status": "accepted",
+      "geometry_sha256": "6727c5427234f8f53dae5a1305d8dcbb5e93d8b166808be6d8534a29a4920f29",
+      "sheet_page": 1,
+      "trial_id": "PN-008",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "c1f376fa3519e9cdc080251a02528bd79cdfdf13a9e5a4d7c0f2075c5fc3351f",
+      "label": "原",
+      "status": "accepted",
+      "geometry_sha256": "009c2328b6c4cdf3debe9dafe061d0f1f27717c0f71fefa9b51c9077d6a8a702",
+      "sheet_page": 1,
+      "trial_id": "PN-009",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "d3435f755667251a4d696e035a67b3a5d8f0326633c66306d500ada7b2fb6b5a",
+      "label": "学",
+      "status": "accepted",
+      "geometry_sha256": "0b6f8b98bda3323013f3b8a51af08169483e7648b565547dee5294b89c58db77",
+      "sheet_page": 1,
+      "trial_id": "PN-010",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "25f51807d07f0047155f77daac372e93d22292e0bd1269c3155cdc64c4a210cb:split:1",
+      "label": "展",
+      "status": "accepted",
+      "geometry_sha256": "c07311b6ebe5f96778a5c642fcd5773442a0b53cea242959f827fbb1ae583409",
+      "sheet_page": 1,
+      "trial_id": "PN-011",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "ec7b17bc10cae8ccb1d15b2c82793f8ef70e784c30de18d3b75b66981c1a0b73",
+      "label": "心",
+      "status": "accepted",
+      "geometry_sha256": "c438ecf3f576da579ffdcce498cd1b5e11b4b234a30eb6c2d82434da12b3bd84",
+      "sheet_page": 1,
+      "trial_id": "PN-012",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "f7902dddc4d6bceb37f3dac71e22fbcceed0ed07fdfc3c3f9035f0bfc0a560bf",
+      "label": "結",
+      "status": "accepted",
+      "geometry_sha256": "83946fd6df114cd7852d9fa71e837ac031c23ce31f33f6479d7d4e4f8337fad3",
+      "sheet_page": 1,
+      "trial_id": "PN-013",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "4e648ee5c403a1d8395e9ed9ab801f2079ec0fc89d41205459c16cc9ed16d3a8",
+      "label": "続",
+      "status": "accepted",
+      "geometry_sha256": "5e3d477eedd6787f0ed1e0d23886d1672d9039306427816f356dca5be15d8f7c",
+      "sheet_page": 1,
+      "trial_id": "PN-014",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "156d882f20564ad37114817f446eb2337d34fd40f471d6e6c6096fc036a0457f",
+      "label": "西",
+      "status": "accepted",
+      "geometry_sha256": "ea6f5d4b7375089a07c9eb968e5f4489cd1dc762dfcc79652012a374f6da96f0",
+      "sheet_page": 1,
+      "trial_id": "PN-016",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "27006e54130f330f9f9f3d9744c6e6293880821503e7676fbcb6c2b03f013782",
+      "label": "販",
+      "status": "accepted",
+      "geometry_sha256": "2a1a323e44f0b6d7f451c95385b794934f6c0410b0859251350bcc21a9ab49f4",
+      "sheet_page": 1,
+      "trial_id": "PN-017",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "8b84d9463d89ce6b2a9141293298bed272c08bedaf81ff712c4a8f25b4485d9b",
+      "label": "質",
+      "status": "accepted",
+      "geometry_sha256": "f431aa0a6b675d6dc02de2e5017153e371cab2da6f82a3790009d703ab9129c9",
+      "sheet_page": 1,
+      "trial_id": "PN-018",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "1c1c0db2b15d0ec5890f2f54fa796bd4964279556043a6da1a36fc0b520c0003",
+      "label": "追",
+      "status": "accepted",
+      "geometry_sha256": "782da4f4f87392fafdc6a4ea996668cc78113de6d0ef800e9ee0700fe72bfed5",
+      "sheet_page": 1,
+      "trial_id": "PN-019",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "2faaa30c2521325b5838f9d025cae39e965fb553e07cc7f508040bcca7d0f613",
+      "label": "逆",
+      "status": "accepted",
+      "geometry_sha256": "6fa11e9187eae1ed80a18f93ff0a1554e3066bdfc18567039524e58a82dc9498",
+      "sheet_page": 1,
+      "trial_id": "PN-020",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "eff518a3e1a7e64efaeb5a454eee8f1eb7410855f617e8513392f65428e6d200",
+      "label": "通",
+      "status": "accepted",
+      "geometry_sha256": "424a5c64d0450a1f49e6fcc5969680a5e839bdccba78cb2349da7bb62374708d",
+      "sheet_page": 1,
+      "trial_id": "PN-021",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "ef00a2304a77dd510a16c70644821d62f3fd27ff410f6e0523fb42604b7405a3",
+      "label": "速",
+      "status": "accepted",
+      "geometry_sha256": "ede9d79e008c055f8bf4a0732381ae3f892d922baa7ca939c166a5b9346f776c",
+      "sheet_page": 1,
+      "trial_id": "PN-022",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "d479bba0171487ac6786471545074a03a8e7989f16183534d232e7622f5a75f9",
+      "label": "連",
+      "status": "accepted",
+      "geometry_sha256": "6ec0ae03d70376db2b87cdbd5b443dcebc658bd3d7b9f22c1201c144c4f3215e",
+      "sheet_page": 1,
+      "trial_id": "PN-023",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "7aed97dda129ffe52dcefd52f76f545b9003a6cb0091ec50fdf7e7ffa036ecf5",
+      "label": "過",
+      "status": "accepted",
+      "geometry_sha256": "615cc2190d10c0bd9374def858704809d2be1f49906d4fc2d12e8df397e6dbef",
+      "sheet_page": 1,
+      "trial_id": "PN-024",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "1d4800ceb462d42a49cb3c665378fccfe2d82b3ad1c2ee932ad3749c1d84346c",
+      "label": "選",
+      "status": "accepted",
+      "geometry_sha256": "66ea3ac60740ad4cbe6b799298a2858939145df5d1bc6a7d58066e9849e5ba6c",
+      "sheet_page": 2,
+      "trial_id": "PN-001",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "f69b3b6f483940ea13cda9d6a7e2a45a0148bac5cbb5c356e73cb8b49edb4c04",
+      "label": "重",
+      "status": "accepted",
+      "geometry_sha256": "9ccd8091cd1b288163acdd84c3210a1abb49e34d1dfb0c32435c874a9752d00d",
+      "sheet_page": 2,
+      "trial_id": "PN-002",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "1b91d82f1935094a6442385db51924b3dd959d079ca901028e9e7bbafd283656",
+      "label": "量",
+      "status": "accepted",
+      "geometry_sha256": "1cac33d6fc5ade7dc7af2c3825bbf2eec8ac88d297bdb4cb7e9346c0c6fb092b",
+      "sheet_page": 2,
+      "trial_id": "PN-003",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "a8be02d2eeeb6a2fad4f8d135bc3f7ecc70880cbb681ab0c999d706f6e022378",
+      "label": "長",
+      "status": "accepted",
+      "geometry_sha256": "a1a439fdb0d3408fda50e3014de458af493dcb3a62348e95fa2608806e9cb7b6",
+      "sheet_page": 2,
+      "trial_id": "PN-004",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "ec42b2c6820667e373ed703c6cb01ff31097a88cb817b48cf5dfd62bde0af6fe",
+      "label": "間",
+      "status": "accepted",
+      "geometry_sha256": "ddefdd2e53e673ac186197e0ed35de61ac51c8af4bfb6aa47d1a620f3466e1e1",
+      "sheet_page": 2,
+      "trial_id": "PN-005",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "9bd1bdc5e4f508a50aec6c7bf1ac5d36c18b21e027858cb8df56e0112e5e31c4",
+      "label": "関",
+      "status": "accepted",
+      "geometry_sha256": "6480f0b07ea12bdbf8288a971dae6d5dab7edc5548e32126b5196857ec6b8a8f",
+      "sheet_page": 2,
+      "trial_id": "PN-006",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "9bf271a926defb18f9f42a38f39f4966c712c563500f9d343c4d8815405a85ec",
+      "label": "除",
+      "status": "accepted",
+      "geometry_sha256": "c4f0d87ab60057f80d4f3d57b3a6f1cb0f319808f96252f70c7279570e937c1b",
+      "sheet_page": 2,
+      "trial_id": "PN-007",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "1c70f390d5e75e7c029078a37400c9342e836d7b9fe3ef2f95eced58fc9d87f9",
+      "label": "隔",
+      "status": "accepted",
+      "geometry_sha256": "d1b77cfe2bb41bf45be92332a1b32156b86bd1dce4ddce270ec13ebfdcb991d5",
+      "sheet_page": 2,
+      "trial_id": "PN-008",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "4f54aec237bd28fb9d5a3d8e15a4e1c83ddee72ae6c7c31b2cac3dd49ebd8300",
+      "label": "集",
+      "status": "accepted",
+      "geometry_sha256": "c9225541d1f948b7fcf48c920f71e2a1839267a8733db49a44637a32c034beaa",
+      "sheet_page": 2,
+      "trial_id": "PN-009",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "01601c13394908fb3e7795176ec5a3d1a329904b5fedc2b3dcd3dcbc37159993",
+      "label": "離",
+      "status": "accepted",
+      "geometry_sha256": "8e3d4b9ba1e8b86e7780808f46881f511d43c4f188bcb2309abf0e1e55741cec",
+      "sheet_page": 2,
+      "trial_id": "PN-010",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "35d6df4071e46330b62e23e1ed397a0f6f3036e6762a7e1a6f6c3367d5552177",
+      "label": "項",
+      "status": "accepted",
+      "geometry_sha256": "dab495b48fa97c543d1dfadb5fbe13ea1e18a9000cd9050ac5c55e4f415016fa",
+      "sheet_page": 2,
+      "trial_id": "PN-011",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "cfed55065440577a9c41e1de1f1a6bce56337d5ac983fdd9a77bb1067e8e4400",
+      "label": "順",
+      "status": "accepted",
+      "geometry_sha256": "7a59a8fd378fb9ae875e25b441ec4c40e6ae6ee1b4f0999a2e157ad09148a00e",
+      "sheet_page": 2,
+      "trial_id": "PN-012",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "814822f3ab2541abb8389fc89ea7efacf60eae372ec7f059e46ccae68dc69cd5",
+      "label": "領",
+      "status": "accepted",
+      "geometry_sha256": "4fbcb77f1e4c3526818610348a488c91919db59665e3a48d155b98ea226bbc83",
+      "sheet_page": 2,
+      "trial_id": "PN-013",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "365455f0d275143fab56184b9b1c777f6ddbac1b332b191ce190f7d13d49eb83",
+      "label": "題",
+      "status": "accepted",
+      "geometry_sha256": "b175c5544a3d97e8193055489e8a02af08e7b0d826ac373c0e860561e0aaf0d7",
+      "sheet_page": 2,
+      "trial_id": "PN-014",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "5849a22a1472f6bf3decbd3adbcfe6aaafabf2a7e7d7a171945035e1bcb815e9",
+      "label": "類",
+      "status": "accepted",
+      "geometry_sha256": "2da37685b8927011a6ee6523be9bb5ad173e3fde2fc3d7fb6a0b8901295a3b03",
+      "sheet_page": 2,
+      "trial_id": "PN-015",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "0e5ea40236cbeda94f8dc1c109e20c3b08faad5ae542dded65f6c94c4760c567",
+      "label": "高",
+      "status": "accepted",
+      "geometry_sha256": "e76ce87edfbc43f9dd07bb006ae882ede3e40229d1e4aa619ec9c168db2b8e3b",
+      "sheet_page": 2,
+      "trial_id": "PN-016",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "eb7cbe65e8a3f95a97a8102de18cdbf4fb7357031a8de9c85d774bb87492354f",
+      "label": "ず",
+      "status": "accepted",
+      "geometry_sha256": "1d2ec34a97c71c3b5529f3cb2f5eec9a968d2d9bf61b29f84ff6d6db76a45493",
+      "sheet_page": 3,
+      "trial_id": "PN-001",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "064dea47b1ff9e1083debba97f94a0e124fce6618083e908a4650580cf828332",
+      "label": "ビ",
+      "status": "accepted",
+      "geometry_sha256": "c2f4cc8a13680cc7bebaa93d915a133ca47d009074463119ed4f9a5af7151cfc",
+      "sheet_page": 3,
+      "trial_id": "PN-007",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "5cd4b033c2a932c243ae5eb3c08feb33984d844b81d85febe0c2c83ad5c1337d",
+      "label": "乗",
+      "status": "accepted",
+      "geometry_sha256": "30fed04e7f34b707b1cdaea1b496042bfc6c88090466f1910e7bb7ab47e5a72e",
+      "sheet_page": 3,
+      "trial_id": "PN-008",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "c04c4a3fb435907423c8b20cf6e96ef5b3cde052a90b71ea19cdd3eb6caf8e76",
+      "label": "何",
+      "status": "accepted",
+      "geometry_sha256": "209ae8bdf634b7765a604786a6d7f5e69ffc5960e5c66aa8a3bf845644ad28b1",
+      "sheet_page": 3,
+      "trial_id": "PN-010",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "6f0e01a03ad762c34e01696a997109dff2c48a2e61715e55f92385c1fccf81fd",
+      "label": "加",
+      "status": "accepted",
+      "geometry_sha256": "0747ab9a961b3b3ba04a8bb8c5ddccb4bcca56870ec39cc846d5fd33181372a3",
+      "sheet_page": 3,
+      "trial_id": "PN-012",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "7414d18f0ff11c2d1e38f4c0a45cd6f410c8133da3a2b497753c64d719c90ca1",
+      "label": "和",
+      "status": "accepted",
+      "geometry_sha256": "fcb95affd501f4c7be61ba6e34a261604aec7ad25cdfa8cbeaaf766fa36bccfa",
+      "sheet_page": 3,
+      "trial_id": "PN-015",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "d7d42bf7048eb5ba416e5b4ccd2e586c8a657a50952f61bfaa2df307c21ddef4",
+      "label": "多",
+      "status": "accepted",
+      "geometry_sha256": "4546eb0c9304f4719ac0046651d24a24d60803306b4ea1a15ded5008a4d18980",
+      "sheet_page": 3,
+      "trial_id": "PN-019",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "e0811c43acb8daf459a031316be0be06315e64efae3a8bd56e65426a43a831ac:split:1",
+      "label": "央",
+      "status": "accepted",
+      "geometry_sha256": "fe09f613ec4517096ffe15b7e6ab30af24503ab7981c81f0aad35518638492c5",
+      "sheet_page": 3,
+      "trial_id": "PN-020",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "fb994db4dc3c9be31b86cab76184dc29c5e8ff0e58f4dc2061b06d6767bfa47d",
+      "label": "平",
+      "status": "accepted",
+      "geometry_sha256": "69c63684d9c7425f6cda83c71493d1cc497c41f6b9e908cc7a3ea80c6ce307d9",
+      "sheet_page": 3,
+      "trial_id": "PN-021",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "d324dbdf6839eece56ca466e98775fb7b11f2ab9592be0ca34d37d9344b6fd82",
+      "label": "方",
+      "status": "accepted",
+      "geometry_sha256": "072b02285a6989be5bb90c470503f5c1299b04cf369f059963ba9f2f320f1425",
+      "sheet_page": 4,
+      "trial_id": "PN-002",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "3de1c95a391119fa17af9a42cd7e5c3178376d1737f530a22b999e3a5c027862",
+      "label": "段",
+      "status": "accepted",
+      "geometry_sha256": "df83f1b58e6bbed8ee6c28ed9a375ff90578517591ed1ab3d09eb7c94c384436",
+      "sheet_page": 4,
+      "trial_id": "PN-008",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "07ba4b312397091af632c6861c7c65d7868b9600337da3a92a5f85fe67fe023e",
+      "label": "母",
+      "status": "accepted",
+      "geometry_sha256": "375cd086f0fdd3201e498db8caf13c531dea43bef66225852057c2bf05b01c1c",
+      "sheet_page": 4,
+      "trial_id": "PN-009",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "1883cd47a2aa52689f5f47eea36adb4b7a72e3a99b037748c5890834e4b05bca",
+      "label": "現",
+      "status": "accepted",
+      "geometry_sha256": "9daa6af3d3a4f90611daef1232c209c57023eddc0fbaf4fcea57fecfdf458949",
+      "sheet_page": 4,
+      "trial_id": "PN-015",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "8d81590f942592bfa01a17cdfe9b590fca2fa2a8c74f6b3e9e81fcd8997cbca1",
+      "label": "積",
+      "status": "accepted",
+      "geometry_sha256": "e4182b22fef305f43b55fc9a304611c02b4a275a9e13de650a2a746079b6f0b0",
+      "sheet_page": 4,
+      "trial_id": "PN-019",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "03186b98515187b7141f60033880d16f686f38870e075e0c338605142255eeb6",
+      "label": "約",
+      "status": "accepted",
+      "geometry_sha256": "b526842aa61891a1affecccd83cf8e71105e48074e499064cfb5117d32818742",
+      "sheet_page": 4,
+      "trial_id": "PN-022",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "67a43fc408978fd17cad2970a59204a12f5407ea7cf6c15f15cc9ed58ed6d178",
+      "label": "違",
+      "status": "accepted",
+      "geometry_sha256": "81f5f8157a37d347946a365f5cacc46f3b456739205216fc7c9ab609c30349ff",
+      "sheet_page": 5,
+      "trial_id": "PN-006",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "74789025f9f2279d7e6c78064302f5bd8ca80c332a8cbe8d7320d75cc7a627ce:split:3",
+      "label": "録",
+      "status": "accepted",
+      "geometry_sha256": "386d75598a4fe94bc1acfcbff90c95872035c5f3e0f6c0212b6bc09c231e1b6c",
+      "sheet_page": 5,
+      "trial_id": "PN-007",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "bb364430c75167f05479f591f41fb4eb238f685ee2f4478fa5adc7e86aed05df",
+      "label": "門",
+      "status": "accepted",
+      "geometry_sha256": "645a2a84cf34991fcab055a77006a3996f0e2e64faaddb4bd7bc3ef71577f835",
+      "sheet_page": 5,
+      "trial_id": "PN-008",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    },
+    {
+      "id": "ea130abe876f0f8992badbe6c04666048cbccc34edbf7611820ab2b19bc0a5b1",
+      "label": "雑",
+      "status": "accepted",
+      "geometry_sha256": "7b57fae303fe90754876a7ab4db155368041ae81805002dc8ce4c4f6c8550b51",
+      "sheet_page": 5,
+      "trial_id": "PN-012",
+      "reviewer": "Codex visual inspection; agreement alone is insufficient"
+    }
+  ]
+}

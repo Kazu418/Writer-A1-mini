@@ -1,0 +1,37 @@
+{
+  "valid": true,
+  "moves": 6734,
+  "strokes": 429,
+  "source_geometry_checked": true,
+  "characters": 102,
+  "lines": [
+    "データサイエンスは、集めた情報から意味を",
+    "見つけ、より良い判断につなげる学問である。",
+    "平均だけでなく、ばらつきや分布にも注目しよ",
+    "う。目的を明確にして分析し、得られた結果を",
+    "確かめながら、次の行動へ生かしていく。"
+  ],
+  "pen_bounds_mm": [
+    70.2408256880734,
+    79.425,
+    108.54559354169655,
+    96.7993119266055
+  ],
+  "nozzle_bounds_mm": [
+    70.2408256880734,
+    110.225,
+    108.54559354169655,
+    127.5993119266055
+  ],
+  "requires_current_z5_contact_confirmation": true,
+  "ideal_motion_seconds": 179,
+  "summary": {
+    "width_mm": 50,
+    "height_mm": 35,
+    "strokes": 429,
+    "points": 5874,
+    "ink_mm": 549.502,
+    "travel_mm": 584.7,
+    "warnings": []
+  }
+}

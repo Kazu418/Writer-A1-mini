@@ -1,0 +1,12 @@
+{
+  "font": "Bundled KanjiVG/Hershey standard centerlines with deterministic handwriting variation",
+  "scope": "Only underlined body keywords on back-face passes",
+  "printed_front_unchanged": true,
+  "underlines_unchanged": true,
+  "non_keyword_commands_identical": true,
+  "fit": "Uniformly fit each keyword segment inside its existing ink bounding box; no paragraph reflow",
+  "formulas": "Dedicated displayed formulas remain blank; every inline expression retained",
+  "draw_z": 4.8,
+  "lift_z": 6.5,
+  "safe_z": 10
+}

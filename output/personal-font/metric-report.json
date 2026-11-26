@@ -1,0 +1,10 @@
+{
+  "sample_outcomes": {
+    "insufficient_source_line": 4477,
+    "estimated_source_line": 2134,
+    "no_source_line": 910,
+    "mixed_source_sizes": 35,
+    "preserved_explicit_reference": 5
+  },
+  "status": "Cell metrics are geometric estimates; labels were not approved."
+}

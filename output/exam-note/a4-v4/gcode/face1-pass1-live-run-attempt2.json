@@ -1,0 +1,111 @@
+{
+  "authorized_action": "one user-authorized A4 v4 contact pass; air run explicitly declined",
+  "host": "192.168.2.112",
+  "serial": "0309FA590900303",
+  "certificate_sha256": "527af761368117e670669b2b89d19d20fb70a272a34cb957924db954c2301d5e",
+  "local_package_sha256": "b98e19999e3f5b1dc2d592ee638f31ff80d88b470d9e6377179e733c9439ac6a",
+  "validation": {
+    "valid": true,
+    "moves": 302723,
+    "strokes": 5407,
+    "source_geometry_checked": false
+  },
+  "start_sent": true,
+  "events": [
+    {
+      "utc": "2026-11-25T14:56:47.359868+00:00",
+      "gcode_state": "FAILED",
+      "gcode_file": "",
+      "mc_percent": 0,
+      "stg_cur": 255,
+      "nozzle_temper": 28.71875,
+      "nozzle_target_temper": 0,
+      "bed_temper": 22.03125,
+      "bed_target_temper": 0,
+      "print_error": 0
+    },
+    {
+      "utc": "2026-11-25T14:56:52.189410+00:00",
+      "gcode_state": "PREPARE",
+      "gcode_file": "plotnote_write_20261125_145622.gcode.3mf",
+      "mc_percent": 0,
+      "stg_cur": 255,
+      "nozzle_temper": 28.4375,
+      "nozzle_target_temper": 0,
+      "bed_temper": 22,
+      "bed_target_temper": 0,
+      "print_error": 0
+    },
+    {
+      "utc": "2026-11-25T14:57:04.144067+00:00",
+      "gcode_state": "RUNNING",
+      "gcode_file": "plotnote_write_20261125_145622.gcode.3mf",
+      "mc_percent": 0,
+      "stg_cur": 255,
+      "nozzle_temper": 74.625,
+      "nozzle_target_temper": 0,
+      "bed_temper": 22.0625,
+      "bed_target_temper": 0,
+      "print_error": 0
+    },
+    {
+      "utc": "2026-11-25T14:57:17.362030+00:00",
+      "gcode_state": "FAILED",
+      "gcode_file": "",
+      "mc_percent": 0,
+      "stg_cur": 255,
+      "nozzle_temper": 72.90625,
+      "nozzle_target_temper": 0,
+      "bed_temper": 22.0625,
+      "bed_target_temper": 0,
+      "print_error": 50348044
+    }
+  ],
+  "before": {
+    "gcode_state": "FAILED",
+    "print_error": 0,
+    "home_flag": 847070615,
+    "nozzle_temper": 28.71875,
+    "nozzle_target_temper": 0,
+    "bed_temper": 22.03125,
+    "bed_target_temper": 0
+  },
+  "remote_file": "plotnote_write_20261125_145622.gcode.3mf",
+  "transfer_phase": "readback_verification",
+  "upload_verified": true,
+  "request": {
+    "print": {
+      "sequence_id": "1795618583",
+      "command": "project_file",
+      "param": "Metadata/plate_1.gcode",
+      "url": "ftp:///plotnote_write_20261125_145622.gcode.3mf",
+      "subtask_name": "PlotNote A4 v4 face1-pass1 attempt2",
+      "md5": "f2202a5dcf9472890ecdcd55ebe3b1f3",
+      "project_id": "0",
+      "profile_id": "0",
+      "task_id": "0",
+      "subtask_id": "0",
+      "bed_type": "auto",
+      "timelapse": false,
+      "bed_leveling": false,
+      "flow_cali": false,
+      "vibration_cali": false,
+      "layer_inspect": false,
+      "use_ams": false,
+      "ams_mapping": []
+    }
+  },
+  "start_time_utc": "2026-11-25T14:56:46.387867+00:00",
+  "transport_write_confirmed": true,
+  "outcome": "terminated_FAILED",
+  "after": {
+    "gcode_state": "FAILED",
+    "mc_percent": 0,
+    "print_error": 50348044,
+    "hms": [],
+    "nozzle_temper": 72.90625,
+    "nozzle_target_temper": 0,
+    "bed_temper": 22.0625,
+    "bed_target_temper": 0
+  }
+}

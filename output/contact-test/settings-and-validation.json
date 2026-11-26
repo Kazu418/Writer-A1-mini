@@ -1,0 +1,52 @@
+{
+  "text": "テストです。",
+  "em_size_mm": 5,
+  "canvas": "180x180mm nominal bed, not paper size",
+  "user_reported": {
+    "pen_offset_x_mm": 0,
+    "pen_offset_y_mm": -30.8,
+    "contact_reference": "User adjusted pen mounting after homing to touch paper; absolute Z unknown"
+  },
+  "paper_must_cover_pen_bounds_mm": [
+    75.91743119266054,
+    85.25,
+    101.75,
+    89.3862385321101
+  ],
+  "nozzle_bounds_mm": [
+    75.91743119266054,
+    116.05,
+    101.75,
+    120.1862385321101
+  ],
+  "draw_speed_mm_s": 10,
+  "travel_speed_mm_s": 20,
+  "z_speed_mm_s": 2,
+  "lift_above_current_contact_mm": 3,
+  "finish_above_current_contact_mm": 5,
+  "files": {
+    "01_AIR": {
+      "valid": true,
+      "strokes": 13,
+      "moves": 275,
+      "relative_z_min_mm": 2.0,
+      "relative_z_max_mm": 5.0,
+      "finish_above_initial_contact_mm": 5.0,
+      "absolute_z_known": false,
+      "air_only": true,
+      "source_geometry_checked": true
+    },
+    "02_WRITE": {
+      "valid": true,
+      "strokes": 13,
+      "moves": 275,
+      "relative_z_min_mm": 0.0,
+      "relative_z_max_mm": 5.0,
+      "finish_above_initial_contact_mm": 5.0,
+      "absolute_z_known": false,
+      "air_only": false,
+      "source_geometry_checked": true
+    }
+  },
+  "warning": "Start EVERY run from the same light paper contact. No homing/start/end macros may be added. Do not replay from the raised finishing height."
+}

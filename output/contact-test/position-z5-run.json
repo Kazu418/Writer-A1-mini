@@ -1,0 +1,30 @@
+{
+  "utc": "2026-11-25T08:11:20.252490+00:00",
+  "sent": true,
+  "pen_removed_confirmed_by_user": true,
+  "gcode": "G21\nG90\nG1 Z15 F300\nM400\nG1 X90 Y120.8 F1200\nM400\nG1 Z5 F120\nM400\n",
+  "before": {
+    "gcode_state": "FINISH",
+    "home_flag": 847070608,
+    "print_error": 0,
+    "nozzle_target_temper": 0,
+    "bed_target_temper": 0
+  },
+  "acks": [
+    {
+      "sequence_id": "1795594279",
+      "command": "gcode_line",
+      "param": "G21\nG90\nG1 Z15 F300\nM400\nG1 X90 Y120.8 F1200\nM400\nG1 Z5 F120\nM400\n",
+      "reason": "success",
+      "result": "success"
+    }
+  ],
+  "after": {
+    "gcode_state": "FINISH",
+    "print_error": 0,
+    "hms": [],
+    "nozzle_target_temper": 0,
+    "bed_target_temper": 0
+  },
+  "physical_position_verified": false
+}

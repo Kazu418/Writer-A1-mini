@@ -1,0 +1,45 @@
+{
+  "image": "ocr-correction-candidates.png",
+  "glyphs": [
+    {
+      "trial_id": "PN-001",
+      "expected_label": "断",
+      "exemplar_id": "1c1212a5d4403ee0f205be16414cc204f60e120d2a94b0661d570bc0a2d45af2:split:0",
+      "geometry_sha256": "cad9fc65af961c3850f29d3f2c8178e1158d2320dc375263dc8b2dc154280d47",
+      "previously_accepted": false,
+      "previous_label": "逝"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "断",
+      "exemplar_id": "cac62dc9358a814396e1fb475ff038822a081129fd5f01d9991c7eb1f960bf0a:split:1",
+      "geometry_sha256": "f48145804e3139138689e4bd09fb6d809a5ce5f60f3549893625cee8ba2eb791",
+      "previously_accepted": false,
+      "previous_label": "逝"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "融",
+      "exemplar_id": "f73a733a27d8150f3e0320cb3d8b3e5e59cb9d8ceb1ab75203a3e7fb0c593549:split:2",
+      "geometry_sha256": "ff1f656822750a6c68867df5dce16c5bf6a7f51da00ef3279a7339e330898832",
+      "previously_accepted": false,
+      "previous_label": "融"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "誤",
+      "exemplar_id": "ec492dd5f5fbffec429d74b692b7d85eaeece356705466be9461b70d2d8690cf",
+      "geometry_sha256": "7d66b4edcf3faf1f64ad0aed6d9ac1548cacfc0e68c9e8803663248650b2d32e",
+      "previously_accepted": false,
+      "previous_label": "灝"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "資",
+      "exemplar_id": "1ee5ec539ea6ae66932e692299f347224d194641d0eb3e5ac0e57cea84eb793c",
+      "geometry_sha256": "e990ff5eba10087483a1cb586a1146128ae2457784ee8a629c5f5bd0b52ca5c2",
+      "previously_accepted": false,
+      "previous_label": "源"
+    }
+  ]
+}

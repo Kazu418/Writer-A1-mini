@@ -1,0 +1,5 @@
+#!/bin/sh
+set -eu
+PLOTNOTE_ROOT=$(CDPATH= cd -- "$(dirname "$0")" && pwd)
+export PYTHONPATH="$PLOTNOTE_ROOT/src${PYTHONPATH:+:$PYTHONPATH}"
+exec "$PLOTNOTE_ROOT/.venv/bin/python" -m plotnote "$@"

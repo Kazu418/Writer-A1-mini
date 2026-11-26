@@ -1,0 +1,40 @@
+{
+  "text": "生活習慣病\n条件と平均、記録。\n（2＋2）＝2²\nΣ∑−・：.",
+  "required_available": 421,
+  "required_total": 427,
+  "missing": "授掛断替険頻",
+  "original_reviewed_characters": 413,
+  "typographic_forms": {
+    "（": "(",
+    "）": ")",
+    "＋": "+",
+    "＝": "=",
+    "∑": "Σ",
+    "²": "2",
+    "。": "o",
+    "−": "ー",
+    "・": ".",
+    "：": "."
+  },
+  "paths": 116,
+  "points": 6392,
+  "validation": {
+    "air_run_mm": 0,
+    "pages": [
+      {
+        "valid": true,
+        "moves": 6626,
+        "strokes": 116,
+        "source_geometry_checked": true
+      }
+    ]
+  },
+  "printer_execution": "not_sent",
+  "source_font_sha256": "14500b3d30b5a4fd01da0ff7807a4eec0892eea040e36c9d37de8ac157028a4d",
+  "current_font_geometry_rechecked": {
+    "valid": true,
+    "moves": 6626,
+    "strokes": 116,
+    "source_geometry_checked": true
+  }
+}

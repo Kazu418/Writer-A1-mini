@@ -1,0 +1,22 @@
+{
+  "printer": "a1-mini",
+  "calibrated": true,
+  "pen_offset_x": 0,
+  "pen_offset_y": -30.8,
+  "paper_x": 65,
+  "paper_y": 65,
+  "paper_width": 50,
+  "paper_height": 35,
+  "nozzle_min_x": 40,
+  "nozzle_max_x": 140,
+  "nozzle_min_y": 40,
+  "nozzle_max_y": 150,
+  "draw_z": 4.9,
+  "lift_z": 6.5,
+  "safe_z": 10,
+  "draw_feed": 1200,
+  "travel_feed": 2400,
+  "z_feed": 600,
+  "pen_width": 0.3,
+  "calibration_notes": "102-character central paragraph on fresh paper. Requires renewed Z5 contact confirmation after pen remounting before dispatch. Type2.5mm; ink gap0.35mm; drawZ4.9/lift6.5/safe10; draw20/travel40/Z10 mm per second."
+}

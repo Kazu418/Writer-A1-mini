@@ -1,0 +1,170 @@
+[
+  {
+    "tile": "face1-pass2",
+    "source": "偏差が基本。平均値から、どれくらい離れてる？ 偏差をそのまま",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 31,
+    "bounds_tile_mm": [
+      146.067,
+      37.11,
+      161.0,
+      39.567
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "S_x^2=(1)/(n)∑(x_i−x_bar)²   S_x=sqrt(S_x^2)",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 32,
+    "bounds_tile_mm": [
+      101.091,
+      54.586,
+      144.985,
+      59.332
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "絶対値を取ってみるバージョン 平均偏差 平均値からの距離の平",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 25,
+    "bounds_tile_mm": [
+      135.339,
+      61.606,
+      160.215,
+      66.352
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "不偏分散 標本調査のときに、分散が小さくなりやすい性質を補正",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 24,
+    "bounds_tile_mm": [
+      130.666,
+      70.086,
+      160.487,
+      75.002
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "ネズミ:平均体重20 g 標準偏差5 g vs ゾウ:平均体",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 13,
+    "bounds_tile_mm": [
+      149.071,
+      90.682,
+      161.0,
+      97.095
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "IQV_x=(K(1−∑P_k^2))/(K−1)",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 26,
+    "bounds_tile_mm": [
+      110.24,
+      112.497,
+      136.401,
+      118.34
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "標準化 平均が0,分散が1になるようにデータを変換すること。",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 18,
+    "bounds_tile_mm": [
+      65.265,
+      6.92,
+      80.5,
+      13.706
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "量的×量的 ex 身長と体重 共分散を使う。どのように一緒に",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 32,
+    "bounds_tile_mm": [
+      44.639,
+      30.294,
+      80.198,
+      35.04
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "これがプラスだと、Aが上がればBも上がる。マイナスだと、Aが",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 19,
+    "bounds_tile_mm": [
+      65.895,
+      39.172,
+      80.5,
+      45.393
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "質的×量的 ex 学科ごとのテスト結果とか 群データが基本 ",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 24,
+    "bounds_tile_mm": [
+      51.914,
+      63.014,
+      79.987,
+      67.76
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "n=全体の人数 nj=グループjの人数 yj=jグループの平",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 41,
+    "bounds_tile_mm": [
+      53.166,
+      78.575,
+      80.5,
+      85.308
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "相関比 質的データ(グループ分け)が量的データのばらつきをど",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 22,
+    "bounds_tile_mm": [
+      58.151,
+      90.695,
+      80.5,
+      96.441
+    ]
+  }
+]

@@ -1,0 +1,1797 @@
+{
+  "progress_percent": 100,
+  "status": "complete",
+  "result_url": null,
+  "expires_in": null,
+  "output_format": "json",
+  "chunks": null,
+  "json": {
+    "children": [
+      {
+        "html": "<p>PN-001</p><p>( )</p><p>PN-002</p><p><i>[signature]</i></p><p>PN-003</p><p><i>[signature]</i></p><p>PN-004</p><p><i>[signature]</i></p><p>PN-005</p><p><i>[signature]</i></p><p>PN-006</p><p><i>[signature]</i></p><p>PN-007</p><p><i>[signature]</i></p><p>PN-008</p><p><i>[signature]</i></p><p>PN-009</p><p><i>[signature]</i></p><p>PN-010</p><p><i>[signature]</i></p><p>PN-011</p><p><i>[signature]</i></p><p>PN-012</p><p><i>[signature]</i></p><p>PN-013</p><p><i>[signature]</i></p><p>PN-014</p><p><i>[signature]</i></p><p>PN-015</p><p><i>[signature]</i></p><p>PN-016</p><p><i>[signature]</i></p><p>PN-017</p><p><i>[signature]</i></p><p>PN-018</p><p><i>[signature]</i></p><p>PN-019</p><p><i>[signature]</i></p><p>PN-020</p><p><i>[signature]</i></p><p>PN-021</p><p><i>[signature]</i></p><p>PN-022</p><p><i>[signature]</i></p><p>PN-023</p><p><i>[signature]</i></p><p>PN-024</p><p><i>[signature]</i></p>",
+        "bbox": [
+          0.0,
+          0.0,
+          1540.0,
+          2632.0
+        ],
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1540.0,
+            0.0
+          ],
+          [
+            1540.0,
+            2632.0
+          ],
+          [
+            0.0,
+            2632.0
+          ]
+        ],
+        "id": "/page/0/Page/0",
+        "block_type": "Page",
+        "children": [
+          {
+            "id": "/page/0/PageHeader/0",
+            "block_type": "PageHeader",
+            "html": "<p>PlotNote - blind handwriting OCR trial</p>",
+            "page": 0,
+            "polygon": [
+              [
+                33.0,
+                15.0
+              ],
+              [
+                545.0,
+                15.0
+              ],
+              [
+                545.0,
+                60.0
+              ],
+              [
+                33.0,
+                60.0
+              ]
+            ],
+            "bbox": [
+              33.0,
+              15.0,
+              545.0,
+              60.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/1",
+            "block_type": "Text",
+            "html": "<p>PN-001</p>",
+            "page": 0,
+            "polygon": [
+              [
+                26.0,
+                97.0
+              ],
+              [
+                107.0,
+                97.0
+              ],
+              [
+                107.0,
+                128.0
+              ],
+              [
+                26.0,
+                128.0
+              ]
+            ],
+            "bbox": [
+              26.0,
+              97.0,
+              107.0,
+              128.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/2",
+            "block_type": "Text",
+            "html": "<p>( )</p>",
+            "page": 0,
+            "polygon": [
+              [
+                30.0,
+                207.0
+              ],
+              [
+                348.0,
+                207.0
+              ],
+              [
+                348.0,
+                413.0
+              ],
+              [
+                30.0,
+                413.0
+              ]
+            ],
+            "bbox": [
+              30.0,
+              207.0,
+              348.0,
+              413.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/3",
+            "block_type": "Text",
+            "html": "<p>PN-002</p>",
+            "page": 0,
+            "polygon": [
+              [
+                409.0,
+                97.0
+              ],
+              [
+                494.0,
+                97.0
+              ],
+              [
+                494.0,
+                128.0
+              ],
+              [
+                409.0,
+                128.0
+              ]
+            ],
+            "bbox": [
+              409.0,
+              97.0,
+              494.0,
+              128.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/4",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                417.0,
+                173.0
+              ],
+              [
+                731.0,
+                173.0
+              ],
+              [
+                731.0,
+                447.0
+              ],
+              [
+                417.0,
+                447.0
+              ]
+            ],
+            "bbox": [
+              417.0,
+              173.0,
+              731.0,
+              447.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/5",
+            "block_type": "Text",
+            "html": "<p>PN-003</p>",
+            "page": 0,
+            "polygon": [
+              [
+                794.0,
+                97.0
+              ],
+              [
+                879.0,
+                97.0
+              ],
+              [
+                879.0,
+                128.0
+              ],
+              [
+                794.0,
+                128.0
+              ]
+            ],
+            "bbox": [
+              794.0,
+              97.0,
+              879.0,
+              128.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/6",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                799.0,
+                165.0
+              ],
+              [
+                1110.0,
+                165.0
+              ],
+              [
+                1110.0,
+                455.0
+              ],
+              [
+                799.0,
+                455.0
+              ]
+            ],
+            "bbox": [
+              799.0,
+              165.0,
+              1110.0,
+              455.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/7",
+            "block_type": "Text",
+            "html": "<p>PN-004</p>",
+            "page": 0,
+            "polygon": [
+              [
+                1175.0,
+                97.0
+              ],
+              [
+                1262.0,
+                97.0
+              ],
+              [
+                1262.0,
+                128.0
+              ],
+              [
+                1175.0,
+                128.0
+              ]
+            ],
+            "bbox": [
+              1175.0,
+              97.0,
+              1262.0,
+              128.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/8",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                1205.0,
+                155.0
+              ],
+              [
+                1470.0,
+                155.0
+              ],
+              [
+                1470.0,
+                468.0
+              ],
+              [
+                1205.0,
+                468.0
+              ]
+            ],
+            "bbox": [
+              1205.0,
+              155.0,
+              1470.0,
+              468.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/9",
+            "block_type": "Text",
+            "html": "<p>PN-005</p>",
+            "page": 0,
+            "polygon": [
+              [
+                26.0,
+                521.0
+              ],
+              [
+                107.0,
+                521.0
+              ],
+              [
+                107.0,
+                555.0
+              ],
+              [
+                26.0,
+                555.0
+              ]
+            ],
+            "bbox": [
+              26.0,
+              521.0,
+              107.0,
+              555.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/10",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                89.0,
+                581.0
+              ],
+              [
+                289.0,
+                581.0
+              ],
+              [
+                289.0,
+                892.0
+              ],
+              [
+                89.0,
+                892.0
+              ]
+            ],
+            "bbox": [
+              89.0,
+              581.0,
+              289.0,
+              892.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/11",
+            "block_type": "Text",
+            "html": "<p>PN-006</p>",
+            "page": 0,
+            "polygon": [
+              [
+                409.0,
+                521.0
+              ],
+              [
+                494.0,
+                521.0
+              ],
+              [
+                494.0,
+                555.0
+              ],
+              [
+                409.0,
+                555.0
+              ]
+            ],
+            "bbox": [
+              409.0,
+              521.0,
+              494.0,
+              555.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/12",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                548.0,
+                581.0
+              ],
+              [
+                597.0,
+                581.0
+              ],
+              [
+                597.0,
+                892.0
+              ],
+              [
+                548.0,
+                892.0
+              ]
+            ],
+            "bbox": [
+              548.0,
+              581.0,
+              597.0,
+              892.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/13",
+            "block_type": "Text",
+            "html": "<p>PN-007</p>",
+            "page": 0,
+            "polygon": [
+              [
+                794.0,
+                521.0
+              ],
+              [
+                879.0,
+                521.0
+              ],
+              [
+                879.0,
+                555.0
+              ],
+              [
+                794.0,
+                555.0
+              ]
+            ],
+            "bbox": [
+              794.0,
+              521.0,
+              879.0,
+              555.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/14",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                800.0,
+                602.0
+              ],
+              [
+                1107.0,
+                602.0
+              ],
+              [
+                1107.0,
+                858.0
+              ],
+              [
+                800.0,
+                858.0
+              ]
+            ],
+            "bbox": [
+              800.0,
+              602.0,
+              1107.0,
+              858.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/15",
+            "block_type": "Text",
+            "html": "<p>PN-008</p>",
+            "page": 0,
+            "polygon": [
+              [
+                1175.0,
+                521.0
+              ],
+              [
+                1262.0,
+                521.0
+              ],
+              [
+                1262.0,
+                555.0
+              ],
+              [
+                1175.0,
+                555.0
+              ]
+            ],
+            "bbox": [
+              1175.0,
+              521.0,
+              1262.0,
+              555.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/16",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                1195.0,
+                581.0
+              ],
+              [
+                1476.0,
+                581.0
+              ],
+              [
+                1476.0,
+                886.0
+              ],
+              [
+                1195.0,
+                886.0
+              ]
+            ],
+            "bbox": [
+              1195.0,
+              581.0,
+              1476.0,
+              886.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/17",
+            "block_type": "Text",
+            "html": "<p>PN-009</p>",
+            "page": 0,
+            "polygon": [
+              [
+                26.0,
+                942.0
+              ],
+              [
+                107.0,
+                942.0
+              ],
+              [
+                107.0,
+                976.0
+              ],
+              [
+                26.0,
+                976.0
+              ]
+            ],
+            "bbox": [
+              26.0,
+              942.0,
+              107.0,
+              976.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/18",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                46.0,
+                1005.0
+              ],
+              [
+                326.0,
+                1005.0
+              ],
+              [
+                326.0,
+                1316.0
+              ],
+              [
+                46.0,
+                1316.0
+              ]
+            ],
+            "bbox": [
+              46.0,
+              1005.0,
+              326.0,
+              1316.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/19",
+            "block_type": "Text",
+            "html": "<p>PN-010</p>",
+            "page": 0,
+            "polygon": [
+              [
+                409.0,
+                942.0
+              ],
+              [
+                494.0,
+                942.0
+              ],
+              [
+                494.0,
+                976.0
+              ],
+              [
+                409.0,
+                976.0
+              ]
+            ],
+            "bbox": [
+              409.0,
+              942.0,
+              494.0,
+              976.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/20",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                477.0,
+                1005.0
+              ],
+              [
+                669.0,
+                1005.0
+              ],
+              [
+                669.0,
+                1316.0
+              ],
+              [
+                477.0,
+                1316.0
+              ]
+            ],
+            "bbox": [
+              477.0,
+              1005.0,
+              669.0,
+              1316.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/21",
+            "block_type": "Text",
+            "html": "<p>PN-011</p>",
+            "page": 0,
+            "polygon": [
+              [
+                794.0,
+                942.0
+              ],
+              [
+                879.0,
+                942.0
+              ],
+              [
+                879.0,
+                976.0
+              ],
+              [
+                794.0,
+                976.0
+              ]
+            ],
+            "bbox": [
+              794.0,
+              942.0,
+              879.0,
+              976.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/22",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                814.0,
+                1005.0
+              ],
+              [
+                1094.0,
+                1005.0
+              ],
+              [
+                1094.0,
+                1316.0
+              ],
+              [
+                814.0,
+                1316.0
+              ]
+            ],
+            "bbox": [
+              814.0,
+              1005.0,
+              1094.0,
+              1316.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/23",
+            "block_type": "Text",
+            "html": "<p>PN-012</p>",
+            "page": 0,
+            "polygon": [
+              [
+                1175.0,
+                942.0
+              ],
+              [
+                1262.0,
+                942.0
+              ],
+              [
+                1262.0,
+                976.0
+              ],
+              [
+                1175.0,
+                976.0
+              ]
+            ],
+            "bbox": [
+              1175.0,
+              942.0,
+              1262.0,
+              976.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/24",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                1239.0,
+                1005.0
+              ],
+              [
+                1432.0,
+                1005.0
+              ],
+              [
+                1432.0,
+                1316.0
+              ],
+              [
+                1239.0,
+                1316.0
+              ]
+            ],
+            "bbox": [
+              1239.0,
+              1005.0,
+              1432.0,
+              1316.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/25",
+            "block_type": "Text",
+            "html": "<p>PN-013</p>",
+            "page": 0,
+            "polygon": [
+              [
+                26.0,
+                1366.0
+              ],
+              [
+                107.0,
+                1366.0
+              ],
+              [
+                107.0,
+                1400.0
+              ],
+              [
+                26.0,
+                1400.0
+              ]
+            ],
+            "bbox": [
+              26.0,
+              1366.0,
+              107.0,
+              1400.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/26",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                80.0,
+                1426.0
+              ],
+              [
+                295.0,
+                1426.0
+              ],
+              [
+                295.0,
+                1737.0
+              ],
+              [
+                80.0,
+                1737.0
+              ]
+            ],
+            "bbox": [
+              80.0,
+              1426.0,
+              295.0,
+              1737.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/27",
+            "block_type": "Text",
+            "html": "<p>PN-014</p>",
+            "page": 0,
+            "polygon": [
+              [
+                409.0,
+                1366.0
+              ],
+              [
+                494.0,
+                1366.0
+              ],
+              [
+                494.0,
+                1400.0
+              ],
+              [
+                409.0,
+                1400.0
+              ]
+            ],
+            "bbox": [
+              409.0,
+              1366.0,
+              494.0,
+              1400.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/28",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                448.0,
+                1426.0
+              ],
+              [
+                694.0,
+                1426.0
+              ],
+              [
+                694.0,
+                1737.0
+              ],
+              [
+                448.0,
+                1737.0
+              ]
+            ],
+            "bbox": [
+              448.0,
+              1426.0,
+              694.0,
+              1737.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/29",
+            "block_type": "Text",
+            "html": "<p>PN-015</p>",
+            "page": 0,
+            "polygon": [
+              [
+                794.0,
+                1366.0
+              ],
+              [
+                879.0,
+                1366.0
+              ],
+              [
+                879.0,
+                1400.0
+              ],
+              [
+                794.0,
+                1400.0
+              ]
+            ],
+            "bbox": [
+              794.0,
+              1366.0,
+              879.0,
+              1400.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/30",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                854.0,
+                1426.0
+              ],
+              [
+                1054.0,
+                1426.0
+              ],
+              [
+                1054.0,
+                1737.0
+              ],
+              [
+                854.0,
+                1737.0
+              ]
+            ],
+            "bbox": [
+              854.0,
+              1426.0,
+              1054.0,
+              1737.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/31",
+            "block_type": "Text",
+            "html": "<p>PN-016</p>",
+            "page": 0,
+            "polygon": [
+              [
+                1175.0,
+                1366.0
+              ],
+              [
+                1262.0,
+                1366.0
+              ],
+              [
+                1262.0,
+                1400.0
+              ],
+              [
+                1175.0,
+                1400.0
+              ]
+            ],
+            "bbox": [
+              1175.0,
+              1366.0,
+              1262.0,
+              1400.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/32",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                1179.0,
+                1426.0
+              ],
+              [
+                1493.0,
+                1426.0
+              ],
+              [
+                1493.0,
+                1737.0
+              ],
+              [
+                1179.0,
+                1737.0
+              ]
+            ],
+            "bbox": [
+              1179.0,
+              1426.0,
+              1493.0,
+              1737.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/33",
+            "block_type": "Text",
+            "html": "<p>PN-017</p>",
+            "page": 0,
+            "polygon": [
+              [
+                26.0,
+                1792.0
+              ],
+              [
+                107.0,
+                1792.0
+              ],
+              [
+                107.0,
+                1823.0
+              ],
+              [
+                26.0,
+                1823.0
+              ]
+            ],
+            "bbox": [
+              26.0,
+              1792.0,
+              107.0,
+              1823.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/34",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                50.0,
+                1850.0
+              ],
+              [
+                323.0,
+                1850.0
+              ],
+              [
+                323.0,
+                2160.0
+              ],
+              [
+                50.0,
+                2160.0
+              ]
+            ],
+            "bbox": [
+              50.0,
+              1850.0,
+              323.0,
+              2160.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/35",
+            "block_type": "Text",
+            "html": "<p>PN-018</p>",
+            "page": 0,
+            "polygon": [
+              [
+                409.0,
+                1792.0
+              ],
+              [
+                494.0,
+                1792.0
+              ],
+              [
+                494.0,
+                1823.0
+              ],
+              [
+                409.0,
+                1823.0
+              ]
+            ],
+            "bbox": [
+              409.0,
+              1792.0,
+              494.0,
+              1823.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/36",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                486.0,
+                1850.0
+              ],
+              [
+                657.0,
+                1850.0
+              ],
+              [
+                657.0,
+                2160.0
+              ],
+              [
+                486.0,
+                2160.0
+              ]
+            ],
+            "bbox": [
+              486.0,
+              1850.0,
+              657.0,
+              2160.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/37",
+            "block_type": "Text",
+            "html": "<p>PN-019</p>",
+            "page": 0,
+            "polygon": [
+              [
+                794.0,
+                1792.0
+              ],
+              [
+                879.0,
+                1792.0
+              ],
+              [
+                879.0,
+                1823.0
+              ],
+              [
+                794.0,
+                1823.0
+              ]
+            ],
+            "bbox": [
+              794.0,
+              1792.0,
+              879.0,
+              1823.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/38",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                822.0,
+                1850.0
+              ],
+              [
+                1082.0,
+                1850.0
+              ],
+              [
+                1082.0,
+                2160.0
+              ],
+              [
+                822.0,
+                2160.0
+              ]
+            ],
+            "bbox": [
+              822.0,
+              1850.0,
+              1082.0,
+              2160.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/39",
+            "block_type": "Text",
+            "html": "<p>PN-020</p>",
+            "page": 0,
+            "polygon": [
+              [
+                1175.0,
+                1792.0
+              ],
+              [
+                1262.0,
+                1792.0
+              ],
+              [
+                1262.0,
+                1823.0
+              ],
+              [
+                1175.0,
+                1823.0
+              ]
+            ],
+            "bbox": [
+              1175.0,
+              1792.0,
+              1262.0,
+              1823.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/40",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                1179.0,
+                1884.0
+              ],
+              [
+                1493.0,
+                1884.0
+              ],
+              [
+                1493.0,
+                2121.0
+              ],
+              [
+                1179.0,
+                2121.0
+              ]
+            ],
+            "bbox": [
+              1179.0,
+              1884.0,
+              1493.0,
+              2121.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/41",
+            "block_type": "Text",
+            "html": "<p>PN-021</p>",
+            "page": 0,
+            "polygon": [
+              [
+                26.0,
+                2213.0
+              ],
+              [
+                107.0,
+                2213.0
+              ],
+              [
+                107.0,
+                2247.0
+              ],
+              [
+                26.0,
+                2247.0
+              ]
+            ],
+            "bbox": [
+              26.0,
+              2213.0,
+              107.0,
+              2247.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/42",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                80.0,
+                2271.0
+              ],
+              [
+                295.0,
+                2271.0
+              ],
+              [
+                295.0,
+                2584.0
+              ],
+              [
+                80.0,
+                2584.0
+              ]
+            ],
+            "bbox": [
+              80.0,
+              2271.0,
+              295.0,
+              2584.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/43",
+            "block_type": "Text",
+            "html": "<p>PN-022</p>",
+            "page": 0,
+            "polygon": [
+              [
+                409.0,
+                2213.0
+              ],
+              [
+                494.0,
+                2213.0
+              ],
+              [
+                494.0,
+                2247.0
+              ],
+              [
+                409.0,
+                2247.0
+              ]
+            ],
+            "bbox": [
+              409.0,
+              2213.0,
+              494.0,
+              2247.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/44",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                445.0,
+                2271.0
+              ],
+              [
+                700.0,
+                2271.0
+              ],
+              [
+                700.0,
+                2584.0
+              ],
+              [
+                445.0,
+                2584.0
+              ]
+            ],
+            "bbox": [
+              445.0,
+              2271.0,
+              700.0,
+              2584.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/45",
+            "block_type": "Text",
+            "html": "<p>PN-023</p>",
+            "page": 0,
+            "polygon": [
+              [
+                794.0,
+                2213.0
+              ],
+              [
+                879.0,
+                2213.0
+              ],
+              [
+                879.0,
+                2247.0
+              ],
+              [
+                794.0,
+                2247.0
+              ]
+            ],
+            "bbox": [
+              794.0,
+              2213.0,
+              879.0,
+              2247.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/46",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                814.0,
+                2271.0
+              ],
+              [
+                1094.0,
+                2271.0
+              ],
+              [
+                1094.0,
+                2584.0
+              ],
+              [
+                814.0,
+                2584.0
+              ]
+            ],
+            "bbox": [
+              814.0,
+              2271.0,
+              1094.0,
+              2584.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/47",
+            "block_type": "Text",
+            "html": "<p>PN-024</p>",
+            "page": 0,
+            "polygon": [
+              [
+                1175.0,
+                2213.0
+              ],
+              [
+                1262.0,
+                2213.0
+              ],
+              [
+                1262.0,
+                2247.0
+              ],
+              [
+                1175.0,
+                2247.0
+              ]
+            ],
+            "bbox": [
+              1175.0,
+              2213.0,
+              1262.0,
+              2247.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/48",
+            "block_type": "Text",
+            "html": "<p><i>[signature]</i></p>",
+            "page": 0,
+            "polygon": [
+              [
+                1224.0,
+                2271.0
+              ],
+              [
+                1444.0,
+                2271.0
+              ],
+              [
+                1444.0,
+                2584.0
+              ],
+              [
+                1224.0,
+                2584.0
+              ]
+            ],
+            "bbox": [
+              1224.0,
+              2271.0,
+              1444.0,
+              2584.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          }
+        ],
+        "section_hierarchy": {}
+      }
+    ],
+    "metadata": {
+      "page_stats": [
+        {
+          "page_id": 0,
+          "num_blocks": 49
+        }
+      ],
+      "failed_pages": []
+    }
+  },
+  "markdown": "\n\nPN-001\n\n( )\n\nPN-002\n\n*[signature]*\n\nPN-003\n\n*[signature]*\n\nPN-004\n\n*[signature]*\n\nPN-005\n\n*[signature]*\n\nPN-006\n\n*[signature]*\n\nPN-007\n\n*[signature]*\n\nPN-008\n\n*[signature]*\n\nPN-009\n\n*[signature]*\n\nPN-010\n\n*[signature]*\n\nPN-011\n\n*[signature]*\n\nPN-012\n\n*[signature]*\n\nPN-013\n\n*[signature]*\n\nPN-014\n\n*[signature]*\n\nPN-015\n\n*[signature]*\n\nPN-016\n\n*[signature]*\n\nPN-017\n\n*[signature]*\n\nPN-018\n\n*[signature]*\n\nPN-019\n\n*[signature]*\n\nPN-020\n\n*[signature]*\n\nPN-021\n\n*[signature]*\n\nPN-022\n\n*[signature]*\n\nPN-023\n\n*[signature]*\n\nPN-024\n\n*[signature]*",
+  "html": null,
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "extraction_scoring_status": null,
+  "extraction_mode": null,
+  "segmentation_results": null,
+  "segmentation_schema": null,
+  "images": {},
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 0,
+        "num_blocks": 49
+      }
+    ],
+    "failed_pages": []
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": 3.0,
+  "page_count": 1,
+  "total_cost": 0.09975,
+  "cost_breakdown": {
+    "final_cost_cents": 0.09975
+  },
+  "runtime": 1.0706579685211182,
+  "checkpoint_id": null,
+  "versions": null
+}

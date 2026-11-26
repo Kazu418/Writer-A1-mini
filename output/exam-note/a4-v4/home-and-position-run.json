@@ -1,0 +1,31 @@
+{
+  "utc": "2026-11-25T14:53:37.504994+00:00",
+  "sent": true,
+  "authorized_action": "User confirmed pen removed; home XYZ, lift to Z15, position at X14",
+  "gcode": "G28\nM400\nG21\nG90\nG1 Z15 F300\nM400\nG1 X14 F600\nM400\n",
+  "before": {
+    "gcode_state": "FAILED",
+    "home_flag": 847070608,
+    "print_error": 0,
+    "nozzle_target_temper": 0,
+    "bed_target_temper": 0
+  },
+  "acks": [
+    {
+      "sequence_id": "1795618416",
+      "command": "gcode_line",
+      "param": "G28\nM400\nG21\nG90\nG1 Z15 F300\nM400\nG1 X14 F600\nM400\n",
+      "reason": "success",
+      "result": "success"
+    }
+  ],
+  "after": {
+    "gcode_state": "FAILED",
+    "print_error": 0,
+    "hms": [],
+    "home_flag": 847070615,
+    "nozzle_target_temper": 0,
+    "bed_target_temper": 0
+  },
+  "physical_position_verified": false
+}

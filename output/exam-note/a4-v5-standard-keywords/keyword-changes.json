@@ -1,0 +1,842 @@
+[
+  {
+    "tile": "face2-pass1",
+    "keyword": "標準化",
+    "segment": "標準化",
+    "old_strokes": 32,
+    "new_strokes": 32,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "分散",
+    "segment": "分散",
+    "old_strokes": 15,
+    "new_strokes": 16,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "Zスコア",
+    "segment": "Zス",
+    "old_strokes": 4,
+    "new_strokes": 5,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "Zスコア",
+    "segment": "コア",
+    "old_strokes": 4,
+    "new_strokes": 4,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "標準偏差",
+    "segment": "標準偏差",
+    "old_strokes": 49,
+    "new_strokes": 49,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "尺度水準",
+    "segment": "尺",
+    "old_strokes": 5,
+    "new_strokes": 4,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "尺度水準",
+    "segment": "度水準",
+    "old_strokes": 26,
+    "new_strokes": 26,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "共分散",
+    "segment": "共分散",
+    "old_strokes": 21,
+    "new_strokes": 22,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "共分散",
+    "segment": "共分散",
+    "old_strokes": 21,
+    "new_strokes": 22,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "相関係数",
+    "segment": "相関係数",
+    "old_strokes": 44,
+    "new_strokes": 45,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "共分散",
+    "segment": "共分散",
+    "old_strokes": 21,
+    "new_strokes": 22,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "標準偏差",
+    "segment": "標準偏差",
+    "old_strokes": 49,
+    "new_strokes": 49,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "Zスコア",
+    "segment": "Zスコア",
+    "old_strokes": 8,
+    "new_strokes": 9,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "共分散",
+    "segment": "共分散",
+    "old_strokes": 21,
+    "new_strokes": 22,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群データ",
+    "segment": "群",
+    "old_strokes": 12,
+    "new_strokes": 13,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群データ",
+    "segment": "データ",
+    "old_strokes": 7,
+    "new_strokes": 9,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群平均",
+    "segment": "群",
+    "old_strokes": 12,
+    "new_strokes": 13,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群平均",
+    "segment": "平均",
+    "old_strokes": 12,
+    "new_strokes": 12,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "総平均",
+    "segment": "総平均",
+    "old_strokes": 21,
+    "new_strokes": 26,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "全分散",
+    "segment": "全分散",
+    "old_strokes": 21,
+    "new_strokes": 22,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群内分散",
+    "segment": "群内分",
+    "old_strokes": 20,
+    "new_strokes": 21,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群内分散",
+    "segment": "散",
+    "old_strokes": 11,
+    "new_strokes": 12,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群間分散",
+    "segment": "群間分散",
+    "old_strokes": 38,
+    "new_strokes": 41,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群内分散",
+    "segment": "群内分散",
+    "old_strokes": 31,
+    "new_strokes": 33,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群間分散",
+    "segment": "群間分散",
+    "old_strokes": 38,
+    "new_strokes": 41,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "分散",
+    "segment": "分散",
+    "old_strokes": 15,
+    "new_strokes": 16,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群内分散",
+    "segment": "群内分散",
+    "old_strokes": 31,
+    "new_strokes": 33,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "相関比",
+    "segment": "相関比",
+    "old_strokes": 27,
+    "new_strokes": 27,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "全分散",
+    "segment": "全分散",
+    "old_strokes": 21,
+    "new_strokes": 22,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群内分散",
+    "segment": "群内分散",
+    "old_strokes": 31,
+    "new_strokes": 33,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "群間分散",
+    "segment": "群間分散",
+    "old_strokes": 38,
+    "new_strokes": 41,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "相関比",
+    "segment": "相関比",
+    "old_strokes": 27,
+    "new_strokes": 27,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "期待度数",
+    "segment": "期待度数",
+    "old_strokes": 41,
+    "new_strokes": 43,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "リスク",
+    "segment": "リスク",
+    "old_strokes": 6,
+    "new_strokes": 6,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "オッズ",
+    "segment": "オッズ",
+    "old_strokes": 10,
+    "new_strokes": 10,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "一次分析",
+    "segment": "一次分析",
+    "old_strokes": 18,
+    "new_strokes": 19,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "棒グラフ",
+    "segment": "棒グラフ",
+    "old_strokes": 17,
+    "new_strokes": 19,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "円グラフ",
+    "segment": "円グラフ",
+    "old_strokes": 11,
+    "new_strokes": 11,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "帯グラフ",
+    "segment": "帯グラフ",
+    "old_strokes": 16,
+    "new_strokes": 17,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "パレート図",
+    "segment": "パレート図",
+    "old_strokes": 14,
+    "new_strokes": 14,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "折れ線グラフ",
+    "segment": "折れ線グラフ",
+    "old_strokes": 25,
+    "new_strokes": 31,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "ヒストグラム",
+    "segment": "ヒストグラム",
+    "old_strokes": 14,
+    "new_strokes": 14,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "棒グラフ",
+    "segment": "棒グラフ",
+    "old_strokes": 17,
+    "new_strokes": 19,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "箱ひげ図",
+    "segment": "箱ひげ図",
+    "old_strokes": 28,
+    "new_strokes": 28,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "5数要約",
+    "segment": "5数要約",
+    "old_strokes": 30,
+    "new_strokes": 33,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "バイオリンプロット",
+    "segment": "バイオリンプロット",
+    "old_strokes": 24,
+    "new_strokes": 23,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "積み上げ棒グラフ",
+    "segment": "積み上げ棒グラフ",
+    "old_strokes": 39,
+    "new_strokes": 45,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "層別帯グラフ",
+    "segment": "層別帯グラフ",
+    "old_strokes": 36,
+    "new_strokes": 38,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "モザイクプロット",
+    "segment": "モザイクプロット",
+    "old_strokes": 22,
+    "new_strokes": 22,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "ヒートマップ",
+    "segment": "ヒートマップ",
+    "old_strokes": 12,
+    "new_strokes": 12,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "散布図",
+    "segment": "散布図",
+    "old_strokes": 23,
+    "new_strokes": 24,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "散布図",
+    "segment": "散布図",
+    "old_strokes": 23,
+    "new_strokes": 24,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "散布図",
+    "segment": "散布図",
+    "old_strokes": 23,
+    "new_strokes": 24,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "レーダーチャート",
+    "segment": "レーダーチャート",
+    "old_strokes": 16,
+    "new_strokes": 16,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "円グラフ",
+    "segment": "円グラフ",
+    "old_strokes": 11,
+    "new_strokes": 11,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "GIS",
+    "segment": "GIS",
+    "old_strokes": 4,
+    "new_strokes": 4,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "データサイエンス",
+    "segment": "データサイエンス",
+    "old_strokes": 19,
+    "new_strokes": 21,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "データエンジニアリング",
+    "segment": "データエンジニアリング",
+    "old_strokes": 29,
+    "new_strokes": 31,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "データサイエンス",
+    "segment": "データサイエンス",
+    "old_strokes": 19,
+    "new_strokes": 21,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "ICT",
+    "segment": "ICT",
+    "old_strokes": 4,
+    "new_strokes": 4,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "ビッグデータ",
+    "segment": "ビッグデータ",
+    "old_strokes": 18,
+    "new_strokes": 20,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "ビッグデータ",
+    "segment": "ビッグデータ",
+    "old_strokes": 18,
+    "new_strokes": 20,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "クローリング",
+    "segment": "クローリング",
+    "old_strokes": 14,
+    "new_strokes": 14,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "スクレイピング",
+    "segment": "スクレイピング",
+    "old_strokes": 16,
+    "new_strokes": 16,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "オープンデータ",
+    "segment": "オープンデータ",
+    "old_strokes": 15,
+    "new_strokes": 17,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "EBPM",
+    "segment": "EBPM",
+    "old_strokes": 12,
+    "new_strokes": 13,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "データガバナンス",
+    "segment": "データガバナンス",
+    "old_strokes": 22,
+    "new_strokes": 23,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "リスク",
+    "segment": "リスク",
+    "old_strokes": 6,
+    "new_strokes": 6,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "構造化データ",
+    "segment": "構造化データ",
+    "old_strokes": 34,
+    "new_strokes": 37,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "非構造化データ",
+    "segment": "非構造化データ",
+    "old_strokes": 42,
+    "new_strokes": 45,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "IoT",
+    "segment": "IoT",
+    "old_strokes": 4,
+    "new_strokes": 4,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "IoE",
+    "segment": "IoE",
+    "old_strokes": 6,
+    "new_strokes": 6,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "IoA",
+    "segment": "I",
+    "old_strokes": 1,
+    "new_strokes": 1,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass1",
+    "keyword": "IoA",
+    "segment": "oA",
+    "old_strokes": 4,
+    "new_strokes": 4,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "スクレイピング",
+    "segment": "スクレ",
+    "old_strokes": 5,
+    "new_strokes": 5,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "スクレイピング",
+    "segment": "イピング",
+    "old_strokes": 11,
+    "new_strokes": 11,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "サンプリング",
+    "segment": "サンプリング",
+    "old_strokes": 15,
+    "new_strokes": 15,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "データクレンジング",
+    "segment": "データクレンジング",
+    "old_strokes": 23,
+    "new_strokes": 25,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "欠損値",
+    "segment": "欠損値",
+    "old_strokes": 26,
+    "new_strokes": 27,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "異常値",
+    "segment": "異常値",
+    "old_strokes": 30,
+    "new_strokes": 32,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "外れ値",
+    "segment": "外れ値",
+    "old_strokes": 16,
+    "new_strokes": 17,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "外れ値",
+    "segment": "外れ値",
+    "old_strokes": 16,
+    "new_strokes": 17,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "標準偏差",
+    "segment": "標準偏",
+    "old_strokes": 39,
+    "new_strokes": 39,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "標準偏差",
+    "segment": "差",
+    "old_strokes": 10,
+    "new_strokes": 10,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "外れ値",
+    "segment": "外れ値",
+    "old_strokes": 16,
+    "new_strokes": 17,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "バイアス",
+    "segment": "バイアス",
+    "old_strokes": 11,
+    "new_strokes": 10,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "サンプリング",
+    "segment": "サンプリング",
+    "old_strokes": 15,
+    "new_strokes": 15,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "バイアス",
+    "segment": "バイアス",
+    "old_strokes": 11,
+    "new_strokes": 10,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "バイアス",
+    "segment": "バイアス",
+    "old_strokes": 11,
+    "new_strokes": 10,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "バイアス",
+    "segment": "バイアス",
+    "old_strokes": 11,
+    "new_strokes": 10,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "データクレンジング",
+    "segment": "データクレンジング",
+    "old_strokes": 23,
+    "new_strokes": 25,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "アノテーション",
+    "segment": "アノテーション",
+    "old_strokes": 15,
+    "new_strokes": 15,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "結合処理",
+    "segment": "結合処理",
+    "old_strokes": 25,
+    "new_strokes": 34,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "符号化",
+    "segment": "符号化",
+    "old_strokes": 20,
+    "new_strokes": 20,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "数理最適化",
+    "segment": "数理最適化",
+    "old_strokes": 48,
+    "new_strokes": 54,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "制約条件",
+    "segment": "制約条件",
+    "old_strokes": 27,
+    "new_strokes": 30,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "目的関数",
+    "segment": "目的関数",
+    "old_strokes": 40,
+    "new_strokes": 40,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "目的関数",
+    "segment": "目的関数",
+    "old_strokes": 40,
+    "new_strokes": 40,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "決定変数",
+    "segment": "決定変数",
+    "old_strokes": 36,
+    "new_strokes": 37,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "目的関数",
+    "segment": "目的関数",
+    "old_strokes": 40,
+    "new_strokes": 40,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "制約条件",
+    "segment": "制",
+    "old_strokes": 8,
+    "new_strokes": 8,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "制約条件",
+    "segment": "約条件",
+    "old_strokes": 19,
+    "new_strokes": 22,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "連続最適化問題",
+    "segment": "連続最適化問題",
+    "old_strokes": 68,
+    "new_strokes": 82,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "決定変数",
+    "segment": "決定変数",
+    "old_strokes": 36,
+    "new_strokes": 37,
+    "underline_unchanged": true
+  },
+  {
+    "tile": "face2-pass2",
+    "keyword": "離散最適化問題",
+    "segment": "離散最適化問題",
+    "old_strokes": 78,
+    "new_strokes": 90,
+    "underline_unchanged": true
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "tile": "face1-pass2",
+    "original_strokes": 6191,
+    "removed_formula_strokes": 151,
+    "remaining_strokes": 6040,
+    "minutes_est": 44.6,
+    "validation": {
+      "valid": true,
+      "moves": 328519,
+      "strokes": 6040,
+      "source_geometry_checked": true
+    },
+    "retained_commands_identical": true
+  },
+  {
+    "tile": "face2-pass1",
+    "original_strokes": 7267,
+    "removed_formula_strokes": 156,
+    "remaining_strokes": 7111,
+    "minutes_est": 52.3,
+    "validation": {
+      "valid": true,
+      "moves": 393165,
+      "strokes": 7111,
+      "source_geometry_checked": true
+    },
+    "retained_commands_identical": true
+  },
+  {
+    "tile": "face2-pass2",
+    "original_strokes": 5927,
+    "removed_formula_strokes": 0,
+    "remaining_strokes": 5927,
+    "minutes_est": 43.7,
+    "validation": {
+      "valid": true,
+      "moves": 320997,
+      "strokes": 5927,
+      "source_geometry_checked": true
+    },
+    "retained_commands_identical": true
+  }
+]

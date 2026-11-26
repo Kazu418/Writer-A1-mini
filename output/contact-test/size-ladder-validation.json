@@ -1,0 +1,37 @@
+{
+  "valid": true,
+  "moves": 2248,
+  "strokes": 86,
+  "source_geometry_checked": true,
+  "sizes_mm": [
+    5,
+    4,
+    3,
+    2.5,
+    2,
+    1.5
+  ],
+  "sample": "永あA8",
+  "labels": "mm em size, not exact ink height",
+  "pen_bounds_mm": [
+    73.4862385321101,
+    43.77522935779817,
+    103.8302752293578,
+    76.39220183486239
+  ],
+  "nozzle_bounds_mm": [
+    73.4862385321101,
+    74.57522935779816,
+    103.8302752293578,
+    107.19220183486239
+  ],
+  "source_summary": {
+    "width_mm": 60,
+    "height_mm": 50,
+    "strokes": 86,
+    "points": 2074,
+    "ink_mm": 204.958,
+    "travel_mm": 312.583,
+    "warnings": []
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "tile": "face1-pass1",
+    "strokes": 5407,
+    "draw_mm": 8898,
+    "minutes_est": 39.9,
+    "nozzle_x": [
+      11.5,
+      168.5
+    ],
+    "nozzle_y": [
+      50.8,
+      171.9
+    ],
+    "validate": {
+      "valid": true,
+      "moves": 302723,
+      "strokes": 5407,
+      "source_geometry_checked": false
+    }
+  },
+  {
+    "tile": "face1-pass2",
+    "strokes": 6191,
+    "draw_mm": 10429,
+    "minutes_est": 46.0,
+    "nozzle_x": [
+      11.5,
+      168.8
+    ],
+    "nozzle_y": [
+      40.3,
+      161.4
+    ],
+    "validate": {
+      "valid": true,
+      "moves": 340428,
+      "strokes": 6191,
+      "source_geometry_checked": false
+    }
+  },
+  {
+    "tile": "face2-pass1",
+    "strokes": 7267,
+    "draw_mm": 11951,
+    "minutes_est": 53.6,
+    "nozzle_x": [
+      11.5,
+      168.5
+    ],
+    "nozzle_y": [
+      51.6,
+      172.3
+    ],
+    "validate": {
+      "valid": true,
+      "moves": 405722,
+      "strokes": 7267,
+      "source_geometry_checked": false
+    }
+  },
+  {
+    "tile": "face2-pass2",
+    "strokes": 5927,
+    "draw_mm": 9461,
+    "minutes_est": 43.7,
+    "nozzle_x": [
+      11.5,
+      168.5
+    ],
+    "nozzle_y": [
+      47.1,
+      161.3
+    ],
+    "validate": {
+      "valid": true,
+      "moves": 320997,
+      "strokes": 5927,
+      "source_geometry_checked": false
+    }
+  }
+]

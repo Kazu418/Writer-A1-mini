@@ -1,0 +1,57 @@
+{
+  "id": "writer-a1-mini-owner-v1",
+  "bed_mm": [
+    180,
+    180
+  ],
+  "paper_mm": [
+    210,
+    297
+  ],
+  "tile_mm": [
+    165,
+    127.5
+  ],
+  "a4_window_x_mm": 22.5,
+  "a4_window_y_mm": [
+    36.5,
+    164.5
+  ],
+  "paper_y_by_pass_mm": [
+    16.0,
+    5.0
+  ],
+  "mount_reference_z_mm": 5.0,
+  "base_profile": {
+    "printer": "a1-mini",
+    "calibrated": true,
+    "pen_offset_x": 0,
+    "pen_offset_y": -30.8,
+    "paper_x": 7.5,
+    "paper_width": 165.0,
+    "paper_height": 127.5,
+    "nozzle_min_x": 5.0,
+    "nozzle_max_x": 175.0,
+    "nozzle_min_y": 5.0,
+    "nozzle_max_y": 175.0,
+    "draw_z": 4.8,
+    "lift_z": 6.5,
+    "safe_z": 10.0,
+    "draw_feed": 1800.0,
+    "travel_feed": 2400.0,
+    "z_feed": 600.0,
+    "pen_width": 0.3
+  },
+  "registration_marks": false,
+  "tile_frames": false,
+  "runtime_owner_only": true,
+  "runtime_home_flag_xyz_mask": 7,
+  "evidence": {
+    "historical_calibration_nozzle_y_mm": [
+      40,
+      150
+    ],
+    "full_declared_5_to_175_range_physically_verified": false,
+    "note": "Owner observed successful note printing with this setup. Bounds are a generation envelope, not proof that every position or other pen/paper is safe. Owner rechecks mounting/contact and homing. Firmware startup may heat to75C; pause may set90C. Cancel can lose homing."
+  }
+}

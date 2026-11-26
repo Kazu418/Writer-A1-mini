@@ -1,0 +1,20 @@
+{
+  "characters": 351,
+  "text": "生活習慣病\n数の変化を記録\n手と目を使う",
+  "paragraph_paths": 121,
+  "paragraph_points": 6157,
+  "validation": {
+    "air_run_mm": 0,
+    "pages": [
+      {
+        "valid": true,
+        "moves": 6401,
+        "strokes": 121,
+        "source_geometry_checked": true
+      }
+    ]
+  },
+  "printer_execution": "not_sent",
+  "profile": "previously saved central test profile; present physical setup unverified",
+  "metrics": "Provisional for samples without a common source-line reference. Full note not complete."
+}

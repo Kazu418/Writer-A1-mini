@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>字の確認</title>
+<style>
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;height:100%;background:#f4f4ef;color:#1d2420;font-family:-apple-system,"Hiragino Sans",sans-serif;overscroll-behavior:none;touch-action:manipulation;-webkit-user-select:none;user-select:none}
+#app{display:flex;flex-direction:column;height:100dvh;padding:env(safe-area-inset-top) 12px calc(env(safe-area-inset-bottom) + 10px)}
+#top{display:flex;align-items:center;gap:10px;padding:8px 2px 6px;font-size:15px}
+#bar{flex:1;height:10px;background:#dcdcd2;border-radius:5px;overflow:hidden}
+#fill{height:100%;width:0;background:#2e9d5b;transition:width .2s}
+#count{font-variant-numeric:tabular-nums;white-space:nowrap}
+#save{font-size:13px;padding:4px 10px;border-radius:12px;white-space:nowrap}
+.ok{background:#d6efdf;color:#17623a}.wait{background:#fff0c2;color:#7a5600}.bad{background:#ffd5d0;color:#a0170a;font-weight:700}
+#card{flex:1;min-height:0;padding:4px 0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px}
+#glyphbox{width:min(100%,36dvh);aspect-ratio:1;background:#fff;border-radius:18px;box-shadow:0 2px 12px #0002}
+#glyphbox svg{width:100%;height:100%;display:block}
+#q{font-size:22px;text-align:center;line-height:1.3}
+#q b{font-size:52px;font-weight:700;vertical-align:-6px;margin:0 6px}
+#hint{font-size:14px;text-align:center;min-height:20px}
+.h-good{color:#17623a}.h-warn{color:#9a5b00}
+#btns{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+button{font:inherit;border:0;border-radius:18px;font-weight:700;color:#fff;touch-action:manipulation}
+button:active{transform:scale(.97);filter:brightness(.92)}
+#yes{grid-column:1/3;height:92px;font-size:30px;background:#2e9d5b}
+#no{height:84px;font-size:26px;background:#d8453a}
+#unsure{height:84px;font-size:24px;background:#7d8590}
+#sub{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px}
+#undo,#fix{height:60px;font-size:19px;background:#e4e4da;color:#1d2420}
+#foot{display:flex;justify-content:space-between;font-size:12px;color:#6b726c;padding:8px 4px 0}
+#foot a{color:#2c6fb0}
+#fixpanel{display:none;position:fixed;inset:0;background:#000a;align-items:center;justify-content:center;z-index:5}
+#fixpanel div{background:#fff;border-radius:20px;padding:20px;width:min(92%,380px);text-align:center}
+#fixpanel input{font-size:54px;width:100%;text-align:center;border:3px solid #bbb;border-radius:14px;padding:6px}
+#fixpanel p{margin:0 0 10px;font-size:17px}
+#fixgo{height:70px;width:100%;font-size:24px;background:#2e9d5b;margin-top:12px}
+#fixcancel{height:56px;width:100%;font-size:18px;background:#e4e4da;color:#1d2420;margin-top:8px}
+#done{display:none;text-align:center;font-size:26px;padding-top:30vh;line-height:1.6}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="top"><span id="count"></span><div id="bar"><div id="fill"></div></div><span id="save" class="wait">読込中</span></div>
+  <div id="card">
+    <div id="glyphbox"><svg id="svg" viewBox="0 0 100 100"></svg></div>
+    <div id="q"></div>
+    <div id="hint"></div>
+  </div>
+  <div id="btns">
+    <button id="yes">○ 合ってる</button>
+    <button id="no">✕ 違う</button>
+    <button id="unsure">？ わからない</button>
+  </div>
+  <div id="sub"><button id="undo">↩ ひとつ戻す</button><button id="fix">✎ 正しい字を入力</button></div>
+  <div id="foot"><span id="where"></span><a href="#" id="backup">バックアップ保存</a></div>
+</div>
+<div id="done">ぜんぶ終わりました<br>おつかれさま！<br><small id="donesub"></small></div>
+<div id="fixpanel"><div>
+  <p>この字は何ですか？（1文字）</p>
+  <input id="fixinput" autocomplete="off" autocapitalize="off" spellcheck="false">
+  <button id="fixgo">この字で保存</button>
+  <button id="fixcancel">やめる</button>
+</div></div>
+<script>
+const K=new URLSearchParams(location.search).get('k')||'';
+const PEND='plotnote-label-pending-v1';
+let Q=[],D={},idx=0,hist=[],groups={},pend=[],busy=false,lastTap=0,serverOK=true;
+try{pend=JSON.parse(localStorage.getItem(PEND)||'[]')}catch(e){pend=[]}
+const $=id=>document.getElementById(id);
+const api=(p,o)=>fetch(p+(p.includes('?')?'&':'?')+'k='+encodeURIComponent(K),o);
+const rid=()=>Date.now().toString(36)+Math.random().toString(36).slice(2,12);
+const KIND={agree_high:['2つの判定が一致（自信あり）','h-good'],agree_low:['2つの判定が一致（自信は低め）','h-good'],
+  agree_top5:['元の候補と近い字です','h-warn'],ai_only:['AIだけの意見です。元の候補は「{g}」','h-warn']};
+function savePend(){localStorage.setItem(PEND,JSON.stringify(pend))}
+function status(){
+  const el=$('save');
+  if(pend.length===0&&serverOK){el.className='ok';el.textContent='✓ 保存済み'}
+  else if(!serverOK){el.className='bad';el.textContent='⚠ 未保存 '+pend.length+'件（通信切れ）'}
+  else{el.className='wait';el.textContent='送信中 '+pend.length}
+}
+async function flush(){
+  if(busy)return;busy=true;
+  try{
+    while(pend.length){
+      const r=await api('/api/review',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(pend[0])});
+      const j=await r.json();
+      if(r.ok&&j.ok){pend.shift();savePend();serverOK=true;status()}
+      else if(r.status===400){pend.shift();savePend()} // malformed: drop, never loop forever
+      else{serverOK=false;break}
+    }
+    if(!pend.length)serverOK=true;
+  }catch(e){serverOK=false}
+  busy=false;status();
+}
+function record(id,v,label){
+  pend.push({rid:rid(),id,v,label:label||null,t:Date.now()});savePend();
+  if(v==='undo')delete D[id];else D[id]={v,label:label||null};
+  status();flush();
+}
+function nextUndecided(from){
+  for(let i=from;i<Q.length;i++)if(!D[Q[i].id])return i;
+  for(let i=0;i<from;i++)if(!D[Q[i].id])return i;
+  return -1;
+}
+function render(){
+  const n=Q.filter(q=>D[q.id]).length;
+  $('count').textContent=n+' / '+Q.length;
+  $('fill').style.width=(Q.length?100*n/Q.length:0)+'%';
+  if(idx<0){$('app').style.display='none';$('done').style.display='block';
+    $('donesub').textContent='○'+Q.filter(q=>D[q.id]&&D[q.id].v==='yes').length+'　✕'+Q.filter(q=>D[q.id]&&D[q.id].v==='no').length+'　？'+Q.filter(q=>D[q.id]&&D[q.id].v==='unsure').length;
+    if(!$('undo2'))$('done').insertAdjacentHTML('beforeend','<p><button id="undo2" style="height:60px;padding:0 24px;font-size:19px;background:#e4e4da;color:#1d2420">↩ 戻って直す</button></p>');
+    $('undo2').onclick=()=>{$('app').style.display='flex';$('done').style.display='none';undo()};return}
+  const it=Q[idx];
+  const svg=$('svg');svg.innerHTML='';
+  const w=1.6;
+  for(const flat of it.paths){
+    let d='';for(let i=0;i<flat.length;i+=2)d+=(i?'L':'M')+flat[i]+' '+flat[i+1];
+    const p=document.createElementNS('http://www.w3.org/2000/svg','path');
+    p.setAttribute('d',d);p.setAttribute('fill','none');p.setAttribute('stroke','#1d2420');
+    p.setAttribute('stroke-width',w+1.2);p.setAttribute('stroke-linecap','round');p.setAttribute('stroke-linejoin','round');svg.appendChild(p);
+  }
+  $('q').innerHTML='これは<b>'+esc(it.label)+'</b>ですか？';
+  const k=KIND[it.kind];$('hint').className=k[1];$('hint').textContent=k[0].replace('{g}',it.goodnotes);
+  const g=groups[it.label];$('where').textContent='「'+it.label+'」 '+(g.indexOf(it.id)+1)+' / '+g.length+'件目';
+  for(let j=1;j<=4;j++){const nx=Q[idx+j];}
+}
+function esc(s){return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function answer(v,label){
+  const now=Date.now();if(now-lastTap<250)return;lastTap=now;
+  if(idx<0)return;
+  const id=Q[idx].id;record(id,v,label);hist.push(id);
+  idx=nextUndecided(idx+1);render();
+}
+function undo(){
+  let id=hist.pop();
+  if(id===undefined){ // nothing this session: step back to the previous decided item
+    for(let i=(idx<0?Q.length:idx)-1;i>=0;i--)if(D[Q[i].id]){id=Q[i].id;break}
+  }
+  if(id===undefined)return;
+  record(id,'undo');idx=Q.findIndex(q=>q.id===id);render();
+}
+$('yes').onclick=()=>answer('yes');$('no').onclick=()=>answer('no');$('unsure').onclick=()=>answer('unsure');
+$('undo').onclick=undo;
+$('fix').onclick=()=>{$('fixpanel').style.display='flex';$('fixinput').value='';setTimeout(()=>$('fixinput').focus(),50)};
+$('fixcancel').onclick=()=>{$('fixpanel').style.display='none'};
+$('fixgo').onclick=()=>{
+  const v=$('fixinput').value.trim();
+  if([...v].length!==1){$('fixinput').style.borderColor='#d8453a';return}
+  $('fixinput').style.borderColor='#bbb';$('fixpanel').style.display='none';answer('fix',v);
+};
+document.addEventListener('keydown',e=>{
+  if($('fixpanel').style.display==='flex')return;
+  if(e.key==='y'||e.key==='ArrowRight')answer('yes');
+  else if(e.key==='n'||e.key==='ArrowLeft')answer('no');
+  else if(e.key==='u'||e.key==='ArrowDown')answer('unsure');
+  else if(e.key==='z')undo();
+});
+$('backup').onclick=e=>{e.preventDefault();
+  const blob=new Blob([JSON.stringify({decisions:D,unsent:pend},null,1)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='label-review-backup.json';a.click()};
+window.addEventListener('online',flush);
+setInterval(flush,4000);
+window.addEventListener('pagehide',()=>{savePend()});
+(async()=>{
+  try{
+    const q=await (await api('/api/queue')).json();Q=q.items;
+    const s=await (await api('/api/state')).json();D=s.decisions;
+    for(const r of pend){if(r.v==='undo')delete D[r.id];else D[r.id]={v:r.v,label:r.label}} // unsent decisions still count
+    for(const it of Q){(groups[it.label]=groups[it.label]||[]).push(it.id)}
+    serverOK=true;idx=nextUndecided(0);render();status();flush();
+  }catch(e){$('save').className='bad';$('save').textContent='⚠ Macにつながりません'}
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "width_mm": 148,
+      "height_mm": 148,
+      "strokes": 3241,
+      "points": 175532,
+      "ink_mm": 6228.483,
+      "travel_mm": 6879.436,
+      "warnings": []
+    },
+    {
+      "width_mm": 148,
+      "height_mm": 148,
+      "strokes": 2612,
+      "points": 130943,
+      "ink_mm": 5873.185,
+      "travel_mm": 7540.267,
+      "warnings": []
+    },
+    {
+      "width_mm": 148,
+      "height_mm": 148,
+      "strokes": 2262,
+      "points": 118846,
+      "ink_mm": 4556.882,
+      "travel_mm": 5169.14,
+      "warnings": []
+    },
+    {
+      "width_mm": 148,
+      "height_mm": 148,
+      "strokes": 2339,
+      "points": 129223,
+      "ink_mm": 4938.659,
+      "travel_mm": 5491.139,
+      "warnings": []
+    }
+  ],
+  "stroke_order": "preserved",
+  "direction": "preserved",
+  "scale": 1,
+  "font_attribution": "KanjiVG (Ulrich Apel and contributors), CC BY-SA 3.0; HersheyText, MIT"
+}

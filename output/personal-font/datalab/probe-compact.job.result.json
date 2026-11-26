@@ -1,0 +1,957 @@
+{
+  "progress_percent": 100,
+  "status": "complete",
+  "result_url": null,
+  "expires_in": null,
+  "output_format": "json",
+  "chunks": null,
+  "json": {
+    "children": [
+      {
+        "html": "<p>PN-001: ( )</p><p>PN-003: 憤</p><p>PN-005: 習</p><p>PN-007: a</p><p>PN-009: に</p><p>PN-011: 病</p><p>PN-013: 0</p><p>PN-015: 2</p><p>PN-017: を</p><p>PN-019: 活</p><p>PN-021: A</p><p>PN-023: の</p><p>PN-002: かい</p><p>PN-004: 値</p><p>PN-006: 1</p><p>PN-008: <math>\\Sigma</math></p><p>PN-010: 分</p><p>PN-012: B</p><p>PN-014: C</p><p>PN-016: 数</p><p>PN-018: う</p><p>PN-020: 平均</p><p>PN-022: あ</p><p>PN-024: 住</p>",
+        "bbox": [
+          0.0,
+          0.0,
+          1540.0,
+          1708.0
+        ],
+        "polygon": [
+          [
+            0.0,
+            0.0
+          ],
+          [
+            1540.0,
+            0.0
+          ],
+          [
+            1540.0,
+            1708.0
+          ],
+          [
+            0.0,
+            1708.0
+          ]
+        ],
+        "id": "/page/0/Page/0",
+        "block_type": "Page",
+        "children": [
+          {
+            "id": "/page/0/PageHeader/0",
+            "block_type": "PageHeader",
+            "html": "<p>Japanese handwriting transcription - sample IDs and handwritten text</p>",
+            "page": 0,
+            "polygon": [
+              [
+                32.0,
+                23.0
+              ],
+              [
+                833.0,
+                23.0
+              ],
+              [
+                833.0,
+                58.0
+              ],
+              [
+                32.0,
+                58.0
+              ]
+            ],
+            "bbox": [
+              32.0,
+              23.0,
+              833.0,
+              58.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/1",
+            "block_type": "Text",
+            "html": "<p>PN-001: ( )</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                102.0
+              ],
+              [
+                286.0,
+                102.0
+              ],
+              [
+                286.0,
+                170.0
+              ],
+              [
+                23.0,
+                170.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              102.0,
+              286.0,
+              170.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/2",
+            "block_type": "Text",
+            "html": "<p>PN-003: 憤</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                225.0
+              ],
+              [
+                286.0,
+                225.0
+              ],
+              [
+                286.0,
+                314.0
+              ],
+              [
+                23.0,
+                314.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              225.0,
+              286.0,
+              314.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/3",
+            "block_type": "Text",
+            "html": "<p>PN-005: 習</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                351.0
+              ],
+              [
+                271.0,
+                351.0
+              ],
+              [
+                271.0,
+                450.0
+              ],
+              [
+                23.0,
+                450.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              351.0,
+              271.0,
+              450.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/4",
+            "block_type": "Text",
+            "html": "<p>PN-007: a</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                490.0
+              ],
+              [
+                286.0,
+                490.0
+              ],
+              [
+                286.0,
+                572.0
+              ],
+              [
+                23.0,
+                572.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              490.0,
+              286.0,
+              572.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/5",
+            "block_type": "Text",
+            "html": "<p>PN-009: に</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                618.0
+              ],
+              [
+                280.0,
+                618.0
+              ],
+              [
+                280.0,
+                712.0
+              ],
+              [
+                23.0,
+                712.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              618.0,
+              280.0,
+              712.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/6",
+            "block_type": "Text",
+            "html": "<p>PN-011: 病</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                749.0
+              ],
+              [
+                280.0,
+                749.0
+              ],
+              [
+                280.0,
+                847.0
+              ],
+              [
+                23.0,
+                847.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              749.0,
+              280.0,
+              847.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/7",
+            "block_type": "Text",
+            "html": "<p>PN-013: 0</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                883.0
+              ],
+              [
+                271.0,
+                883.0
+              ],
+              [
+                271.0,
+                978.0
+              ],
+              [
+                23.0,
+                978.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              883.0,
+              271.0,
+              978.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/8",
+            "block_type": "Text",
+            "html": "<p>PN-015: 2</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                1014.0
+              ],
+              [
+                271.0,
+                1014.0
+              ],
+              [
+                271.0,
+                1110.0
+              ],
+              [
+                23.0,
+                1110.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              1014.0,
+              271.0,
+              1110.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/9",
+            "block_type": "Text",
+            "html": "<p>PN-017: を</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                1144.0
+              ],
+              [
+                280.0,
+                1144.0
+              ],
+              [
+                280.0,
+                1241.0
+              ],
+              [
+                23.0,
+                1241.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              1144.0,
+              280.0,
+              1241.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/10",
+            "block_type": "Text",
+            "html": "<p>PN-019: 活</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                1275.0
+              ],
+              [
+                280.0,
+                1275.0
+              ],
+              [
+                280.0,
+                1373.0
+              ],
+              [
+                23.0,
+                1373.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              1275.0,
+              280.0,
+              1373.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/11",
+            "block_type": "Text",
+            "html": "<p>PN-021: A</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                1407.0
+              ],
+              [
+                271.0,
+                1407.0
+              ],
+              [
+                271.0,
+                1503.0
+              ],
+              [
+                23.0,
+                1503.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              1407.0,
+              271.0,
+              1503.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/12",
+            "block_type": "Text",
+            "html": "<p>PN-023: の</p>",
+            "page": 0,
+            "polygon": [
+              [
+                23.0,
+                1537.0
+              ],
+              [
+                280.0,
+                1537.0
+              ],
+              [
+                280.0,
+                1634.0
+              ],
+              [
+                23.0,
+                1634.0
+              ]
+            ],
+            "bbox": [
+              23.0,
+              1537.0,
+              280.0,
+              1634.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/13",
+            "block_type": "Text",
+            "html": "<p>PN-002: かい</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                93.0
+              ],
+              [
+                1051.0,
+                93.0
+              ],
+              [
+                1051.0,
+                179.0
+              ],
+              [
+                791.0,
+                179.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              93.0,
+              1051.0,
+              179.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/14",
+            "block_type": "Text",
+            "html": "<p>PN-004: 値</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                218.0
+              ],
+              [
+                1041.0,
+                218.0
+              ],
+              [
+                1041.0,
+                314.0
+              ],
+              [
+                791.0,
+                314.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              218.0,
+              1041.0,
+              314.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/15",
+            "block_type": "Text",
+            "html": "<p>PN-006: 1</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                351.0
+              ],
+              [
+                1010.0,
+                351.0
+              ],
+              [
+                1010.0,
+                450.0
+              ],
+              [
+                791.0,
+                450.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              351.0,
+              1010.0,
+              450.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/16",
+            "block_type": "Text",
+            "html": "<p>PN-008: <math>\\Sigma</math></p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                481.0
+              ],
+              [
+                1041.0,
+                481.0
+              ],
+              [
+                1041.0,
+                580.0
+              ],
+              [
+                791.0,
+                580.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              481.0,
+              1041.0,
+              580.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/17",
+            "block_type": "Text",
+            "html": "<p>PN-010: 分</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                613.0
+              ],
+              [
+                1031.0,
+                613.0
+              ],
+              [
+                1031.0,
+                712.0
+              ],
+              [
+                791.0,
+                712.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              613.0,
+              1031.0,
+              712.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/18",
+            "block_type": "Text",
+            "html": "<p>PN-012: B</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                746.0
+              ],
+              [
+                1031.0,
+                746.0
+              ],
+              [
+                1031.0,
+                842.0
+              ],
+              [
+                791.0,
+                842.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              746.0,
+              1031.0,
+              842.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/19",
+            "block_type": "Text",
+            "html": "<p>PN-014: C</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                879.0
+              ],
+              [
+                1041.0,
+                879.0
+              ],
+              [
+                1041.0,
+                978.0
+              ],
+              [
+                791.0,
+                978.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              879.0,
+              1041.0,
+              978.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/20",
+            "block_type": "Text",
+            "html": "<p>PN-016: 数</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                1007.0
+              ],
+              [
+                1051.0,
+                1007.0
+              ],
+              [
+                1051.0,
+                1105.0
+              ],
+              [
+                791.0,
+                1105.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              1007.0,
+              1051.0,
+              1105.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/21",
+            "block_type": "Text",
+            "html": "<p>PN-018: う</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                1139.0
+              ],
+              [
+                1025.0,
+                1139.0
+              ],
+              [
+                1025.0,
+                1241.0
+              ],
+              [
+                791.0,
+                1241.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              1139.0,
+              1025.0,
+              1241.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/22",
+            "block_type": "Text",
+            "html": "<p>PN-020: 平均</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                1284.0
+              ],
+              [
+                1051.0,
+                1284.0
+              ],
+              [
+                1051.0,
+                1357.0
+              ],
+              [
+                791.0,
+                1357.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              1284.0,
+              1051.0,
+              1357.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/23",
+            "block_type": "Text",
+            "html": "<p>PN-022: あ</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                1393.0
+              ],
+              [
+                1041.0,
+                1393.0
+              ],
+              [
+                1041.0,
+                1501.0
+              ],
+              [
+                791.0,
+                1501.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              1393.0,
+              1041.0,
+              1501.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          },
+          {
+            "id": "/page/0/Text/24",
+            "block_type": "Text",
+            "html": "<p>PN-024: 住</p>",
+            "page": 0,
+            "polygon": [
+              [
+                791.0,
+                1526.0
+              ],
+              [
+                1041.0,
+                1526.0
+              ],
+              [
+                1041.0,
+                1634.0
+              ],
+              [
+                791.0,
+                1634.0
+              ]
+            ],
+            "bbox": [
+              791.0,
+              1526.0,
+              1041.0,
+              1634.0
+            ],
+            "section_hierarchy": {},
+            "images": {},
+            "markdown": null,
+            "inference_failed": false,
+            "metadata": null
+          }
+        ],
+        "section_hierarchy": {}
+      }
+    ],
+    "metadata": {
+      "page_stats": [
+        {
+          "page_id": 0,
+          "num_blocks": 25
+        }
+      ],
+      "failed_pages": []
+    }
+  },
+  "markdown": "\n\nPN-001: ( )\n\nPN-003: 憤\n\nPN-005: 習\n\nPN-007: a\n\nPN-009: に\n\nPN-011: 病\n\nPN-013: 0\n\nPN-015: 2\n\nPN-017: を\n\nPN-019: 活\n\nPN-021: A\n\nPN-023: の\n\nPN-002: かい\n\nPN-004: 値\n\nPN-006: 1\n\nPN-008:  $\\Sigma$\n\nPN-010: 分\n\nPN-012: B\n\nPN-014: C\n\nPN-016: 数\n\nPN-018: う\n\nPN-020: 平均\n\nPN-022: あ\n\nPN-024: 住",
+  "html": null,
+  "extraction_schema_json": null,
+  "extraction_score_average": null,
+  "extraction_scoring_status": null,
+  "extraction_mode": null,
+  "segmentation_results": null,
+  "segmentation_schema": null,
+  "images": {},
+  "metadata": {
+    "page_stats": [
+      {
+        "page_id": 0,
+        "num_blocks": 25
+      }
+    ],
+    "failed_pages": []
+  },
+  "success": true,
+  "error": "",
+  "parse_quality_score": 4.0,
+  "page_count": 1,
+  "total_cost": 0.09975,
+  "cost_breakdown": {
+    "final_cost_cents": 0.09975
+  },
+  "runtime": 0.6995244026184082,
+  "checkpoint_id": null,
+  "versions": null
+}

@@ -1,0 +1,31 @@
+{
+  "utc": "2026-11-25T16:23:09.401010+00:00",
+  "sent": true,
+  "authorized_action": "User confirmed pen removed; home XYZ, position above the first stroke X12.501 Y159.464, lower nozzle to Z5 for manual pen mounting",
+  "gcode": "G28\nM400\nG21\nG90\nG1 Z15 F300\nM400\nG1 X12.501 Y159.464 F1200\nM400\nG1 Z5 F120\nM400\n",
+  "before": {
+    "gcode_state": "FINISH",
+    "home_flag": 847070615,
+    "print_error": 0,
+    "nozzle_target_temper": 0,
+    "bed_target_temper": 0
+  },
+  "acks": [
+    {
+      "sequence_id": "1795623788",
+      "command": "gcode_line",
+      "param": "G28\nM400\nG21\nG90\nG1 Z15 F300\nM400\nG1 X12.501 Y159.464 F1200\nM400\nG1 Z5 F120\nM400\n",
+      "reason": "success",
+      "result": "success"
+    }
+  ],
+  "after": {
+    "gcode_state": "FINISH",
+    "print_error": 0,
+    "hms": [],
+    "home_flag": 847070615,
+    "nozzle_target_temper": 0,
+    "bed_target_temper": 0
+  },
+  "physical_position_verified": false
+}

@@ -1,0 +1,16 @@
+{
+  "completed_batches": 20,
+  "failed_or_uncertain_batches": [],
+  "counts": {
+    "match": 1023,
+    "different_single": 2019,
+    "multiple_or_unreadable": 1758,
+    "missing": 2757,
+    "ambiguous": 4
+  },
+  "planned_pages": 319,
+  "review_decisions_changed": 0,
+  "actual_processed_pages": 319,
+  "api_reported_cost_cents": 31.82025,
+  "api_reported_cost_usd": 0.3182025
+}

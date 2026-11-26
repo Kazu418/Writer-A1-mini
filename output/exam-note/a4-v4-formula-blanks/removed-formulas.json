@@ -1,0 +1,272 @@
+[
+  {
+    "tile": "face1-pass2",
+    "source": "い順の中の真ん中の値(奇数nは(n+1)/2番目、偶数nは中央2値の算術平均)",
+    "formulas": [
+      "(n+1)/2"
+    ],
+    "removed_strokes": 8,
+    "bounds_tile_mm": [
+      115.705,
+      1.907,
+      126.857,
+      4.893
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "四分位範囲(IQR) データの中央50%がどれくらいの範囲に広がってる？ IQR",
+    "formulas": [
+      "IQR=Q3−Q1"
+    ],
+    "removed_strokes": 5,
+    "bounds_tile_mm": [
+      155.097,
+      22.965,
+      159.087,
+      25.068
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "=Q3−Q1  四分位偏差 QD はIQR/2",
+    "formulas": [
+      "IQR=Q3−Q1",
+      "IQR/2"
+    ],
+    "removed_strokes": 16,
+    "bounds_tile_mm": [
+      85.091,
+      26.236,
+      124.771,
+      29.044
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "偏差が基本。平均値から、どれくらい離れてる？ 偏差をそのまま",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 31,
+    "bounds_tile_mm": [
+      146.067,
+      37.11,
+      161.0,
+      39.567
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "S_x^2=(1)/(n)∑(x_i−x_bar)²   S_x=sqrt(S_x^2)",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 32,
+    "bounds_tile_mm": [
+      101.091,
+      54.586,
+      144.985,
+      59.332
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "絶対値を取ってみるバージョン 平均偏差 平均値からの距離の平",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 25,
+    "bounds_tile_mm": [
+      135.339,
+      61.606,
+      160.215,
+      66.352
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "不偏分散 標本調査のときに、分散が小さくなりやすい性質を補正",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 24,
+    "bounds_tile_mm": [
+      130.666,
+      70.086,
+      160.487,
+      75.002
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "ネズミ:平均体重20 g 標準偏差5 g vs ゾウ:平均体",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 13,
+    "bounds_tile_mm": [
+      149.071,
+      90.682,
+      161.0,
+      97.095
+    ]
+  },
+  {
+    "tile": "face1-pass2",
+    "source": "IQV_x=(K(1−∑P_k^2))/(K−1)",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 26,
+    "bounds_tile_mm": [
+      110.24,
+      112.497,
+      136.401,
+      118.34
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "標準化 平均が0,分散が1になるようにデータを変換すること。",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 18,
+    "bounds_tile_mm": [
+      65.265,
+      6.92,
+      80.5,
+      13.706
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "量的×量的 ex 身長と体重 共分散を使う。どのように一緒に",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 32,
+    "bounds_tile_mm": [
+      44.639,
+      30.294,
+      80.198,
+      35.04
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "これがプラスだと、Aが上がればBも上がる。マイナスだと、Aが",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 19,
+    "bounds_tile_mm": [
+      65.895,
+      39.172,
+      80.5,
+      45.393
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "質的×量的 ex 学科ごとのテスト結果とか 群データが基本 ",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 24,
+    "bounds_tile_mm": [
+      51.914,
+      63.014,
+      79.987,
+      67.76
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "n=全体の人数 nj=グループjの人数 yj=jグループの平",
+    "formulas": [
+      "display formula",
+      "群内分散＋群間分散＝全体分散"
+    ],
+    "removed_strokes": 142,
+    "bounds_tile_mm": [
+      4.415,
+      78.575,
+      80.5,
+      88.393
+    ]
+  },
+  {
+    "tile": "face2-pass1",
+    "source": "相関比 質的データ(グループ分け)が量的データのばらつきをど",
+    "formulas": [
+      "display formula"
+    ],
+    "removed_strokes": 22,
+    "bounds_tile_mm": [
+      58.151,
+      90.695,
+      80.5,
+      96.441
+    ]
+  },
+  {
+    "tile": "face2-pass2",
+    "source": "の違いは、横軸が連続した数値の階級であること 階級数は k=log2 n+1 (n",
+    "formulas": [
+      "k=log2 n+1"
+    ],
+    "removed_strokes": 12,
+    "bounds_tile_mm": [
+      62.169,
+      87.126,
+      75.247,
+      89.722
+    ]
+  },
+  {
+    "tile": "face2-pass2",
+    "source": "外れ値の検出 IQR: 下限 = Q1 - 1.5 × IQR 上限 = Q3 + 1.5 × IQR 標準偏",
+    "formulas": [
+      "= Q1 - 1.5 × IQR",
+      "= Q3 + 1.5 × IQR"
+    ],
+    "removed_strokes": 35,
+    "bounds_tile_mm": [
+      108.804,
+      21.056,
+      152.815,
+      23.026
+    ]
+  },
+  {
+    "tile": "face2-pass2",
+    "source": "差(±3σ): 下限 = 平均 - 3σ 上限 = 平均 + 3σ → 範囲外を外れ値(の候",
+    "formulas": [
+      "= 平均 - 3σ",
+      "= 平均 + 3σ"
+    ],
+    "removed_strokes": 35,
+    "bounds_tile_mm": [
+      102.073,
+      24.239,
+      134.649,
+      26.495
+    ]
+  },
+  {
+    "tile": "face2-pass2",
+    "source": "を数値化。 1 byte = 8 bit n bit = 2^n 通りの表現が可能。 2^10 = 1,024 ",
+    "formulas": [
+      "n bit = 2^n"
+    ],
+    "removed_strokes": 12,
+    "bounds_tile_mm": [
+      111.204,
+      63.174,
+      125.162,
+      65.253
+    ]
+  }
+]

@@ -1,0 +1,4332 @@
+[
+  {
+    "path": "output/contact-test-instructions.md",
+    "bytes": 4049,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/01_AIR.gcode",
+    "bytes": 8716,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/01_AIR.gcode.3mf",
+    "bytes": 6715,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/02_WRITE.gcode",
+    "bytes": 8730,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/02_WRITE.gcode.3mf",
+    "bytes": 6729,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/03_WRITE_Z5.gcode",
+    "bytes": 8397,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/03_WRITE_Z5.gcode.3mf",
+    "bytes": 6124,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/04_SIZE_LADDER.gcode",
+    "bytes": 64173,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/04_SIZE_LADDER.gcode.3mf",
+    "bytes": 24990,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/05_PARAGRAPH_2_5_FAST.gcode",
+    "bytes": 204072,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/05_PARAGRAPH_2_5_FAST.gcode.3mf",
+    "bytes": 58065,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/06_HANDWRITING_30.gcode",
+    "bytes": 204204,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/06_HANDWRITING_30.gcode.3mf",
+    "bytes": 58437,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/07_PERSONAL_LIFESTYLE.gcode",
+    "bytes": 63768,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/07_PERSONAL_LIFESTYLE.gcode.3mf",
+    "bytes": 16005,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/08_PERSONAL_3_5.gcode",
+    "bytes": 61744,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/08_PERSONAL_3_5.gcode.3mf",
+    "bytes": 17380,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/absolute-z5-validation.json",
+    "bytes": 88,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/central-test-fast-candidate-profile.json",
+    "bytes": 889,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/central-test-z4_9-candidate-profile.json",
+    "bytes": 712,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/central-test-z5-profile.json",
+    "bytes": 570,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/handwriting-30-profile.json",
+    "bytes": 674,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/handwriting-30-validation.json",
+    "bytes": 1758,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/handwriting-30.png",
+    "bytes": 17757,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/handwriting-30.svg",
+    "bytes": 166273,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-air-run.json",
+    "bytes": 2174,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-paragraph-fast-run.json",
+    "bytes": 3622,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-personal-word-3_5-run.json",
+    "bytes": 3447,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-personal-word-run.json",
+    "bytes": 3105,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-size-ladder-run.json",
+    "bytes": 3452,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-status-after.json",
+    "bytes": 3480,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-status-before.json",
+    "bytes": 5083,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-write-run.json",
+    "bytes": 4058,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/live-write-z5-run.json",
+    "bytes": 3604,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/paragraph-fast-profile.json",
+    "bytes": 632,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/paragraph-fast-validation.json",
+    "bytes": 939,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/paragraph-fast.png",
+    "bytes": 17722,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/paragraph-fast.txt",
+    "bytes": 311,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/personal-word-3_5-profile.json",
+    "bytes": 767,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/personal-word-3_5-validation.json",
+    "bytes": 725,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/personal-word-3_5.png",
+    "bytes": 3810,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/personal-word-3_5.svg",
+    "bytes": 42738,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/personal-word-profile.json",
+    "bytes": 751,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/personal-word-validation.json",
+    "bytes": 728,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/personal-word.png",
+    "bytes": 2654,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/personal-word.svg",
+    "bytes": 42341,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/position-z5-run.json",
+    "bytes": 772,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/position_z5_once.py",
+    "bytes": 3864,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/prepare_absolute_test.py",
+    "bytes": 2634,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/prepare_handwritten_test.py",
+    "bytes": 2682,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/prepare_paragraph_test.py",
+    "bytes": 4054,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/prepare_personal_word_3_5_test.py",
+    "bytes": 3605,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/prepare_personal_word_test.py",
+    "bytes": 3545,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/prepare_size_test.py",
+    "bytes": 3187,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/send_air_only.py",
+    "bytes": 13699,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/send_handwriting_30_once.py",
+    "bytes": 13936,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/send_paragraph_fast_once.py",
+    "bytes": 13941,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/send_personal_word_3_5_once.py",
+    "bytes": 13939,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/send_personal_word_once.py",
+    "bytes": 13940,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/send_size_ladder_once.py",
+    "bytes": 13799,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/send_write_once.py",
+    "bytes": 461,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/send_write_z5_once.py",
+    "bytes": 13798,
+    "sanitized": true
+  },
+  {
+    "path": "output/contact-test/settings-and-validation.json",
+    "bytes": 1406,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/size-ladder-profile.json",
+    "bytes": 609,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/size-ladder-readme.md",
+    "bytes": 1393,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/size-ladder-validation.json",
+    "bytes": 638,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/size-ladder.png",
+    "bytes": 10311,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/preview/page-001.png",
+    "bytes": 8286,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/preview/page-001.svg",
+    "bytes": 6032,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/preview/preview.html",
+    "bytes": 12463,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/preview/preview.pdf",
+    "bytes": 2915,
+    "sanitized": false
+  },
+  {
+    "path": "output/contact-test/preview/report.json",
+    "bytes": 496,
+    "sanitized": false
+  },
+  {
+    "path": "output/datasets/cnn62.pt",
+    "bytes": 3540607,
+    "sanitized": false
+  },
+  {
+    "path": "output/datasets/emnist-byclass/README.md",
+    "bytes": 1919,
+    "sanitized": false
+  },
+  {
+    "path": "output/datasets/emnist-byclass/SHA256SUMS",
+    "bytes": 430,
+    "sanitized": false
+  },
+  {
+    "path": "output/datasets/emnist-byclass/emnist-byclass-mapping.txt",
+    "bytes": 447,
+    "sanitized": false
+  },
+  {
+    "path": "output/datasets/emnist-byclass/emnist-byclass-test-images-idx3-ubyte.gz",
+    "bytes": 28908322,
+    "sanitized": false
+  },
+  {
+    "path": "output/datasets/emnist-byclass/emnist-byclass-test-labels-idx1-ubyte.gz",
+    "bytes": 81839,
+    "sanitized": false
+  },
+  {
+    "path": "output/datasets/emnist-byclass/emnist-byclass-train-images-idx3-ubyte.gz",
+    "bytes": 173367313,
+    "sanitized": false
+  },
+  {
+    "path": "output/datasets/emnist-byclass/emnist-byclass-train-labels-idx1-ubyte.gz",
+    "bytes": 491603,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/README.md",
+    "bytes": 8970,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-duplex-reference.pdf",
+    "bytes": 1049459,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-reference-side-1.png",
+    "bytes": 179020,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-reference-side-2.png",
+    "bytes": 156863,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/build_a4_note.py",
+    "bytes": 41340,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/build_note.py",
+    "bytes": 19687,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/export_display_formula_blanks.py",
+    "bytes": 6281,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/export_formula_blanks.py",
+    "bytes": 6445,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/layout.json",
+    "bytes": 30951,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/note-content.md",
+    "bytes": 6007,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/preflight.json",
+    "bytes": 2367,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/prepare_formula_blanks.py",
+    "bytes": 2435,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/prepare_gcode.py",
+    "bytes": 1772,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/printer-profile-measure-first.json",
+    "bytes": 634,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/source-images.json",
+    "bytes": 787,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/source.md",
+    "bytes": 8470,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/verify_note.py",
+    "bytes": 3730,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/page-001.png",
+    "bytes": 154326,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/page-001.svg",
+    "bytes": 1181355,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/page-002.png",
+    "bytes": 118859,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/page-002.svg",
+    "bytes": 854902,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/page-003.png",
+    "bytes": 118315,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/page-003.svg",
+    "bytes": 777654,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/page-004.png",
+    "bytes": 121169,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/page-004.svg",
+    "bytes": 843753,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/preview.html",
+    "bytes": 4952574,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/preview.pdf",
+    "bytes": 1035386,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a1-mini-note/report.json",
+    "bytes": 915,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/a4-both-sides.pdf",
+    "bytes": 7805363,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/layout.json",
+    "bytes": 590,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/note-content.md",
+    "bytes": 11827,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/page-001.png",
+    "bytes": 224751,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/page-001.svg",
+    "bytes": 5928685,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/page-002.png",
+    "bytes": 238343,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/page-002.svg",
+    "bytes": 6209739,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/page-003.png",
+    "bytes": 210787,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/page-003.svg",
+    "bytes": 5501805,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/page-004.png",
+    "bytes": 255466,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/page-004.svg",
+    "bytes": 6618457,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/preview.html",
+    "bytes": 40758896,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/preview.pdf",
+    "bytes": 7940694,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-2_8/tiles/report.json",
+    "bytes": 937,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-try1/tiles/page-001.svg",
+    "bytes": 6729394,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v2/a4-both-sides.pdf",
+    "bytes": 8114178,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v2/layout.json",
+    "bytes": 588,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v2/note-content.md",
+    "bytes": 12390,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v3/a4-both-sides.pdf",
+    "bytes": 9771673,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v3/layout.json",
+    "bytes": 587,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v3/note-content.md",
+    "bytes": 13539,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/a4-both-sides.pdf",
+    "bytes": 9778299,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/after-paper-change-cancel.json",
+    "bytes": 130,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/calibrate-pen-height-run.json",
+    "bytes": 930,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/calibrate_pen_height_once.py",
+    "bytes": 4864,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4/home-and-position-run-attempt2.json",
+    "bytes": 822,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/home-and-position-run-attempt3.json",
+    "bytes": 822,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/home-and-position-run.json",
+    "bytes": 822,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/home-start-mount-run.json",
+    "bytes": 950,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/home_and_position_once.py",
+    "bytes": 4696,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4/home_start_mount_once.py",
+    "bytes": 4873,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4/layout.json",
+    "bytes": 593,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/lift-after-height-adjustment-run.json",
+    "bytes": 744,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/lift-before-pressure-print-run.json",
+    "bytes": 747,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/lift-before-tile2-print-run.json",
+    "bytes": 757,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/note-content.md",
+    "bytes": 13538,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/pause-for-paper-change.json",
+    "bytes": 631,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/position-start-run.json",
+    "bytes": 822,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/position-x14-run.json",
+    "bytes": 795,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/position_start_once.py",
+    "bytes": 4158,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4/position_x14_once.py",
+    "bytes": 4050,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4/send_pass_once.py",
+    "bytes": 13536,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass1-air.gcode",
+    "bytes": 9042462,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass1-live-run-attempt2.json",
+    "bytes": 3164,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass1-live-run-attempt4.json",
+    "bytes": 3168,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass1-live-run-attempt5.json",
+    "bytes": 3682,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass1-live-run.json",
+    "bytes": 3860,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass1-profile.json",
+    "bytes": 768,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass1.gcode",
+    "bytes": 9037092,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass1.gcode.3mf",
+    "bytes": 1912496,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass2-air.gcode",
+    "bytes": 10145253,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass2-profile.json",
+    "bytes": 767,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass2.gcode",
+    "bytes": 10139099,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face1-pass2.gcode.3mf",
+    "bytes": 2146067,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face2-pass1-air.gcode",
+    "bytes": 12130926,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face2-pass1-profile.json",
+    "bytes": 768,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face2-pass1.gcode",
+    "bytes": 12123696,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face2-pass1.gcode.3mf",
+    "bytes": 2543587,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face2-pass2-air.gcode",
+    "bytes": 9641816,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face2-pass2-profile.json",
+    "bytes": 767,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face2-pass2.gcode",
+    "bytes": 9635926,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/face2-pass2.gcode.3mf",
+    "bytes": 1982126,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4/gcode/summary.json",
+    "bytes": 1084,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/a4-both-sides-preview.pdf",
+    "bytes": 6538451,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/face1-pass2-mount-run.json",
+    "bytes": 950,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/layout-verification.json",
+    "bytes": 302,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/prepare_face1_pass2_once.py",
+    "bytes": 4881,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/removed-formulas.json",
+    "bytes": 3453,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/send_pass_once.py",
+    "bytes": 13542,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face1-pass2-live-run.json",
+    "bytes": 2950,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face1-pass2-profile.json",
+    "bytes": 905,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face1-pass2.gcode",
+    "bytes": 9778139,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face1-pass2.gcode.3mf",
+    "bytes": 1904707,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face2-pass1-profile.json",
+    "bytes": 906,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face2-pass1.gcode",
+    "bytes": 11752615,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face2-pass1.gcode.3mf",
+    "bytes": 2269096,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face2-pass2-profile.json",
+    "bytes": 905,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face2-pass2.gcode",
+    "bytes": 9635926,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/face2-pass2.gcode.3mf",
+    "bytes": 1832583,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/gcode/summary.json",
+    "bytes": 990,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/preview/a4-face1-check.png",
+    "bytes": 313977,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/preview/a4-face2-check.png",
+    "bytes": 333718,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/preview/face1-pass2.svg",
+    "bytes": 7237354,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/preview/face2-pass1.svg",
+    "bytes": 8755402,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-display-formula-blanks/preview/face2-pass2.svg",
+    "bytes": 7140514,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/a4-both-sides-preview.pdf",
+    "bytes": 6463724,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/layout-verification.json",
+    "bytes": 586,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/removed-formulas.json",
+    "bytes": 5631,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/send_pass_once.py",
+    "bytes": 13534,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face1-pass2-profile.json",
+    "bytes": 905,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face1-pass2.gcode",
+    "bytes": 9698149,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face1-pass2.gcode.3mf",
+    "bytes": 1888943,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face2-pass1-profile.json",
+    "bytes": 906,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face2-pass1.gcode",
+    "bytes": 11586964,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face2-pass1.gcode.3mf",
+    "bytes": 2237405,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face2-pass2-profile.json",
+    "bytes": 905,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face2-pass2.gcode",
+    "bytes": 9421712,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/face2-pass2.gcode.3mf",
+    "bytes": 1791934,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/gcode/summary.json",
+    "bytes": 991,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/preview/a4-face1-check.png",
+    "bytes": 312216,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/preview/a4-face2-check.png",
+    "bytes": 328870,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/preview/face1-pass2.svg",
+    "bytes": 7182056,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/preview/face2-pass1.svg",
+    "bytes": 8633864,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-formula-blanks/preview/face2-pass2.svg",
+    "bytes": 6986307,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/send_pass_once.py",
+    "bytes": 13536,
+    "sanitized": true
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face1-pass1-live-run.json",
+    "bytes": 3839,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face1-pass1-profile.json",
+    "bytes": 906,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face1-pass1.gcode",
+    "bytes": 9037092,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face1-pass1.gcode.3mf",
+    "bytes": 1912501,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face1-pass2-profile.json",
+    "bytes": 905,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face1-pass2.gcode",
+    "bytes": 10139099,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face1-pass2.gcode.3mf",
+    "bytes": 2146058,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face2-pass1-profile.json",
+    "bytes": 906,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face2-pass1.gcode",
+    "bytes": 12123696,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face2-pass1.gcode.3mf",
+    "bytes": 2543595,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face2-pass2-profile.json",
+    "bytes": 905,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face2-pass2.gcode",
+    "bytes": 9635926,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/face2-pass2.gcode.3mf",
+    "bytes": 1982115,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/a4-v4-pressure/gcode/summary.json",
+    "bytes": 1328,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a4-duplex-reference.pdf",
+    "bytes": 1047917,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/layout.json",
+    "bytes": 31977,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/note-content.md",
+    "bytes": 6003,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/page-001.png",
+    "bytes": 140139,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/page-001.svg",
+    "bytes": 1198537,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/page-002.png",
+    "bytes": 113465,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/page-002.svg",
+    "bytes": 852558,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/page-003.png",
+    "bytes": 112398,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/page-003.svg",
+    "bytes": 775442,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/page-004.png",
+    "bytes": 115820,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/page-004.svg",
+    "bytes": 841355,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/preview.html",
+    "bytes": 4968623,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/preview.pdf",
+    "bytes": 1033844,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/a1-mini-note/report.json",
+    "bytes": 917,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/pen-test/page-001.png",
+    "bytes": 24032,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/pen-test/page-001.svg",
+    "bytes": 124680,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/pen-test/preview.html",
+    "bytes": 189777,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/pen-test/preview.pdf",
+    "bytes": 39031,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm/pen-test/report.json",
+    "bytes": 367,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a4-duplex-reference.pdf",
+    "bytes": 1048052,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/layout.json",
+    "bytes": 31976,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/note-content.md",
+    "bytes": 6003,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/review-1.png",
+    "bytes": 87171,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/review-2.png",
+    "bytes": 71716,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/review-3.png",
+    "bytes": 70725,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/review-4.png",
+    "bytes": 73042,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/speed-estimate.json",
+    "bytes": 581,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/page-001.png",
+    "bytes": 140330,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/page-001.svg",
+    "bytes": 1198680,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/page-002.png",
+    "bytes": 113527,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/page-002.svg",
+    "bytes": 852558,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/page-003.png",
+    "bytes": 112465,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/page-003.svg",
+    "bytes": 775521,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/page-004.png",
+    "bytes": 116020,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/page-004.svg",
+    "bytes": 841422,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/preview.html",
+    "bytes": 4968542,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/preview.pdf",
+    "bytes": 1033979,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/a1-mini-note/report.json",
+    "bytes": 917,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/pen-test/page-001.png",
+    "bytes": 24037,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/pen-test/page-001.svg",
+    "bytes": 124680,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/pen-test/preview.html",
+    "bytes": 189773,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/pen-test/preview.pdf",
+    "bytes": 39097,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/compact-2_5mm-final/pen-test/report.json",
+    "bytes": 367,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a4-duplex-reference.pdf",
+    "bytes": 1073037,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/layout.json",
+    "bytes": 32613,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/note-content.md",
+    "bytes": 6003,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/review-1.png",
+    "bytes": 89458,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/review-2.png",
+    "bytes": 73523,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/review-3.png",
+    "bytes": 72665,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/review-4.png",
+    "bytes": 74864,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/page-001.png",
+    "bytes": 144069,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/page-001.svg",
+    "bytes": 1198866,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/page-002.png",
+    "bytes": 116915,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/page-002.svg",
+    "bytes": 852616,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/page-003.png",
+    "bytes": 116047,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/page-003.svg",
+    "bytes": 775565,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/page-004.png",
+    "bytes": 119752,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/page-004.svg",
+    "bytes": 841579,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/preview.html",
+    "bytes": 5000773,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/preview.pdf",
+    "bytes": 1058964,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/a1-mini-note/report.json",
+    "bytes": 915,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/pen-test/page-001.png",
+    "bytes": 25859,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/pen-test/page-001.svg",
+    "bytes": 124683,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/pen-test/preview.html",
+    "bytes": 190038,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/pen-test/preview.pdf",
+    "bytes": 40623,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/handwritten-2_5mm/pen-test/report.json",
+    "bytes": 367,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/ocr/local-01.txt",
+    "bytes": 92,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/ocr/local-02.txt",
+    "bytes": 194,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/ocr/local-03.txt",
+    "bytes": 112,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/ocr/local-04.txt",
+    "bytes": 219,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/ocr/local-05.txt",
+    "bytes": 96,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/pen-test/page-001.png",
+    "bytes": 25245,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/pen-test/page-001.svg",
+    "bytes": 124680,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/pen-test/preview.html",
+    "bytes": 189788,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/pen-test/preview.pdf",
+    "bytes": 39143,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/pen-test/report.json",
+    "bytes": 368,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a4-duplex-reference.pdf",
+    "bytes": 4282160,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/layout.json",
+    "bytes": 32089,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/note-content.md",
+    "bytes": 6006,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/page-001.png",
+    "bytes": 185972,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/page-001.svg",
+    "bytes": 3920462,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/page-002.png",
+    "bytes": 151538,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/page-002.svg",
+    "bytes": 2885330,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/page-003.png",
+    "bytes": 147910,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/page-003.svg",
+    "bytes": 2627162,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/page-004.png",
+    "bytes": 155970,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/page-004.svg",
+    "bytes": 2865479,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/preview.html",
+    "bytes": 21406298,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/preview.pdf",
+    "bytes": 4268085,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v1/a1-mini-note/report.json",
+    "bytes": 920,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a4-duplex-reference.pdf",
+    "bytes": 4299346,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/layout.json",
+    "bytes": 31871,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/note-content.md",
+    "bytes": 6003,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/page-001.png",
+    "bytes": 142829,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/page-001.svg",
+    "bytes": 3975611,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/page-002.png",
+    "bytes": 116031,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/page-002.svg",
+    "bytes": 2916429,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/page-003.png",
+    "bytes": 118501,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/page-003.svg",
+    "bytes": 2691351,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/page-004.png",
+    "bytes": 122045,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/page-004.svg",
+    "bytes": 2971766,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/preview.html",
+    "bytes": 21887691,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/preview.pdf",
+    "bytes": 4285273,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v2/a1-mini-note/report.json",
+    "bytes": 921,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a4-duplex-reference.pdf",
+    "bytes": 4307152,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/layout.json",
+    "bytes": 31870,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/note-content.md",
+    "bytes": 6003,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/page-001.png",
+    "bytes": 142729,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/page-001.svg",
+    "bytes": 3979508,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/page-002.png",
+    "bytes": 116012,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/page-002.svg",
+    "bytes": 2917389,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/page-003.png",
+    "bytes": 118472,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/page-003.svg",
+    "bytes": 2700148,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/page-004.png",
+    "bytes": 122155,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/page-004.svg",
+    "bytes": 2978750,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/preview.html",
+    "bytes": 21926573,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/preview.pdf",
+    "bytes": 4293079,
+    "sanitized": false
+  },
+  {
+    "path": "output/exam-note/personal-v3/a1-mini-note/report.json",
+    "bytes": 918,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/archive-probe.json",
+    "bytes": 1690,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/japanese-raw-strokes.json",
+    "bytes": 5926545,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/japanese-strokes.png",
+    "bytes": 183384,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/japanese-strokes.svg",
+    "bytes": 2089269,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/make_glyph_proof.py",
+    "bytes": 2499,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/math-raw-strokes.json",
+    "bytes": 4204082,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/math-strokes.png",
+    "bytes": 188811,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/math-strokes.svg",
+    "bytes": 1451234,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/note-required-characters.json",
+    "bytes": 1620,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/personal-stroke-proof.json",
+    "bytes": 182420,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/personal-vs-standard.png",
+    "bytes": 15340,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/personal-vs-standard.svg",
+    "bytes": 67276,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/probe_archive.py",
+    "bytes": 4377,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse.tar.gz",
+    "bytes": 19285674,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/.gitignore",
+    "bytes": 595,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/CLAUDE.md",
+    "bytes": 3055,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/LICENSE",
+    "bytes": 35149,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/MANIFEST.in",
+    "bytes": 12,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/README.md",
+    "bytes": 13428,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/pyproject.toml",
+    "bytes": 2096,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/.devcontainer/Dockerfile",
+    "bytes": 3564,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/.devcontainer/devcontainer.json",
+    "bytes": 4142,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/.github/workflows/release.yml",
+    "bytes": 1720,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4.goodnotes",
+    "bytes": 17225,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4.pdf",
+    "bytes": 29353,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test5.goodnotes",
+    "bytes": 5320353,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test5.pdf",
+    "bytes": 5537350,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test6.goodnotes",
+    "bytes": 140063,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test6.pdf",
+    "bytes": 774544,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test7.goodnotes",
+    "bytes": 138152,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test7.pdf",
+    "bytes": 511608,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test8.goodnotes",
+    "bytes": 15776,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test8.pdf",
+    "bytes": 50263,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test9.goodnotes",
+    "bytes": 3298991,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test9.pdf",
+    "bytes": 3585193,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_10.goodnotes",
+    "bytes": 43737,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_10.pdf",
+    "bytes": 132445,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_11.goodnotes",
+    "bytes": 40802,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_11.pdf",
+    "bytes": 213943,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_12.goodnotes",
+    "bytes": 16621,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_12.pdf",
+    "bytes": 109841,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_13.goodnotes",
+    "bytes": 8133,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_13.jpg",
+    "bytes": 136493,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_13.pdf",
+    "bytes": 18164,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_13_flat.pdf",
+    "bytes": 66648,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_14.goodnotes",
+    "bytes": 18098,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test_14.pdf",
+    "bytes": 64946,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test.goodnotes",
+    "bytes": 26234,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2.goodnotes",
+    "bytes": 23820,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3.goodnotes",
+    "bytes": 23878,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/index.attachments.pb",
+    "bytes": 178,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/index.events.pb",
+    "bytes": 2790,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/index.notes.pb",
+    "bytes": 166,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/index.search.pb",
+    "bytes": 0,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/schema.pb",
+    "bytes": 2,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/thumbnail.jpg",
+    "bytes": 6237,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/attachments/B9F5E2EA-F4AD-4782-A86A-2CE4ED65B4FD",
+    "bytes": 950,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/attachments/E6060F38-9B94-40A6-A9AD-C913CB297094",
+    "bytes": 3224,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/notes/A6B1FDA8-68E9-4F4B-B4DA-CE7ED8F15D15",
+    "bytes": 0,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/Test4/notes/F51610D9-2DEC-4842-BD27-12371BC96206",
+    "bytes": 13714,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/index.attachments.pb",
+    "bytes": 178,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/index.events.pb",
+    "bytes": 2728,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/index.notes.pb",
+    "bytes": 166,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/index.search.pb",
+    "bytes": 0,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/schema.pb",
+    "bytes": 2,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/thumbnail.jpg",
+    "bytes": 38310,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/attachments/70AB4692-4DEB-4EA0-BB52-72C029D24D39",
+    "bytes": 945,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/attachments/70AB4692-4DEB-4EA0-BB52-72C029D24D39 2",
+    "bytes": 945,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/attachments/8B9E0B3B-2750-4581-A278-CB44CC9DD8B0",
+    "bytes": 3492,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/attachments/8B9E0B3B-2750-4581-A278-CB44CC9DD8B0 2",
+    "bytes": 3492,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/notes/372C578D-B142-459C-8EE4-311E0ABC05CD",
+    "bytes": 1165,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/notes/372C578D-B142-459C-8EE4-311E0ABC05CD 2",
+    "bytes": 1165,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/notes/F95E1932-5238-4DDC-9EAF-C8B319A05381",
+    "bytes": 0,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test1/test/notes/F95E1932-5238-4DDC-9EAF-C8B319A05381 2",
+    "bytes": 0,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2/index.attachments.pb",
+    "bytes": 89,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2/index.events.pb",
+    "bytes": 1650,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2/index.notes.pb",
+    "bytes": 83,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2/index.search.pb",
+    "bytes": 0,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2/schema.pb",
+    "bytes": 2,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2/thumbnail.jpg",
+    "bytes": 38150,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2/attachments/7819A512-2D5C-44CE-8D51-169C2C42F01E",
+    "bytes": 3492,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test2/notes/0580E88A-B67A-4DB9-8B93-6117B43CA9EC",
+    "bytes": 290,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3/index.attachments.pb",
+    "bytes": 89,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3/index.events.pb",
+    "bytes": 1650,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3/index.notes.pb",
+    "bytes": 83,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3/index.search.pb",
+    "bytes": 0,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3/schema.pb",
+    "bytes": 2,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3/thumbnail.jpg",
+    "bytes": 38159,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3/attachments/7819A512-2D5C-44CE-8D51-169C2C42F01E",
+    "bytes": 3492,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/samples/test3/notes/0580E88A-B67A-4DB9-8B93-6117B43CA9EC",
+    "bytes": 582,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/__init__.py",
+    "bytes": 2248,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/applelz4.py",
+    "bytes": 2851,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/archive.py",
+    "bytes": 13696,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/base14_widths.py",
+    "bytes": 10021,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/cli.py",
+    "bytes": 1858,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/excalidraw.py",
+    "bytes": 19211,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/flowtext.py",
+    "bytes": 8535,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/font_embed.py",
+    "bytes": 10466,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/goodnotes.py",
+    "bytes": 2395,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/ink.py",
+    "bytes": 11878,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/model.py",
+    "bytes": 3980,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/page.py",
+    "bytes": 13473,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/pdf.py",
+    "bytes": 25742,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/protobuf.py",
+    "bytes": 4415,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/raster.py",
+    "bytes": 4649,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/records.py",
+    "bytes": 3987,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/richtext.py",
+    "bytes": 8212,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/shapes.py",
+    "bytes": 4527,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/text_rtf.py",
+    "bytes": 7883,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/textlayout.py",
+    "bytes": 6166,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/src/goodparse/xournal.py",
+    "bytes": 15342,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/tests/test_roundtrip.py",
+    "bytes": 50601,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/tests/test_visual.py",
+    "bytes": 1878,
+    "sanitized": false
+  },
+  {
+    "path": "output/handwriting-research/source/goodparse-main/tests/visual.py",
+    "bytes": 4875,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/all-exemplar-rank-report.json",
+    "bytes": 182,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/all-live-character-targets.json",
+    "bytes": 9868,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-font.json",
+    "bytes": 95164906,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/coverage.json",
+    "bytes": 8182,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/dot-02-metrics.json",
+    "bytes": 614,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/dot-07-metrics.json",
+    "bytes": 658,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/dot-contexts.json",
+    "bytes": 3255,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/dot-contexts.png",
+    "bytes": 104354,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/exemplar-rank-report.json",
+    "bytes": 161,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/goodnotes.sqlite3",
+    "bytes": 1128415232,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/goodnotes.sqlite3-shm",
+    "bytes": 32768,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/goodnotes.sqlite3-wal",
+    "bytes": 0,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/goodnotes.sqlite3.before-label-review-20261125",
+    "bytes": 1128325120,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/group-rank-report.json",
+    "bytes": 159,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/hard-alt-rank.json",
+    "bytes": 159,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/import-framed-deletion-audit.log",
+    "bytes": 8716,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/import-framed.log",
+    "bytes": 341,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/import.log",
+    "bytes": 26752,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/materialize-ranked.log",
+    "bytes": 4747,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/materialize-remaining-20.log",
+    "bytes": 4079,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/materialize.log",
+    "bytes": 6824,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/metric-application.json",
+    "bytes": 88,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/metric-report.json",
+    "bytes": 278,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/metric-updates.json",
+    "bytes": 1480299,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-audit.json",
+    "bytes": 241,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-audit.log",
+    "bytes": 644,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-correction-candidates.manifest.json",
+    "bytes": 1689,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-correction-candidates.png",
+    "bytes": 38072,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-probe-blind.manifest.json",
+    "bytes": 9325,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-probe-blind.png",
+    "bytes": 263464,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-probe-compact.manifest.json",
+    "bytes": 9509,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-probe-compact.png",
+    "bytes": 103698,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-probe-grid.manifest.json",
+    "bytes": 9483,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/ocr-probe-grid.png",
+    "bytes": 283068,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-font-with-forms.json",
+    "bytes": 95264731,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/recover-all.log",
+    "bytes": 4562,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/recover-alternatives.log",
+    "bytes": 1385,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/recover-framed.log",
+    "bytes": 1486,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/recover-hard-alternatives.log",
+    "bytes": 4425,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/recover-unconfirmed-words.log",
+    "bytes": 4596,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/recover.log",
+    "bytes": 3368,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/refined-finance-glyph.png",
+    "bytes": 23333,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-hard.json",
+    "bytes": 44,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-note.json",
+    "bytes": 242,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-rank.json",
+    "bytes": 160,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-rank.json",
+    "bytes": 161,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/required-note.json",
+    "bytes": 1514,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/resume-audit.log",
+    "bytes": 14125,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/review-all.html",
+    "bytes": 81111427,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/review-note.html",
+    "bytes": 21648908,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/small-dot-candidates.json",
+    "bytes": 738,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/source-preservation-after-ocr.json",
+    "bytes": 233,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/source-preservation-audit.json",
+    "bytes": 181,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-reviews-001.json",
+    "bytes": 112384,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-reviews-002.json",
+    "bytes": 20968,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-reviews-003.json",
+    "bytes": 4263,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-reviews-004.json",
+    "bytes": 15820,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-reviews-005.json",
+    "bytes": 3271,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-reviews-006.json",
+    "bytes": 484,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-reviews-007.json",
+    "bytes": 456,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/capture/additional-six-characters.manifest.json",
+    "bytes": 2272,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/capture/additional-six-characters.pdf",
+    "bytes": 5753048,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/capture/capture-preview.png",
+    "bytes": 56027,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/all-glyphs.png",
+    "bytes": 140416,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/all-glyphs.svg",
+    "bytes": 2620824,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/paragraph.png",
+    "bytes": 21643,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/paragraph.svg",
+    "bytes": 135137,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/preview.html",
+    "bytes": 4519907,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/report.json",
+    "bytes": 569,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/gcode/effective-profile.json",
+    "bytes": 751,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/gcode/page-001.gcode",
+    "bytes": 191180,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/gcode/page-001.gcode.3mf",
+    "bytes": 47306,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-351-proof/gcode/validation.json",
+    "bytes": 154,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-gcode-proof/effective-profile.json",
+    "bytes": 751,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-gcode-proof/page-001.gcode",
+    "bytes": 63318,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-gcode-proof/page-001.gcode.3mf",
+    "bytes": 15967,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-gcode-proof/proof-source.json",
+    "bytes": 392,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-gcode-proof/validation.json",
+    "bytes": 153,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-pdf-pipeline/page-001.png",
+    "bytes": 8268,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-pdf-pipeline/page-001.svg",
+    "bytes": 43516,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-pdf-pipeline/preview.html",
+    "bytes": 83115,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-pdf-pipeline/preview.pdf",
+    "bytes": 16844,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-pdf-pipeline/report.json",
+    "bytes": 394,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-proof/page-001.png",
+    "bytes": 6400,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-proof/page-001.svg",
+    "bytes": 44686,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-proof/preview.html",
+    "bytes": 81694,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-proof/preview.pdf",
+    "bytes": 16227,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/confirmed-proof/report.json",
+    "bytes": 363,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/probe-compact.job.json",
+    "bytes": 577,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/probe-compact.job.result.json",
+    "bytes": 22234,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/probe-grid.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/probe-grid.job.result.json",
+    "bytes": 42148,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/probe.job.json",
+    "bytes": 569,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/probe.job.result.json",
+    "bytes": 40467,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-001.audit.json",
+    "bytes": 159775,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-001.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-001.job.result.json",
+    "bytes": 367528,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-001.manifest.json",
+    "bytes": 122961,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-001.pdf",
+    "bytes": 1643796,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-002.audit.json",
+    "bytes": 161621,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-002.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-002.job.result.json",
+    "bytes": 360483,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-002.manifest.json",
+    "bytes": 123036,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-002.pdf",
+    "bytes": 1467682,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-003.audit.json",
+    "bytes": 161151,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-003.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-003.job.result.json",
+    "bytes": 368594,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-003.manifest.json",
+    "bytes": 123437,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-003.pdf",
+    "bytes": 1689120,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-004.audit.json",
+    "bytes": 164661,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-004.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-004.job.result.json",
+    "bytes": 372995,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-004.manifest.json",
+    "bytes": 123441,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-004.pdf",
+    "bytes": 1672600,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-005.audit.json",
+    "bytes": 161794,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-005.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-005.job.result.json",
+    "bytes": 368341,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-005.manifest.json",
+    "bytes": 123477,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-005.pdf",
+    "bytes": 1772770,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-006.audit.json",
+    "bytes": 164106,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-006.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-006.job.result.json",
+    "bytes": 373776,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-006.manifest.json",
+    "bytes": 123425,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-006.pdf",
+    "bytes": 1746075,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-007.audit.json",
+    "bytes": 162212,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-007.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-007.job.result.json",
+    "bytes": 365153,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-007.manifest.json",
+    "bytes": 123494,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-007.pdf",
+    "bytes": 1771594,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-008.audit.json",
+    "bytes": 164689,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-008.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-008.job.result.json",
+    "bytes": 372753,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-008.manifest.json",
+    "bytes": 123494,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-008.pdf",
+    "bytes": 1828643,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-009.audit.json",
+    "bytes": 163741,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-009.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-009.job.result.json",
+    "bytes": 374565,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-009.manifest.json",
+    "bytes": 122917,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-009.pdf",
+    "bytes": 1409351,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-010.audit.json",
+    "bytes": 159317,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-010.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-010.job.result.json",
+    "bytes": 368214,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-010.manifest.json",
+    "bytes": 122411,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-010.pdf",
+    "bytes": 1377378,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-011.audit.json",
+    "bytes": 159452,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-011.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-011.job.result.json",
+    "bytes": 368121,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-011.manifest.json",
+    "bytes": 122981,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-011.pdf",
+    "bytes": 1380661,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-012.audit.json",
+    "bytes": 161704,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-012.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-012.job.result.json",
+    "bytes": 370219,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-012.manifest.json",
+    "bytes": 123269,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-012.pdf",
+    "bytes": 1479020,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-013.audit.json",
+    "bytes": 160968,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-013.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-013.job.result.json",
+    "bytes": 369341,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-013.manifest.json",
+    "bytes": 123389,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-013.pdf",
+    "bytes": 1546328,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-014.audit.json",
+    "bytes": 161454,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-014.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-014.job.result.json",
+    "bytes": 372699,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-014.manifest.json",
+    "bytes": 123389,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-014.pdf",
+    "bytes": 1605627,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-015.audit.json",
+    "bytes": 163746,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-015.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-015.job.result.json",
+    "bytes": 373916,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-015.manifest.json",
+    "bytes": 123293,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-015.pdf",
+    "bytes": 1613860,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-016.audit.json",
+    "bytes": 163424,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-016.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-016.job.result.json",
+    "bytes": 373562,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-016.manifest.json",
+    "bytes": 123397,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-016.pdf",
+    "bytes": 1657312,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-017.audit.json",
+    "bytes": 161798,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-017.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-017.job.result.json",
+    "bytes": 370168,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-017.manifest.json",
+    "bytes": 123269,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-017.pdf",
+    "bytes": 1622168,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-018.audit.json",
+    "bytes": 164887,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-018.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-018.job.result.json",
+    "bytes": 373672,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-018.manifest.json",
+    "bytes": 123277,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-018.pdf",
+    "bytes": 1699399,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-019.audit.json",
+    "bytes": 162245,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-019.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-019.job.result.json",
+    "bytes": 370377,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-019.manifest.json",
+    "bytes": 123261,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-019.pdf",
+    "bytes": 1740612,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-020.audit.json",
+    "bytes": 113451,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-020.job.json",
+    "bytes": 574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-020.job.result.json",
+    "bytes": 280107,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-020.manifest.json",
+    "bytes": 85258,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/batch-020.pdf",
+    "bytes": 1105165,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/campaign.json",
+    "bytes": 3159,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/preview-first.png",
+    "bytes": 89251,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/campaign/summary.json",
+    "bytes": 378,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-next/manifest.json",
+    "bytes": 35448,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-next/page-001.png",
+    "bytes": 112650,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-next/page-002.png",
+    "bytes": 117225,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-next/page-003.png",
+    "bytes": 95370,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-next/page-004.png",
+    "bytes": 108832,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-next/page-005.png",
+    "bytes": 74410,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-001.png",
+    "bytes": 79861,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-002.png",
+    "bytes": 81340,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-003.png",
+    "bytes": 77283,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-004.png",
+    "bytes": 79658,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-005.png",
+    "bytes": 82704,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-006.png",
+    "bytes": 75394,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-007.png",
+    "bytes": 101113,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-008.png",
+    "bytes": 95900,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-009.png",
+    "bytes": 104909,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-010.png",
+    "bytes": 99511,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-011.png",
+    "bytes": 105567,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-012.png",
+    "bytes": 103479,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-013.png",
+    "bytes": 101313,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-014.png",
+    "bytes": 108059,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-015.png",
+    "bytes": 104488,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/datalab/visual-review/page-016.png",
+    "bytes": 110319,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/hard-alternatives-review/manifest.json",
+    "bytes": 1880,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/hard-alternatives-review/page-001.png",
+    "bytes": 39168,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/hard-parent-words/page-001.png",
+    "bytes": 122574,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/hard-parent-words/words.json",
+    "bytes": 1361713,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/bench.py",
+    "bytes": 1434,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/emnist_alnum_evidence.json",
+    "bytes": 138046,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/full.py",
+    "bytes": 2320,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/label_proposals.json",
+    "bytes": 3054688,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/lt8_all.json",
+    "bytes": 2325928,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/lt8_lib.py",
+    "bytes": 1798,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/queue.json",
+    "bytes": 2655346,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/reviews.jsonl",
+    "bytes": 628016,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/reviews.token",
+    "bytes": 13,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/applied/manual-fixes.json",
+    "bytes": 936,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/applied/review-import.json",
+    "bytes": 350640,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/lt8/applied/reviews-final.jsonl",
+    "bytes": 628016,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-forms-proof/paragraph.png",
+    "bytes": 22118,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-forms-proof/paragraph.svg",
+    "bytes": 138949,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-forms-proof/preview.html",
+    "bytes": 252426,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-forms-proof/report.json",
+    "bytes": 906,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-forms-proof/gcode/effective-profile.json",
+    "bytes": 751,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-forms-proof/gcode/page-001.gcode",
+    "bytes": 197975,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-forms-proof/gcode/page-001.gcode.3mf",
+    "bytes": 49102,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/personal-forms-proof/gcode/validation.json",
+    "bytes": 154,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/manifest.json",
+    "bytes": 133554,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-001.png",
+    "bytes": 72694,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-002.png",
+    "bytes": 81371,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-003.png",
+    "bytes": 51420,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-004.png",
+    "bytes": 82170,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-005.png",
+    "bytes": 78162,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-006.png",
+    "bytes": 75050,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-007.png",
+    "bytes": 72502,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-008.png",
+    "bytes": 62807,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-009.png",
+    "bytes": 82677,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-010.png",
+    "bytes": 47815,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-011.png",
+    "bytes": 23592,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-012.png",
+    "bytes": 23012,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-013.png",
+    "bytes": 52546,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-014.png",
+    "bytes": 22382,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-015.png",
+    "bytes": 27254,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-016.png",
+    "bytes": 72925,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-017.png",
+    "bytes": 12017,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-018.png",
+    "bytes": 43567,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-019.png",
+    "bytes": 46973,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-020.png",
+    "bytes": 37620,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-021.png",
+    "bytes": 22551,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-022.png",
+    "bytes": 15266,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-023.png",
+    "bytes": 44901,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-024.png",
+    "bytes": 27930,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-025.png",
+    "bytes": 83062,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-026.png",
+    "bytes": 78267,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-027.png",
+    "bytes": 16957,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-028.png",
+    "bytes": 69565,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-029.png",
+    "bytes": 26627,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-030.png",
+    "bytes": 18572,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-031.png",
+    "bytes": 20010,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-032.png",
+    "bytes": 35178,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-033.png",
+    "bytes": 22470,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-034.png",
+    "bytes": 15783,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-035.png",
+    "bytes": 28748,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-036.png",
+    "bytes": 51297,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-037.png",
+    "bytes": 39630,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-038.png",
+    "bytes": 40519,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-039.png",
+    "bytes": 45113,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-040.png",
+    "bytes": 25860,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-contact/page-041.png",
+    "bytes": 14612,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/manifest.json",
+    "bytes": 31783,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-001.png",
+    "bytes": 64371,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-002.png",
+    "bytes": 15428,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-003.png",
+    "bytes": 16903,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-004.png",
+    "bytes": 75580,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-005.png",
+    "bytes": 59993,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-006.png",
+    "bytes": 24232,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-007.png",
+    "bytes": 46189,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-008.png",
+    "bytes": 17015,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/remaining-word-contact/page-009.png",
+    "bytes": 100188,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-words/manifest.json",
+    "bytes": 17226,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-words/page-001.png",
+    "bytes": 102330,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-words/page-002.png",
+    "bytes": 124846,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-words/page-003.png",
+    "bytes": 38526,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-words-next/manifest.json",
+    "bytes": 3068,
+    "sanitized": false
+  },
+  {
+    "path": "output/personal-font/visual-words-next/page-001.png",
+    "bytes": 49862,
+    "sanitized": false
+  },
+  {
+    "path": "output/playwright/personal-font-review.png",
+    "bytes": 104943,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/contact-test-wheel-build.log",
+    "bytes": 6114,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/matplotlib-note.pdf",
+    "bytes": 14811,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/matplotlib.svg",
+    "bytes": 12263,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/source-page-002.png",
+    "bytes": 39348,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/wheel-build.log",
+    "bytes": 5928,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a4-duplex-reference.pdf",
+    "bytes": 1004581,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/page-001.png",
+    "bytes": 145897,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/page-001.svg",
+    "bytes": 1099783,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/page-002.png",
+    "bytes": 118833,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/page-002.svg",
+    "bytes": 852074,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/page-003.png",
+    "bytes": 114935,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/page-003.svg",
+    "bytes": 746335,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/page-004.png",
+    "bytes": 119540,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/page-004.svg",
+    "bytes": 835860,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/preview.html",
+    "bytes": 4796327,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/preview.pdf",
+    "bytes": 1003280,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/a1-mini-note/report.json",
+    "bytes": 915,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/pen-test/page-001.png",
+    "bytes": 41615,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/pen-test/page-001.svg",
+    "bytes": 270840,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/pen-test/preview.html",
+    "bytes": 362450,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/pen-test/preview.pdf",
+    "bytes": 76610,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-first-pass/pen-test/report.json",
+    "bytes": 369,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a4-duplex-reference.pdf",
+    "bytes": 1040445,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/page-001.png",
+    "bytes": 150958,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/page-001.svg",
+    "bytes": 1141192,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/page-002.png",
+    "bytes": 118859,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/page-002.svg",
+    "bytes": 854902,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/page-003.png",
+    "bytes": 118315,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/page-003.svg",
+    "bytes": 777654,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/page-004.png",
+    "bytes": 121169,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/page-004.svg",
+    "bytes": 843753,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/preview.html",
+    "bytes": 4907476,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/preview.pdf",
+    "bytes": 1026372,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/a1-mini-note/report.json",
+    "bytes": 916,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/pen-test/page-001.png",
+    "bytes": 25245,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/pen-test/page-001.svg",
+    "bytes": 124680,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/pen-test/preview.html",
+    "bytes": 189788,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/pen-test/preview.pdf",
+    "bytes": 39143,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-fourth-pass/pen-test/report.json",
+    "bytes": 368,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-review/review-3.png",
+    "bytes": 184388,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-review/review-4.png",
+    "bytes": 192495,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a4-duplex-reference.pdf",
+    "bytes": 1037280,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/page-001.png",
+    "bytes": 151027,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/page-001.svg",
+    "bytes": 1136024,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/page-002.png",
+    "bytes": 118859,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/page-002.svg",
+    "bytes": 854902,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/page-003.png",
+    "bytes": 118315,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/page-003.svg",
+    "bytes": 777654,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/page-004.png",
+    "bytes": 119540,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/page-004.svg",
+    "bytes": 835860,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/preview.html",
+    "bytes": 4892410,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/preview.pdf",
+    "bytes": 1023207,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/a1-mini-note/report.json",
+    "bytes": 915,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/pen-test/page-001.png",
+    "bytes": 41615,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/pen-test/page-001.svg",
+    "bytes": 270840,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/pen-test/preview.html",
+    "bytes": 362450,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/pen-test/preview.pdf",
+    "bytes": 76610,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-second-pass/pen-test/report.json",
+    "bytes": 369,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a4-duplex-reference.pdf",
+    "bytes": 1038879,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/page-001.png",
+    "bytes": 151027,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/page-001.svg",
+    "bytes": 1136024,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/page-002.png",
+    "bytes": 118859,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/page-002.svg",
+    "bytes": 854902,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/page-003.png",
+    "bytes": 118315,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/page-003.svg",
+    "bytes": 777654,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/page-004.png",
+    "bytes": 121169,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/page-004.svg",
+    "bytes": 843753,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/preview.html",
+    "bytes": 4899859,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/preview.pdf",
+    "bytes": 1024806,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/a1-mini-note/report.json",
+    "bytes": 915,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/pen-test/page-001.png",
+    "bytes": 41615,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/pen-test/page-001.svg",
+    "bytes": 270840,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/pen-test/preview.html",
+    "bytes": 362442,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/pen-test/preview.pdf",
+    "bytes": 76610,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/exam-note-third-pass/pen-test/report.json",
+    "bytes": 369,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/initial-preview/page-001.png",
+    "bytes": 51397,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/initial-preview/page-001.svg",
+    "bytes": 150648,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/initial-preview/page-002.png",
+    "bytes": 40662,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/initial-preview/page-002.svg",
+    "bytes": 137421,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/initial-preview/preview.html",
+    "bytes": 444137,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/initial-preview/preview.pdf",
+    "bytes": 93123,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/initial-preview/report.json",
+    "bytes": 608,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/matplotlib-preview/page-001.png",
+    "bytes": 49134,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/matplotlib-preview/page-001.svg",
+    "bytes": 57352,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/matplotlib-preview/preview.html",
+    "bytes": 101463,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/matplotlib-preview/preview.pdf",
+    "bytes": 19742,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/matplotlib-preview/report.json",
+    "bytes": 399,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/mpl/fontlist-v3.11.0.json",
+    "bytes": 303895,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/review-preview/page-001.png",
+    "bytes": 51397,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/review-preview/page-001.svg",
+    "bytes": 150648,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/review-preview/page-002.png",
+    "bytes": 41122,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/review-preview/page-002.svg",
+    "bytes": 141069,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/review-preview/preview.html",
+    "bytes": 451372,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/review-preview/preview.pdf",
+    "bytes": 94923,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/review-preview/report.json",
+    "bytes": 608,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-001.txt",
+    "bytes": 849,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-002.txt",
+    "bytes": 849,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-003.txt",
+    "bytes": 848,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-004.txt",
+    "bytes": 849,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-005.txt",
+    "bytes": 848,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-006.txt",
+    "bytes": 849,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-007.txt",
+    "bytes": 848,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-008.txt",
+    "bytes": 848,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-009.txt",
+    "bytes": 849,
+    "sanitized": false
+  },
+  {
+    "path": "tmp/verification/REQ-010.txt",
+    "bytes": 848,
+    "sanitized": false
+  }
+]

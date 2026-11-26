@@ -1,0 +1,13 @@
+{
+  "format": "plotnote-visual-review-v1",
+  "reviews": [
+    {
+      "id": "91f8d231d023edffd51bc30bec5c21d91801023cebd8ba30b1e03dbfa82b559a:split:0",
+      "label": "誤",
+      "status": "accepted",
+      "geometry_sha256": "ffa4a2a7617327fc87e36b9eaae71b029193ac913d81e168c8fb27889f4e76c9",
+      "evidence": "hard-parent-words/page-001.png / WORD-09: original complete 誤解, left ten whole strokes",
+      "reviewer": "Codex visual review with source-word context"
+    }
+  ]
+}

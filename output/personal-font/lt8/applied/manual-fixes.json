@@ -1,0 +1,32 @@
+[
+ {
+  "id": "38a516445d31a0bf3408549bd1158a1db23eb8ca234beab62c968d9baee28efb",
+  "from": "n",
+  "to": "r",
+  "reason": "visually an r; EMNIST top1 was r at 1.00"
+ },
+ {
+  "id": "536ea223a93cb5fa664ab9be19107eca40b3f8353e51f3f29241d5d5d2c6d817:split:1",
+  "to": "n",
+  "status": "accepted",
+  "reason": "visual check of 20 candidates; EMNIST top1 n >=0.96"
+ },
+ {
+  "id": "7156f464aa85ce66b7c28209e83d3f41505546202574a7996b2dcaf4d3219287:split:1",
+  "to": "n",
+  "status": "accepted",
+  "reason": "visual check of 20 candidates; EMNIST top1 n >=0.96"
+ },
+ {
+  "id": "de6bcd5931eac7c4a62385aa5c5c6df4b6ad5d1da0227a3f6587c13b9dae2215:split:1",
+  "to": "n",
+  "status": "accepted",
+  "reason": "visual check of 20 candidates; EMNIST top1 n >=0.96"
+ },
+ {
+  "id": "3ae33986746d189b2ffe0f69bd321cd3c1ba3808f02adaf1d12957974b95456e",
+  "to": "n",
+  "status": "accepted",
+  "reason": "visual check of 20 candidates; EMNIST top1 n >=0.96"
+ }
+]

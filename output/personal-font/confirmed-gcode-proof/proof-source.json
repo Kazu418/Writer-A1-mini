@@ -1,0 +1,15 @@
+{
+  "text": "生活習慣病",
+  "characters": 5,
+  "paths": 44,
+  "points": 2024,
+  "source": "previously manually labeled original Goodnotes centerlines",
+  "validation": {
+    "valid": true,
+    "moves": 2114,
+    "strokes": 44,
+    "source_geometry_checked": true
+  },
+  "printer_execution": "not_sent",
+  "profile": "existing central test profile; current physical setup not asserted"
+}

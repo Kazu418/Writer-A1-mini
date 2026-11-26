@@ -1,0 +1,76 @@
+{
+  "archive": "/Users/kazuzon/Downloads/GoodNote_BackUp_ALL.zip",
+  "bytes": 2543495112,
+  "parser_source": "https://github.com/franzthiemann/goodparse",
+  "parser_snapshot_sha256": "137b2cfac2ce60181ff27acfdd57b9ba6d57a96b7998975665dd626049ec2da2",
+  "license_observation": "LICENSE=GPL-3.0; pyproject license=MIT (conflict)",
+  "samples": [
+    {
+      "member": "1st Grade/Math Self.goodnotes",
+      "note_members": 5,
+      "parsed_pages": 5,
+      "strokes": 2271,
+      "points": 173882,
+      "kinds": {
+        "pen": 2271
+      },
+      "page_strokes": [
+        0,
+        795,
+        931,
+        486,
+        59
+      ],
+      "typed_text_boxes": 0,
+      "search_members": 8,
+      "illustrated_page_index": 2,
+      "illustrated_page_strokes": 931
+    },
+    {
+      "member": "1st Grade/Health.goodnotes",
+      "note_members": 33,
+      "parsed_pages": 23,
+      "strokes": 10173,
+      "points": 700661,
+      "kinds": {
+        "pen": 10173
+      },
+      "page_strokes": [
+        0,
+        474,
+        513,
+        428,
+        4,
+        0,
+        0,
+        771,
+        485,
+        425,
+        778,
+        1034,
+        1087,
+        107,
+        1794,
+        170,
+        676,
+        1224,
+        203,
+        0,
+        0,
+        0,
+        0
+      ],
+      "typed_text_boxes": 1,
+      "search_members": 33,
+      "illustrated_page_index": 14,
+      "illustrated_page_strokes": 1794,
+      "deleted_page_markers": 10,
+      "search_utf8_japanese_runs": 1843
+    }
+  ],
+  "extensions": {
+    ".goodnotes": 102,
+    "(none)": 1
+  },
+  "search_index_status": "Plausible text found in UTF8 scan only; no validated character boxes or stroke IDs mapping"
+}

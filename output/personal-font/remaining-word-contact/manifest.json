@@ -1,0 +1,683 @@
+{
+  "pages": [
+    {
+      "page_index": 0,
+      "image": "page-001.png",
+      "character": ".",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": ".",
+          "exemplar_id": "1417cc089af51ab63d00fe6db02d97dd0fce4d1b490126a2f28117346978e544:split:1",
+          "geometry_sha256": "dc00f0e4665a849735b1c2de196499ad739ebdca5c563bfe2be9aeea2c0db043",
+          "book": "4年前期期末.goodnotes",
+          "page": "B5EF3181-784B-5E09-B854-36296B4F8AF5"
+        },
+        {
+          "trial_id": "C-02",
+          "expected_label": ".",
+          "exemplar_id": "c159f252e5ed1b3801954a15e818460079b17acd2408e3381c95b9f8e7999291:split:1",
+          "geometry_sha256": "e2c9018727d0eb4df9f5b88c169591d3fcec912c5252308e4f3e4d3ffa65b0d8",
+          "book": "4年　前期中間.goodnotes",
+          "page": "C2A0B4E2-FA3F-5562-A5A2-57313581D120"
+        },
+        {
+          "trial_id": "C-03",
+          "expected_label": ".",
+          "exemplar_id": "1eddff2a8fcb21ac4fe02ef3dd8623125ad2e099fb4ebda13920c85cc5c4c75c:split:1",
+          "geometry_sha256": "21902a478824ef053275eea45adafaa7a87fab3d3f52ff72e155caa1c3be3458",
+          "book": "4年前期期末.goodnotes",
+          "page": "915B05E2-1E55-53DB-ABC4-C91459C193F6"
+        },
+        {
+          "trial_id": "C-04",
+          "expected_label": ".",
+          "exemplar_id": "fd43a7b46bc984723b70cca2a4a6b560235ed61d64b1e162b9ade78621e8ef34",
+          "geometry_sha256": "fad1a28cda969ac590876aab080dbe37310d02fe07a746d292a23aef12b417a7",
+          "book": "1st Grade/Chemistry.goodnotes",
+          "page": "EF75BBAA-1E0C-4DE8-A9AC-0F778FBFDB18"
+        },
+        {
+          "trial_id": "C-05",
+          "expected_label": ".",
+          "exemplar_id": "ce6d3019dca48925279bcd9d8622d6c6eb707b364b5bc37ed5f77405d171a048",
+          "geometry_sha256": "be2bbe38588cec05a5bfb04d2b2ed53cb548c87b7e723d93d206149202000dc1",
+          "book": "1st Grade/Chemistry.goodnotes",
+          "page": "8BF165D8-DD86-499A-90C3-8586E0877F04"
+        },
+        {
+          "trial_id": "C-06",
+          "expected_label": ".",
+          "exemplar_id": "8b1de6f4b6fe25e4d3159991606991271edc2e12f58c9160c377b93f58fb3c54:split:0",
+          "geometry_sha256": "bb54cca67827fc7e61af5f7ebdefbc9aa365c911632eea79f41c39ba7fa24167",
+          "book": "4年前期期末.goodnotes",
+          "page": "65546BA8-DB72-52AC-BB67-53E3CF4E0EFA"
+        },
+        {
+          "trial_id": "C-07",
+          "expected_label": ".",
+          "exemplar_id": "aaae8d9461d1bc4d1d134c436e42a51fa52502c283a1a98440e8426de4824fe1:split:1",
+          "geometry_sha256": "f820232a7724ef0c2db9b75cead5376d6e43a907226c79cb834b260b676b2d41",
+          "book": "History.goodnotes",
+          "page": "EF7ADB27-10DA-42D7-B841-9CE44ABE8D38"
+        },
+        {
+          "trial_id": "C-08",
+          "expected_label": ".",
+          "exemplar_id": "b626e8288c901ee5d05eb1fa60da932b9c163fb27d01e19e0c8eb9c6b5d3dbcb:split:0",
+          "geometry_sha256": "e3fa920e315eb4ef88a8b6c71e2bf03a1b336b3ecd10372d974ad9e0f5fc7f10",
+          "book": "4年　前期中間.goodnotes",
+          "page": "53F73CE4-10E8-54AC-944D-0C80176A551C"
+        },
+        {
+          "trial_id": "C-09",
+          "expected_label": ".",
+          "exemplar_id": "e0cbd23b8e34625c3178a4325b94273b0657142eaa372258e4fca53cb9d9426b:split:0",
+          "geometry_sha256": "b5eef6b353e9b17a69c6f596635a7e575af13c2c057f746cf7f6d0adb027079f",
+          "book": "4年前期期末.goodnotes",
+          "page": "510DEF24-F76B-5040-8959-AE6E43C09EBD"
+        },
+        {
+          "trial_id": "C-10",
+          "expected_label": ".",
+          "exemplar_id": "280202ba554abb8580bb5e8f3f1938317f90cb2a3d145c151777e613516553ee:split:0",
+          "geometry_sha256": "fc04c06e06f4952231a18d87093f04c13b702e14caee89e3d908fcfd81c8975c",
+          "book": "4年　前期中間.goodnotes",
+          "page": "2646D496-3458-5413-93DE-6703BF9C3D0A"
+        },
+        {
+          "trial_id": "C-11",
+          "expected_label": ".",
+          "exemplar_id": "2c46be57653dccdd005c3322c147330e619d350ea87344607b9c64fff977d25c:split:0",
+          "geometry_sha256": "95506a3ccd2522808ab26ca73288b1370c1c7e74b5dc4e99ee053693e681513c",
+          "book": "Client Work.goodnotes",
+          "page": "E33D28CC-9D71-42C5-99ED-263840827657"
+        },
+        {
+          "trial_id": "C-12",
+          "expected_label": ".",
+          "exemplar_id": "b626e8288c901ee5d05eb1fa60da932b9c163fb27d01e19e0c8eb9c6b5d3dbcb:split:1",
+          "geometry_sha256": "8ce40ae1013409ca2725a2ecbb8e3d85c17bff88df74bc666ce4dff78523084f",
+          "book": "4年　前期中間.goodnotes",
+          "page": "53F73CE4-10E8-54AC-944D-0C80176A551C"
+        },
+        {
+          "trial_id": "C-13",
+          "expected_label": ".",
+          "exemplar_id": "2c46be57653dccdd005c3322c147330e619d350ea87344607b9c64fff977d25c:split:1",
+          "geometry_sha256": "68ac4c41c5b9867e1b0dd983a21d835c8047a4eb18cb3c706b70a03eab2ece1b",
+          "book": "Client Work.goodnotes",
+          "page": "E33D28CC-9D71-42C5-99ED-263840827657"
+        },
+        {
+          "trial_id": "C-14",
+          "expected_label": ".",
+          "exemplar_id": "23b908650f5ca308f757bec511c6b8a252a14d39c4efb8b6b920ad6562617ddd:split:1",
+          "geometry_sha256": "761b5ed331a0532c78eca883f52ee630408e94012113871fa5fa26300c42ed93",
+          "book": "4年　前期中間.goodnotes",
+          "page": "DBEBB4CD-C368-58AD-99B7-5EDF0D202311"
+        },
+        {
+          "trial_id": "C-15",
+          "expected_label": ".",
+          "exemplar_id": "672d6bdde8ac715886ba7fee3653ec920897f6c446218477654faa09b2054d28:split:1",
+          "geometry_sha256": "eb09ba56303693fa9440d53e04b4e9a9587354f2f6270dfe19a3b4e011dc72cd",
+          "book": "4年　前期中間.goodnotes",
+          "page": "2646D496-3458-5413-93DE-6703BF9C3D0A"
+        },
+        {
+          "trial_id": "C-16",
+          "expected_label": ".",
+          "exemplar_id": "1cdd4b6bcbf27886dd5df1524120cc5af6d1ebe491080342e3a466ce6b985756:split:1",
+          "geometry_sha256": "739ad6fb18bcd345ec6180f4f8dd81b5486a470b06f3bf214c8f395c306a6b8d",
+          "book": "Client Work.goodnotes",
+          "page": "E33D28CC-9D71-42C5-99ED-263840827657"
+        }
+      ]
+    },
+    {
+      "page_index": 1,
+      "image": "page-002.png",
+      "character": "、",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": "、",
+          "exemplar_id": "df9ed02faebe6350e11df4598253b7eedcb267bfc98eaa6a4c6fe07cb6424012",
+          "geometry_sha256": "b371d581c47f042a244b39095d9d9d18162558ab6eb6057aca4c3c068edae373",
+          "book": "1st Grade/Math A.goodnotes",
+          "page": "C03BBCAD-2561-45D2-B2C4-9FF2087BF634"
+        },
+        {
+          "trial_id": "C-02",
+          "expected_label": "、",
+          "exemplar_id": "3a204ed3bae69de27a0822804b902da7db0ae38af2cfd70874b4211707e6bff6",
+          "geometry_sha256": "87fb0e10a6f9d1f978b78f1ef2375f9842f40c1bac33741121e48ae84e3bcace",
+          "book": "1st Grade/Chemistry.goodnotes",
+          "page": "04DE1E9C-0C64-4AF9-B350-245E8FB5DB71"
+        }
+      ]
+    },
+    {
+      "page_index": 2,
+      "image": "page-003.png",
+      "character": "。",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": "。",
+          "exemplar_id": "ea3768b3996846085e89e4636536077162009e3163ce5bf5e5c21013a62fe990",
+          "geometry_sha256": "3265895fadafafeb617e90edb19fffbd049585110ec48e6d0b898e1b53088ea3",
+          "book": "1st Grade/Chemistry.goodnotes",
+          "page": "04DE1E9C-0C64-4AF9-B350-245E8FB5DB71"
+        },
+        {
+          "trial_id": "C-02",
+          "expected_label": "。",
+          "exemplar_id": "00b979da98b521635a044b590200d8b0033a139b27ba9ad0fdf3fbac969eff64",
+          "geometry_sha256": "281a1f10d1ae2ed9272845865262b04bfe73ca65fb626ebf023fdaad22a7cf35",
+          "book": "1st Grade/Chemistry.goodnotes",
+          "page": "04DE1E9C-0C64-4AF9-B350-245E8FB5DB71"
+        }
+      ]
+    },
+    {
+      "page_index": 3,
+      "image": "page-004.png",
+      "character": "ズ",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": "ズ",
+          "exemplar_id": "c6fecae97b132f31f8debdbd6c41524da0b49120a881d30cb1c2f88b00f58098:split:0",
+          "geometry_sha256": "8fa045c203358a912f7ca25212ae5addb6683622802ddec0a214e26e4971244d",
+          "book": "1st Grade/Re/For SocialStudy/まとめ.goodnotes",
+          "page": "E92A9CE0-E2C7-405D-87D9-A8AF7DB92EA0"
+        },
+        {
+          "trial_id": "C-02",
+          "expected_label": "ズ",
+          "exemplar_id": "9f35b60f19accc24bd54f6794d1768d282d6f95cfd8ea86b2c86037ec52c4bf8:split:3",
+          "geometry_sha256": "e6f871772d8b396c726e76b4cce6847b1c2a88806b97f3b4d18f2a7a3449b8ed",
+          "book": "過去のテスト/3年後期期末　テスト.goodnotes",
+          "page": "51ECA64A-2749-57C2-A1F6-7BA213AD2AB2"
+        },
+        {
+          "trial_id": "C-03",
+          "expected_label": "ズ",
+          "exemplar_id": "3ffb7a167e5bedeb2a24d38204159695c7e811be54ff30b8f01638b66680e3d3:split:4",
+          "geometry_sha256": "f0ae3f595167949890a3acf2ae780862fbbe5bb824f43335b045392b9b80aa67",
+          "book": "アルゴリズムとデータ構造.goodnotes",
+          "page": "11F199EB-459F-4BB4-BEE5-0A4F7A01883A"
+        },
+        {
+          "trial_id": "C-04",
+          "expected_label": "ズ",
+          "exemplar_id": "c78eeb535d6bee2fa0364d5a33d003052fad00d6eaf670f0deab1bc181e1aab0:split:0",
+          "geometry_sha256": "fc9f54b859e12b567177ff96c4c758f333fcb8ad83c2ab86a53372becdb24a1d",
+          "book": "Electric circuit.goodnotes",
+          "page": "513F769C-24B9-4007-BEB7-55109E36AD83"
+        },
+        {
+          "trial_id": "C-05",
+          "expected_label": "ズ",
+          "exemplar_id": "030722c0211e7ed52fcbc6adc710034d5c303e13fa0f30981c83ccec2a7e2674:split:0",
+          "geometry_sha256": "b4a6ae9bd0e94d6c89bdc5900afb0b1850933a39319b905dcd1b528c9e1ca50b",
+          "book": "1st Grade/Health.goodnotes",
+          "page": "745D9F05-89BC-5DD8-89A0-56326E01DF59"
+        },
+        {
+          "trial_id": "C-06",
+          "expected_label": "ズ",
+          "exemplar_id": "261e25e498efaf1753148a8d4f0ca56b76fea86e4f537d3c7ad1d473c67fabf2:split:6",
+          "geometry_sha256": "05571985c4349292e1ffb1a2f0428695cc6d4011bed8bfd74ce1f6bbc01b04fe",
+          "book": "過去のテスト/Test.goodnotes",
+          "page": "1B2B9F70-1E42-4389-AAA0-FE7897C5DEAE"
+        },
+        {
+          "trial_id": "C-07",
+          "expected_label": "ズ",
+          "exemplar_id": "d6abecf964e2a32630b41be5d098099e15de74b2f47397d15bcd63c006c5e45e:split:1",
+          "geometry_sha256": "203a44d43cb60cb984b31d2b37c8c9bbb181d23c84203d8bd2db269029e9adbb",
+          "book": "1st Grade/Chemistry.goodnotes",
+          "page": "7CF5A026-4748-4789-A4FC-C43E40F86DF4"
+        },
+        {
+          "trial_id": "C-08",
+          "expected_label": "ズ",
+          "exemplar_id": "4c74b2feb648b11fc1c8b0aba2c8e9a353c3f8dd87fa448deb5e902d72889785:split:4",
+          "geometry_sha256": "d32612550eb083d02ac27ddfd94f16e7dc7b2c7a622f35a3c56215c630cb399d",
+          "book": "アルゴリズムとデータ構造.goodnotes",
+          "page": "11F199EB-459F-4BB4-BEE5-0A4F7A01883A"
+        },
+        {
+          "trial_id": "C-09",
+          "expected_label": "ズ",
+          "exemplar_id": "dc15173edc0c7b52393f0ad460fbda86a531a94f33d0d867ff949744e02cfe74:split:5",
+          "geometry_sha256": "9198316a1fba9181a97de9b849552f1d6aa196f90645ac4b447a1c9b9999c32a",
+          "book": "アルゴリズムとデータ構造.goodnotes",
+          "page": "11F199EB-459F-4BB4-BEE5-0A4F7A01883A"
+        },
+        {
+          "trial_id": "C-10",
+          "expected_label": "ズ",
+          "exemplar_id": "6de8044d0e8bab672b7cb6c025a51fb34e0259f67e43a2786273b7732f8e4b1b:split:8",
+          "geometry_sha256": "a05d384424f46caa32a5372703c835324179982fd6756af9b912a90877016f37",
+          "book": "ロボット工学.goodnotes",
+          "page": "AC44DCC6-6E66-49DD-9DD6-E4B7B0540D4D"
+        },
+        {
+          "trial_id": "C-11",
+          "expected_label": "ズ",
+          "exemplar_id": "86326c228789902374d9aa6874fc440b2fd31aaa11238839532bc6b6fe096c0a:split:4",
+          "geometry_sha256": "2faf3a1546dcbc0711fb034a5cdee9172e4d1776c6ec1ae4075570cdd72bd7ce",
+          "book": "過去のテスト/3年後期テスト.goodnotes",
+          "page": "CB81A456-8B2A-4E15-B104-D6D65FEFC110"
+        },
+        {
+          "trial_id": "C-12",
+          "expected_label": "ズ",
+          "exemplar_id": "87807c48b1b26a8d93b62c2d4d3cb13f92eff870671800ab6a15923b227a924f:split:4",
+          "geometry_sha256": "cf3155cb577286074fc15cbe38b435a2c15fe621512a98d42efe688b05442d5e",
+          "book": "アルゴリズムとデータ構造.goodnotes",
+          "page": "11F199EB-459F-4BB4-BEE5-0A4F7A01883A"
+        },
+        {
+          "trial_id": "C-13",
+          "expected_label": "ズ",
+          "exemplar_id": "f4e180bd7f4a210661f9f23b808a26f7c59c27a03df29d797dbd4ba73ae38284:split:1",
+          "geometry_sha256": "637ffc704d85cb6f5cb079bde61cd5a34b2282e12ed9e4d4ebb0f526be9b6579",
+          "book": "4年　前期中間.goodnotes",
+          "page": "F358E0C9-A222-5EF1-AFB1-8D4951FFC0C7"
+        },
+        {
+          "trial_id": "C-14",
+          "expected_label": "ズ",
+          "exemplar_id": "6a91266d8424fad6401e61718031725b31ea2768ecda32ced5697f15d69f40d4:split:1",
+          "geometry_sha256": "c1299e1370020cc8dde3e5575d2a6aa9839b6caec61ff40a044b437e6910c5fe",
+          "book": "過去のテスト/Test.goodnotes",
+          "page": "F6F7CCD8-6405-518E-9523-725B11CA4983"
+        },
+        {
+          "trial_id": "C-15",
+          "expected_label": "ズ",
+          "exemplar_id": "d573d787c8b0e9c29671117a081feddbaa5d033fa02437c0c18277c7d9014982:split:2",
+          "geometry_sha256": "4f2fc62c7f77b62965cadea20bb0f6f512c0aad87b2c179ba4e986afd0c10ca5",
+          "book": "過去のテスト/Test.goodnotes",
+          "page": "EA6964B6-1B75-4F5C-B2B9-90017DD713F5"
+        },
+        {
+          "trial_id": "C-16",
+          "expected_label": "ズ",
+          "exemplar_id": "bf9d7fcea1c5e9f56937c457885579cdf6b37284748c7f1e394cc63f7fdd4cf6:split:5",
+          "geometry_sha256": "3b0e9f3094361e9f42f43467c7f7d68c1519bada955af74902c88feaf2c3bcd0",
+          "book": "過去のテスト/Test.goodnotes",
+          "page": "8CB1E2D5-64EB-5194-B4FD-20270C6D33FD"
+        }
+      ]
+    },
+    {
+      "page_index": 4,
+      "image": "page-005.png",
+      "character": "ッ",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": "ッ",
+          "exemplar_id": "c8bfd690474e23f5e03bcff0a513ee871f1c8da666dd13b66b02450d541cb33f:split:1",
+          "geometry_sha256": "0f38a9a5988971b59e5ca2309ff7c5e7ae31426a738f626572a58e9b0a5476f7",
+          "book": "アルゴリズムとデータ構造.goodnotes",
+          "page": "FD2F46B6-7018-407A-AACE-AE95B4B6CEA8"
+        },
+        {
+          "trial_id": "C-02",
+          "expected_label": "ッ",
+          "exemplar_id": "cdfac4864e4181149b40b621bd15e91378ad43eed41d6f9ba3fd72dcf609a870:split:2",
+          "geometry_sha256": "36e5d2860b2819fa1b4dfc0b98e8f36650f3a23def08227d56e6da8c28c88314",
+          "book": "アルゴリズムとデータ構造.goodnotes",
+          "page": "FAE90793-F9C5-448F-AB85-BAB35EAE315B"
+        },
+        {
+          "trial_id": "C-03",
+          "expected_label": "ッ",
+          "exemplar_id": "fc77eb6588e1d7bafb8285733e1fe6baa96eca6aa74c6a012d21b829952fa744:split:2",
+          "geometry_sha256": "ecf72c51669d96162335a05ce803e72903411ed044c87401d66a1f152839e94f",
+          "book": "4年前期期末.goodnotes",
+          "page": "3091E837-2A8D-43B1-8E9E-73A34C66AF38"
+        },
+        {
+          "trial_id": "C-04",
+          "expected_label": "ッ",
+          "exemplar_id": "29362cd16cd6264d83807e15372665950f4f6b2f363c968ac8c3a7f2b609b7ce:split:3",
+          "geometry_sha256": "fd227eb925788b624f4c52629d0149b50ba6c64bf052f6dcb41d35525679691c",
+          "book": "1st Grade/Re/For SocialStudy/まとめ.goodnotes",
+          "page": "DEE72874-520D-4D5C-8EDB-651FDA8C1CA2"
+        },
+        {
+          "trial_id": "C-05",
+          "expected_label": "ッ",
+          "exemplar_id": "fec3e7d0e072641c02fb37b867b7e906c609a5b037d54f47483b94331cb899b4:split:2",
+          "geometry_sha256": "3a5697428111bacd09ce6f3136d2b15bec63bbc8ebc617e61d77b33564cde218",
+          "book": "1st Grade/Social Study.goodnotes",
+          "page": "BCC6D3C7-6502-4DB6-9C56-AFBDC15CA86D"
+        },
+        {
+          "trial_id": "C-06",
+          "expected_label": "ッ",
+          "exemplar_id": "9da6a00805387abd9b7efccde811574d8bcb8087303b78b0d0d3a52223362089:split:3",
+          "geometry_sha256": "e4703e26a4a318b1d1a4755c6d64db2eefe1746a9e6acaee8fa9d7012747cdcd",
+          "book": "1st Grade/Health.goodnotes",
+          "page": "6CC8065B-3EA5-44B0-AFCF-FA62BC07518F"
+        },
+        {
+          "trial_id": "C-07",
+          "expected_label": "ッ",
+          "exemplar_id": "3ffe7cee31e67ed2f6e3a25a9ea1ab549836d1cc4588d513e173541e646198aa:split:2",
+          "geometry_sha256": "b5341cfff549b0fa9c32474650e6cad88506953ab4c1d56b0e6b984571c965c5",
+          "book": "公共.goodnotes",
+          "page": "66DD636C-CFBB-4738-B6E5-9838CE803DD5"
+        },
+        {
+          "trial_id": "C-08",
+          "expected_label": "ッ",
+          "exemplar_id": "ae2164e3cd2c9628caec4cf5ca7f1cf83af67c1a33707f4cbe0a34a730c900dc:split:7",
+          "geometry_sha256": "e4f30be0719b4715ef78eae125360d89e245897beea28d116c3627af2b3826e3",
+          "book": "ロボット工学.goodnotes",
+          "page": "AC44DCC6-6E66-49DD-9DD6-E4B7B0540D4D"
+        },
+        {
+          "trial_id": "C-09",
+          "expected_label": "ッ",
+          "exemplar_id": "0346b1b166e989b5515b1478265ad8a8e88db6a5b182d7a25f001ff5996d768f:split:2",
+          "geometry_sha256": "666f928f3f55e2f217b40fb12798d1cf17944e6c299cede3fc067f7bd7336bcc",
+          "book": "ロボット工学.goodnotes",
+          "page": "7753D26E-2A76-4A79-9C60-495853F05673"
+        },
+        {
+          "trial_id": "C-10",
+          "expected_label": "ッ",
+          "exemplar_id": "b4da36ec14ae3dd9eba0e82904b5377af13ae65060ac54b95152baab289f676c:split:3",
+          "geometry_sha256": "bc1988585e4b45d48fa254747f5ce5d6c94f65bd671083bda17a874923b210d6",
+          "book": "過去のテスト/Test.goodnotes",
+          "page": "A94AA6C3-3C61-565C-97AF-8840356EA1AC"
+        },
+        {
+          "trial_id": "C-11",
+          "expected_label": "ッ",
+          "exemplar_id": "a4e74989ee7a44f2401f5a7fb7d4f1e8f5b2bc4eb0bed753b07a7b1155a9fbe2:split:6",
+          "geometry_sha256": "387634d0ad5835f65e58fefbe15b0dd7db66df0cd29859e3ce8b2cf4a3466ec5",
+          "book": "ロボット工学.goodnotes",
+          "page": "D957ED18-BFDF-46A4-B1D1-61736109CC87"
+        },
+        {
+          "trial_id": "C-12",
+          "expected_label": "ッ",
+          "exemplar_id": "ac483167dc99e7522251b79104cb2018fcc7ae5e6a33d0821e427081ac4a469e:split:3",
+          "geometry_sha256": "30afaa8fae35585138f3db56f1a3b7caa5a5777660e63f90a922034661c5a866",
+          "book": "1st Grade/Homework.goodnotes",
+          "page": "C7AE23B5-B3B7-4B65-94BF-EC942D888FFE"
+        },
+        {
+          "trial_id": "C-13",
+          "expected_label": "ッ",
+          "exemplar_id": "300fbf458f64f7d98d2f78d802f31504353d2c1ae048e6102a1b96e751e828a2:split:3",
+          "geometry_sha256": "763d976de9f9397d1156f0ebc0e57e3c80ebb6dcf04779d8843a0e0214895c79",
+          "book": "4年前期期末.goodnotes",
+          "page": "33B1AC30-D4B5-4CE3-ABC1-C1375DF2447E"
+        },
+        {
+          "trial_id": "C-14",
+          "expected_label": "ッ",
+          "exemplar_id": "6c4dbf07c46f044586d1e8cfe5777beb4284092d0ab5815da50e9bbf36594812:split:2",
+          "geometry_sha256": "7fd2e5f216b4a78233ca70d77d526009dc5ba6dbb1618181ce9530dbdd60de67",
+          "book": "1st Grade/Social Study.goodnotes",
+          "page": "9135ED4A-5CE4-4839-9AB1-74C68E1D7A14"
+        },
+        {
+          "trial_id": "C-15",
+          "expected_label": "ッ",
+          "exemplar_id": "1fd44f2bb79be85be030f4dc90b0637327b03349c23ffdf423b60996c52899d2:split:2",
+          "geometry_sha256": "d5b4db431975d97027557bf77095b8efddd3fd27389048ffaab5debf0f65144b",
+          "book": "4年前期期末.goodnotes",
+          "page": "22D9EBC6-2274-41A3-9B45-580C4CC75C86"
+        },
+        {
+          "trial_id": "C-16",
+          "expected_label": "ッ",
+          "exemplar_id": "93c265fca99c6d490b439ea191450e66dcc46aee52298aadf92efeab5270c76c:split:5",
+          "geometry_sha256": "78bb4087ebadf56a9c2d715077d48acb288f092f9aa66548bbdec2b2d7f3bd68",
+          "book": "ロボット工学.goodnotes",
+          "page": "CC6ADA22-6D21-4A56-9DFA-CC904082BDF1"
+        }
+      ]
+    },
+    {
+      "page_index": 5,
+      "image": "page-006.png",
+      "character": "断",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": "断",
+          "exemplar_id": "e4b655f31891f783873f38c854b3107da577106db668d8e3112d02acc3bcdd46:split:0",
+          "geometry_sha256": "5d8e8e53a0689a74a0d82be333e2ebf72cff6eca50724941c40079e2d5fa0dcd",
+          "book": "4年前期期末.goodnotes",
+          "page": "33B1AC30-D4B5-4CE3-ABC1-C1375DF2447E"
+        },
+        {
+          "trial_id": "C-02",
+          "expected_label": "断",
+          "exemplar_id": "290cb16da905adf5bb828e3373f88f54f02ef9914eb5127d5c0a638493bec491:split:1",
+          "geometry_sha256": "9fadf78200c178e63571a0c76a9c3ff8e26a1d8b4466f1b582bfaa8d792eb76b",
+          "book": "1st Grade/Re/For Math/前期中間対策プリント.goodnotes",
+          "page": "0F8B1DE3-2B44-5968-B225-2924475F8B95"
+        },
+        {
+          "trial_id": "C-03",
+          "expected_label": "断",
+          "exemplar_id": "5ff6ceed770b0c2a4e1a07468005e7996400863a6974cdcba1bb773593c2ce2b:split:2",
+          "geometry_sha256": "6fa529a5c575e5b32ff7ef8082292b8149a00dd3bb9786e9392dffb233766bd7",
+          "book": "過去のテスト/Test.goodnotes",
+          "page": "F6F7CCD8-6405-518E-9523-725B11CA4983"
+        }
+      ]
+    },
+    {
+      "page_index": 6,
+      "image": "page-007.png",
+      "character": "眠",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": "眠",
+          "exemplar_id": "bec232fb32930c2dc165fddc0f8d0b7ebe6fcee4657f9057d8931db0088c1f3b:split:1",
+          "geometry_sha256": "2d2019bed78f7763a836d8160cb4c8fd8367c52268fa8f754a81d654ee445de7",
+          "book": "1st Grade/Re/For SocialStudy/社会　練習.goodnotes",
+          "page": "C817290F-950E-4CA6-8B38-8E739E4E723F"
+        },
+        {
+          "trial_id": "C-02",
+          "expected_label": "眠",
+          "exemplar_id": "b57c2b05a7579f728c2ca95f40bf3b5ed28dbd98dd262214cddad3e7dce6b180:split:1",
+          "geometry_sha256": "cccdf985b1d43bb88c295044fa65a3e7d278fdf9df8d2fd897f66d23cbaf87d4",
+          "book": "1st Grade/Social Study.goodnotes",
+          "page": "BCC6D3C7-6502-4DB6-9C56-AFBDC15CA86D"
+        },
+        {
+          "trial_id": "C-03",
+          "expected_label": "眠",
+          "exemplar_id": "356ddcc7b8c90d3f05efba12065db9fdf77c5e7a58739197b0b3251294081a68:split:1",
+          "geometry_sha256": "26e8694fcb9f8225eb62934f589f7141c1ed89390efb521cf64c0dfc7f308ba7",
+          "book": "1st Grade/Social Study.goodnotes",
+          "page": "2789978B-0E90-49B6-9A50-5D88CB6681B5"
+        },
+        {
+          "trial_id": "C-04",
+          "expected_label": "眠",
+          "exemplar_id": "570d079875f79e1aa8560bef49e91cf1c13d910afe7f9fdb70da6a7f3ee05816:split:2",
+          "geometry_sha256": "b5c6517287da52623ab544f5ec2b1b5922770b2e88d3ff0b3336a10e6f0699d9",
+          "book": "過去のテスト/Test.goodnotes",
+          "page": "7F7F80E9-BBD0-5B5D-8AC5-244560CB6889"
+        },
+        {
+          "trial_id": "C-05",
+          "expected_label": "眠",
+          "exemplar_id": "bcb03b8877b2a6fc5b022001c7b3095c4dc54279a4b7b9c7d002fc6331553475:split:1",
+          "geometry_sha256": "b2189188833c548bafd9e887caccfefac1bb4921f3413014be3c39b98b9efeb2",
+          "book": "公共.goodnotes",
+          "page": "18A7A57D-A126-45AC-AE68-1C5C3A9CE35C"
+        },
+        {
+          "trial_id": "C-06",
+          "expected_label": "眠",
+          "exemplar_id": "beaf4878695e85d2bb7ffe314f9b1969d04e7b314156e2baba98f60cecd3bc0d:split:1",
+          "geometry_sha256": "b5113a87c3802b2fc33c41954388399457a3353a1b6ec38cc9214785ff298e48",
+          "book": "過去のテスト/3年後期テスト.goodnotes",
+          "page": "2F0B046D-C9CC-5E18-8B6B-32E6DAB545C7"
+        },
+        {
+          "trial_id": "C-07",
+          "expected_label": "眠",
+          "exemplar_id": "052b2a2111bdd034d0ba889a5c86158d75f1e6b03c8c51ff724f3dd462326723:split:1",
+          "geometry_sha256": "b40f60318ff0981881b91de94315629e5fdd03a08e0b21d6f3c8343707ff3590",
+          "book": "アルゴリズムとデータ構造.goodnotes",
+          "page": "B6871838-F860-43D9-ABDD-C0067F6B59C8"
+        }
+      ]
+    },
+    {
+      "page_index": 7,
+      "image": "page-008.png",
+      "character": "背",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": "背",
+          "exemplar_id": "d93dde1a52efdb6e5fe585964b159602d8b20d753b1bfa6a565267db01b7d5e3:split:0",
+          "geometry_sha256": "e972320e7acaa339fb8ac75af284af10ed527a8ce19806f0766c8e17ea3ff210",
+          "book": "4年　前期中間.goodnotes",
+          "page": "C5286424-A690-5823-B5CD-BBC4381989A6"
+        }
+      ]
+    },
+    {
+      "page_index": 8,
+      "image": "page-009.png",
+      "character": "資",
+      "glyphs": [
+        {
+          "trial_id": "C-01",
+          "expected_label": "資",
+          "exemplar_id": "92f06111d66710379f00f1f98350d5a2f3a4ca1a1f1bc6082f98f3bc5141ea51:split:1",
+          "geometry_sha256": "3c5f73cd8d327d2a0b6d52c169de9bf738d014b947a028bc7034d32764777bec",
+          "book": "1st Grade/Re/For SocialStudy/社会　練習　1.goodnotes",
+          "page": "6884D00B-97A6-4B40-A2BD-14A2B7478D24"
+        },
+        {
+          "trial_id": "C-02",
+          "expected_label": "資",
+          "exemplar_id": "34a4985ea84638254f2c416acca49b98e730df33dceb137c4b6c71522f58d473:split:2",
+          "geometry_sha256": "6c57d1ce3f0227fc4821bb7407bd1c5da2d10b3ff7185dbf5761745e35224cc6",
+          "book": "1st Grade/Re/For SocialStudy/社会　練習　1.goodnotes",
+          "page": "6884D00B-97A6-4B40-A2BD-14A2B7478D24"
+        },
+        {
+          "trial_id": "C-03",
+          "expected_label": "資",
+          "exemplar_id": "b5f274915e70acdf961bf218fc36386b0f7f545d778e62f5a43b18fe0be4541c:split:0",
+          "geometry_sha256": "e9e36c6335dc974641aebb84e46edb1dd873d932932b3c935fda88b7417d63f4",
+          "book": "1st Grade/Re/For SocialStudy/社会　練習.goodnotes",
+          "page": "8B9A527A-3805-477D-8C7B-93F05DD41B69"
+        },
+        {
+          "trial_id": "C-04",
+          "expected_label": "資",
+          "exemplar_id": "0751d5b1398fca00e853a885777e2f72a14c62fa2161f9a944137d1f967cc86b:split:0",
+          "geometry_sha256": "9461724d7f12d9557cbf3530afda1ae28b5fe64e56bdf1795c3aeb29468c7f81",
+          "book": "1st Grade/Re/For SocialStudy/まとめ.goodnotes",
+          "page": "E92A9CE0-E2C7-405D-87D9-A8AF7DB92EA0"
+        },
+        {
+          "trial_id": "C-05",
+          "expected_label": "資",
+          "exemplar_id": "3f99933581584a950e23b0420db15c2ece5479bd044c08dfac6f320da332773d:split:0",
+          "geometry_sha256": "c5aafde1c502eab01700bc29597e4222b186f344cf8a12043744c082e04ebf18",
+          "book": "1st Grade/Re/For SocialStudy/まとめ.goodnotes",
+          "page": "D9E488DE-8F14-4774-9C38-8B14DC61ECF0"
+        },
+        {
+          "trial_id": "C-06",
+          "expected_label": "資",
+          "exemplar_id": "f327f2d11ede8c2ca6499d31da573682dbf9f58c9f61c698df84447f7c1f99dd:split:3",
+          "geometry_sha256": "20452314b99d29315dc49b5b1a9eb7c6cda15f6defdccdd5e183d1218678c023",
+          "book": "1st Grade/Re/For SocialStudy/まとめ.goodnotes",
+          "page": "2DF58C5B-93AA-4928-B5C8-BEBCEC8AEF23"
+        },
+        {
+          "trial_id": "C-07",
+          "expected_label": "資",
+          "exemplar_id": "f86aa15b65014a3fedbfb3260f7ffedc65f9e471f29148ed5e8e4711cd821bd1:split:0",
+          "geometry_sha256": "a59d08b55fe470c999451408467e8268ee88cd1b1fbeefa9b63a3dfffdb4b54f",
+          "book": "1st Grade/Re/For SocialStudy/社会　練習.goodnotes",
+          "page": "C3BCADA8-9DA3-40D4-8B26-5975A2481417"
+        },
+        {
+          "trial_id": "C-08",
+          "expected_label": "資",
+          "exemplar_id": "b138cd14a9e8204b382720a747f92a766ffddc76228a13005b474ccff36e1ea2:split:0",
+          "geometry_sha256": "f725fababe28a4351492a3f3331752cfbe23d706bd1d8aa149b50de75ebd6b1c",
+          "book": "過去のテスト/3年後期テスト.goodnotes",
+          "page": "F8A393A6-69B7-59DB-9A91-EEA24CD91D72"
+        },
+        {
+          "trial_id": "C-09",
+          "expected_label": "資",
+          "exemplar_id": "d7e530ad132a8e52e9b2fcc550d641ef322d17917bbdcedf13ae4368de82cde4:split:2",
+          "geometry_sha256": "e280c75369cc22414bac5055af9dccf4e0652e35bcefa6fe626e439f7c66d259",
+          "book": "1st Grade/Re/For SocialStudy/まとめ.goodnotes",
+          "page": "2B12070F-B879-431E-88CC-192798C5C51A"
+        },
+        {
+          "trial_id": "C-10",
+          "expected_label": "資",
+          "exemplar_id": "abf43fac2e4eafcd57662ea2f76a042dc3f941ebc82e253a76beef143d5e6b78:split:3",
+          "geometry_sha256": "6fa31159336f1ec521cffa5ac1a74dd3af47afcd318880405cce6176ebc3e241",
+          "book": "1st Grade/Re/For SocialStudy/社会　練習.goodnotes",
+          "page": "1B9FAE6C-3D0B-4EF9-A053-53C885ADEDB7"
+        },
+        {
+          "trial_id": "C-11",
+          "expected_label": "資",
+          "exemplar_id": "021b6cb4d7f498b7309f6cd395874896c490d0cf5a1f77365c425bd205576751:split:0",
+          "geometry_sha256": "5509195007a6efc02d98e60d8adcc12d70bac6fd36aa36e9e355ea6c20e20837",
+          "book": "過去のテスト/Test.goodnotes",
+          "page": "EA6964B6-1B75-4F5C-B2B9-90017DD713F5"
+        },
+        {
+          "trial_id": "C-12",
+          "expected_label": "資",
+          "exemplar_id": "19c31af9a074e1739ed5c53fe2d1a23da5f4a1bd94ff373cfdd85e0557368e60:split:3",
+          "geometry_sha256": "6c5bae230816f4ce5221232d30aa3f70ee45f4e96d4ef79021d4b6f24bc5aa7a",
+          "book": "1st Grade/Re/For SocialStudy/まとめ.goodnotes",
+          "page": "FF85A434-466F-4101-A4BA-1FE135FE7630"
+        },
+        {
+          "trial_id": "C-13",
+          "expected_label": "資",
+          "exemplar_id": "b38dddaa62ba5e6bb4ca6e1b3aec80ae0aae23b3d28f95f1313c4a7d64252c75:split:4",
+          "geometry_sha256": "23d1c8dc2a0aed53a3a467031a4378ec61ed7ccafb4ee1f552ff0965c6507b38",
+          "book": "1st Grade/Re/For SocialStudy/社会　練習.goodnotes",
+          "page": "C817290F-950E-4CA6-8B38-8E739E4E723F"
+        },
+        {
+          "trial_id": "C-14",
+          "expected_label": "資",
+          "exemplar_id": "048875eb1a805aff82c067615c4fea6dc07db6023d5eaba25bda6688109ef7a7:split:0",
+          "geometry_sha256": "67a172dd839a98fc18a4edf30c8e95f6f372811d661836e0f22a3cf36ec020d5",
+          "book": "1st Grade/Re/For SocialStudy/社会　練習.goodnotes",
+          "page": "1B9FAE6C-3D0B-4EF9-A053-53C885ADEDB7"
+        }
+      ]
+    }
+  ]
+}

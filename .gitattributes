@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.pdf -text
+*.png -text
+*.3mf -text
+*.zip -text
+archives/** -text
+output/** -text

@@ -1,0 +1,18 @@
+{
+  "sha256": "af41413ff7c7b7e23ff60f7f97b52f2b83b0af0d14527524fcc652725c48b48f",
+  "mode": "fast",
+  "pages": 16,
+  "planned_pages": 319,
+  "status": "complete",
+  "submission": {
+    "success": true,
+    "error": null,
+    "request_id": "ztHw0RnB5rpsmuaWdWKtkA",
+    "request_check_url": "https://www.datalab.to/api/v1/convert/ztHw0RnB5rpsmuaWdWKtkA",
+    "versions": null,
+    "checkpoint_reused": null
+  },
+  "request_check_url": "https://www.datalab.to/api/v1/convert/ztHw0RnB5rpsmuaWdWKtkA",
+  "last_status": "complete",
+  "result_file": "batch-002.job.result.json"
+}

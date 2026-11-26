@@ -1,0 +1,22 @@
+{
+  "printer": "a1-mini",
+  "calibrated": true,
+  "pen_offset_x": 0,
+  "pen_offset_y": -30.8,
+  "paper_x": 70,
+  "paper_y": 80,
+  "paper_width": 40,
+  "paper_height": 20,
+  "nozzle_min_x": 40,
+  "nozzle_max_x": 140,
+  "nozzle_min_y": 40,
+  "nozzle_max_y": 150,
+  "draw_z": 4.9,
+  "lift_z": 8,
+  "safe_z": 10,
+  "draw_feed": 600,
+  "travel_feed": 1200,
+  "z_feed": 120,
+  "pen_width": 0.3,
+  "calibration_notes": "Central test canvas only, not full sheet calibration. User confirmed pen contact at commanded absolute Z5 after pen-removed positioning. No rehoming since. User verified successful writing at Z5; next-test candidate Z4.9 adds 0.1mm compression, not yet physically tested. Lift8/safe10 unchanged."
+}

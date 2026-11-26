@@ -1,0 +1,11 @@
+{
+  "source": "a4-v4-pressure",
+  "original_all_four_passes_reproduced_byte_for_byte": true,
+  "first_pass_unchanged_and_omitted_from_new_print_files": true,
+  "text_figure_coordinates_unchanged": true,
+  "no_reflow": true,
+  "draw_z": 4.8,
+  "lift_z": 6.5,
+  "safe_z": 10,
+  "inline_expressions": []
+}

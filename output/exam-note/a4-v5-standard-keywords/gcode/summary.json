@@ -1,0 +1,28 @@
+[
+  {
+    "tile": "face2-pass1",
+    "strokes": 7180,
+    "minutes_est": 52.5,
+    "keyword_segments": 63,
+    "non_keyword_commands_identical": true,
+    "validation": {
+      "valid": true,
+      "moves": 343887,
+      "strokes": 7180,
+      "source_geometry_checked": true
+    }
+  },
+  {
+    "tile": "face2-pass2",
+    "strokes": 5996,
+    "minutes_est": 43.9,
+    "keyword_segments": 42,
+    "non_keyword_commands_identical": true,
+    "validation": {
+      "valid": true,
+      "moves": 283751,
+      "strokes": 5996,
+      "source_geometry_checked": true
+    }
+  }
+]

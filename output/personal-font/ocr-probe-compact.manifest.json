@@ -1,0 +1,259 @@
+{
+  "image": "ocr-probe-compact.png",
+  "sha256": "97d50e7e5dd32ecfe71506fde35bfc3234320220837200ec4881a7af06b2b62e",
+  "layout": {
+    "width": 720,
+    "height": 800,
+    "columns": 2,
+    "cell_width": 360,
+    "cell_height": 62,
+    "top": 40,
+    "grid": false,
+    "compact": true
+  },
+  "upload_status": "completed",
+  "trial_glyphs": [
+    {
+      "trial_id": "PN-001",
+      "expected_label": "い",
+      "exemplar_id": "878b385e0ee2837ede745d9d3d6006a2039b7ad99ce40d689e436cffeb052acf",
+      "previously_accepted": false,
+      "source_book": "4年　前期中間.goodnotes",
+      "source_page": "F349B701-6B1F-5AD7-B308-F765D49A753B",
+      "original_paths": 2,
+      "original_points": 50
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "が",
+      "exemplar_id": "023330e5c5cf52665a8bd27fd5f90f09b0f3d7f28eb64bdb0a65fec5f684bf2c",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Re/For Japanese/自分なりのまとめ.goodnotes",
+      "source_page": "BD13CFD0-A7DD-4A48-A1DA-CD042C8B2D2C",
+      "original_paths": 5,
+      "original_points": 281
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "慣",
+      "exemplar_id": "manual-proof-e4a8f10efe89029794a68fab1aae9fd7f9b2e4079da457f8befcbdb47672ae54",
+      "previously_accepted": true,
+      "source_book": "1st Grade/Health.goodnotes",
+      "source_page": "decoded-page-index:14",
+      "original_paths": 11,
+      "original_points": 623
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "値",
+      "exemplar_id": "ac2dcd98a5f20b71d78557d52bfc8900be139bbc1fd2edf7c8edaa53a76e3750",
+      "previously_accepted": false,
+      "source_book": "Electric circuit.goodnotes",
+      "source_page": "54931F4F-87DF-4AAA-95CD-F0FB2375721D",
+      "original_paths": 9,
+      "original_points": 399
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "習",
+      "exemplar_id": "manual-proof-d6561bcd8b36c908aada5dae8df03ce27dd9f8eb97edf8c8027da152232ee5bc",
+      "previously_accepted": true,
+      "source_book": "1st Grade/Health.goodnotes",
+      "source_page": "decoded-page-index:14",
+      "original_paths": 10,
+      "original_points": 448
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "1",
+      "exemplar_id": "5a5620d041209446dbd662a7659b15806e1547790c99974fc8cab50ab9e9f129",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Math B.goodnotes",
+      "source_page": "0DEE39C2-ABBE-415B-A50B-E1FAA4A16537",
+      "original_paths": 1,
+      "original_points": 55
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "平",
+      "exemplar_id": "cfec8950295df6b1d2f89f99ef1e1cc275167c086b89dcf36e4512a94f04875e",
+      "previously_accepted": false,
+      "source_book": "Test.goodnotes",
+      "source_page": "072E3665-E789-5E19-8244-9A25BD691E63",
+      "original_paths": 5,
+      "original_points": 311
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "Σ",
+      "exemplar_id": "9c0f5e28a9ae61d0a588a13b0c1b5ffc155b9ab1ce3a3176b20333ce5c7247cb",
+      "previously_accepted": false,
+      "source_book": "過去のテスト/3年後期期末　テスト.goodnotes",
+      "source_page": "38861705-7A02-513F-B0A6-D2737E3954EB",
+      "original_paths": 2,
+      "original_points": 224
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "に",
+      "exemplar_id": "508d8a7909652fbd9e716bfe2dbde87a1d2f38d3e92ad6ae5f2ffcd8dd2d836e",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Re/For Japanese/自分なりのまとめ.goodnotes",
+      "source_page": "6E6F1AB6-2591-4027-8FD3-8E05D2C709E4",
+      "original_paths": 3,
+      "original_points": 129
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "分",
+      "exemplar_id": "9a3c627055d69f6031fdb94b0543fb300d569ec1e6c456e7759bbd5f13766c03",
+      "previously_accepted": false,
+      "source_book": "過去のテスト/テスト.goodnotes",
+      "source_page": "C6742473-444E-4FF8-BF0C-4CB1AB983069",
+      "original_paths": 4,
+      "original_points": 220
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "病",
+      "exemplar_id": "manual-proof-bd0fd6c08f85085fc9d6e0bd07baa5a6d5e659daa2ba00014a87956564dc9b24",
+      "previously_accepted": true,
+      "source_book": "1st Grade/Health.goodnotes",
+      "source_page": "decoded-page-index:14",
+      "original_paths": 9,
+      "original_points": 399
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "B",
+      "exemplar_id": "679d8031aaa47903e7dd7ec3ed06885e579fa5e08ef964b8fba960509d37103e",
+      "previously_accepted": false,
+      "source_book": "4年　前期中間.goodnotes",
+      "source_page": "7FFE63AC-32AA-4517-811C-AD2576E8A3BE",
+      "original_paths": 2,
+      "original_points": 236
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "0",
+      "exemplar_id": "a0e5d1e4c8969b24776fed162628dc98a2c8b7af73ef6b372e78482021aef669",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Re/For Chemistry/化学　前期期末　課題.goodnotes",
+      "source_page": "66D29688-9A38-5649-B394-DAD20EB6A427",
+      "original_paths": 1,
+      "original_points": 199
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "C",
+      "exemplar_id": "65f14bfdf53d89960a6c0353f8d9363f8e9754e08c51e74d6d389a339ca90788",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Re/For Chemistry/化学　提出用プリント (1).goodnotes",
+      "source_page": "B76F4898-3AFE-5788-A3EB-1A70A5D22534",
+      "original_paths": 1,
+      "original_points": 97
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "2",
+      "exemplar_id": "3c9ed03b4c57aa0dd546dea5e59df3d0a316d371ec2e48ad2ddc9599b62c4a4d",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Chemistry.goodnotes",
+      "source_page": "17B47BDE-C165-4797-9B1D-B76F4BFD9CCF",
+      "original_paths": 1,
+      "original_points": 157
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "数",
+      "exemplar_id": "08426d6ba12183a7a2480308d70538f1688171758784ef3a9207efb73a88842f",
+      "previously_accepted": false,
+      "source_book": "Test.goodnotes",
+      "source_page": "B013F81F-FB87-4FCC-B1FA-90FFC443CE42",
+      "original_paths": 13,
+      "original_points": 547
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "を",
+      "exemplar_id": "df8c3a87a4e0ab6d27bc71f592c5bb71debeb5e254d17c115e3ea2e46339bd7a",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Chemistry.goodnotes",
+      "source_page": "8BF165D8-DD86-499A-90C3-8586E0877F04",
+      "original_paths": 3,
+      "original_points": 159
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "う",
+      "exemplar_id": "1fd51e57c8895b0b0532825ecbeeb9b16f86497217e3b443dcdeb800d9180cb9",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Health.goodnotes",
+      "source_page": "5E829686-2BBF-4402-831F-A2108373CDBA",
+      "original_paths": 2,
+      "original_points": 176
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "活",
+      "exemplar_id": "manual-proof-84cbd30181dc14f750ef418d62e3618b2357b26e4197f9806c153c2d700842b1",
+      "previously_accepted": true,
+      "source_book": "1st Grade/Health.goodnotes",
+      "source_page": "decoded-page-index:14",
+      "original_paths": 9,
+      "original_points": 327
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "均",
+      "exemplar_id": "b86cd12f6f6745bd766f99b844b3d2b4e8be517d74f737a7d3f2b504ec001106",
+      "previously_accepted": false,
+      "source_book": "Electric circuit.goodnotes",
+      "source_page": "54931F4F-87DF-4AAA-95CD-F0FB2375721D",
+      "original_paths": 12,
+      "original_points": 402
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "A",
+      "exemplar_id": "cea51878175b9422fb45b4be648496257bdb1ba84d2393fe8705b05e4947486b",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Re/For Math/2022 数A.goodnotes",
+      "source_page": "B046AE4E-2AE8-51D6-B7E7-440371166680",
+      "original_paths": 3,
+      "original_points": 129
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "あ",
+      "exemplar_id": "a885abcba134353b288210657c990a9d5efd2a3b91c69e793376a196585cdc2c",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Re/For Japanese/自分なりのまとめ.goodnotes",
+      "source_page": "4619924B-54E1-4DED-B98B-827250357663",
+      "original_paths": 3,
+      "original_points": 423
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "の",
+      "exemplar_id": "61a56b731b62ea71c734b8ad890d46ef09e1051fc644b9e47d7db8bb9c741d89",
+      "previously_accepted": false,
+      "source_book": "1st Grade/Chemistry.goodnotes",
+      "source_page": "3632D8A8-AC02-4309-8A3C-CCB2EBAF331A",
+      "original_paths": 1,
+      "original_points": 211
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "生",
+      "exemplar_id": "manual-proof-c5921e8441bcf40527f709c20a51c241c8e28bcbbe4681b10d135d08e231fba5",
+      "previously_accepted": true,
+      "source_book": "1st Grade/Health.goodnotes",
+      "source_page": "decoded-page-index:14",
+      "original_paths": 5,
+      "original_points": 227
+    }
+  ],
+  "protocol": "The image contains handwritten ink and trial IDs only. Expected labels, source names and approval states are local-only.",
+  "job_state": "datalab/probe-compact.job.json"
+}

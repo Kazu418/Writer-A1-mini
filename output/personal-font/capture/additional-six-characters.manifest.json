@@ -1,0 +1,110 @@
+{
+  "format": "plotnote-capture-sheet-v1",
+  "sheet_id": "PN-CAPTURE-b8241059532c",
+  "file": "additional-six-characters.pdf",
+  "pdf_sha256": "747665a16c045b99e5ac89346fe886f6f5e2345f13255dbbd93c142d6c8e6b61",
+  "page_pt": [
+    595.275590551,
+    841.88976378
+  ],
+  "cells": [
+    {
+      "cell_id": "GN-01",
+      "label": "授",
+      "ink_rect_pt": [
+        45.0,
+        174.0,
+        270.0,
+        320.0
+      ],
+      "ink_rect_normalized": [
+        0.07559523809526109,
+        0.20667789001110737,
+        0.4535714285715665,
+        0.3800972689859446
+      ]
+    },
+    {
+      "cell_id": "GN-02",
+      "label": "掛",
+      "ink_rect_pt": [
+        312.0,
+        174.0,
+        537.0,
+        320.0
+      ],
+      "ink_rect_normalized": [
+        0.5241269841271435,
+        0.20667789001110737,
+        0.902103174603449,
+        0.3800972689859446
+      ]
+    },
+    {
+      "cell_id": "GN-03",
+      "label": "断",
+      "ink_rect_pt": [
+        45.0,
+        392.0,
+        270.0,
+        538.0
+      ],
+      "ink_rect_normalized": [
+        0.07559523809526109,
+        0.46561915450778213,
+        0.4535714285715665,
+        0.6390385334826194
+      ]
+    },
+    {
+      "cell_id": "GN-04",
+      "label": "替",
+      "ink_rect_pt": [
+        312.0,
+        392.0,
+        537.0,
+        538.0
+      ],
+      "ink_rect_normalized": [
+        0.5241269841271435,
+        0.46561915450778213,
+        0.902103174603449,
+        0.6390385334826194
+      ]
+    },
+    {
+      "cell_id": "GN-05",
+      "label": "険",
+      "ink_rect_pt": [
+        45.0,
+        610.0,
+        270.0,
+        756.0
+      ],
+      "ink_rect_normalized": [
+        0.07559523809526109,
+        0.7245604190044569,
+        0.4535714285715665,
+        0.8979797979792941
+      ]
+    },
+    {
+      "cell_id": "GN-06",
+      "label": "頻",
+      "ink_rect_pt": [
+        312.0,
+        610.0,
+        537.0,
+        756.0
+      ],
+      "ink_rect_normalized": [
+        0.5241269841271435,
+        0.7245604190044569,
+        0.902103174603449,
+        0.8979797979792941
+      ]
+    }
+  ],
+  "ink_source": "Native Goodnotes pen strokes only; printed prompts are excluded",
+  "label_status": "known cell hypotheses; visual verification required before acceptance"
+}

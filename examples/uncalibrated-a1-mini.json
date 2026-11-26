@@ -1,0 +1,22 @@
+{
+  "printer": "a1-mini",
+  "calibrated": false,
+  "pen_offset_x": 0.0,
+  "pen_offset_y": 0.0,
+  "paper_x": 10.0,
+  "paper_y": 10.0,
+  "paper_width": 148.0,
+  "paper_height": 148.0,
+  "nozzle_min_x": 5.0,
+  "nozzle_max_x": 175.0,
+  "nozzle_min_y": 5.0,
+  "nozzle_max_y": 175.0,
+  "draw_z": 5.0,
+  "lift_z": 7.0,
+  "safe_z": 10.0,
+  "draw_feed": 1200.0,
+  "travel_feed": 3000.0,
+  "z_feed": 300.0,
+  "pen_width": 0.3,
+  "calibration_notes": ""
+}

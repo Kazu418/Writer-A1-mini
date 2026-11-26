@@ -1,0 +1,13 @@
+{
+  "files": 866,
+  "parts": 39,
+  "unique_blocks": 1288,
+  "all_part_hashes_verified": true,
+  "all_block_hashes_verified": true,
+  "totals": {
+    "archive_bytes": 1553974438,
+    "files": 866,
+    "logical_bytes": 3508081161,
+    "unique_uncompressed_bytes": 2374959610
+  }
+}

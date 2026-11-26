@@ -1,0 +1,31 @@
+{
+  "state": {
+    "gcode_state": "FAILED",
+    "print_error": 50348044,
+    "home_flag": 847070615,
+    "nozzle_target_temper": 0,
+    "bed_target_temper": 0
+  },
+  "acks": [
+    {
+      "sequence_id": "1795619638",
+      "command": "pause",
+      "reason": "success",
+      "result": "success"
+    },
+    {
+      "sequence_id": "1795619346",
+      "command": "stop",
+      "reason": "success",
+      "result": "success"
+    },
+    {
+      "sequence_id": "1795619640",
+      "command": "gcode_line",
+      "param": "G90\nG1 Z10 F300\nM400\n",
+      "reason": "success",
+      "result": "success"
+    }
+  ],
+  "utc": "1795619638"
+}

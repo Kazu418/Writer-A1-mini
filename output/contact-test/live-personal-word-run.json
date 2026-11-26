@@ -1,0 +1,111 @@
+{
+  "authorized_action": "one user-authorized contact-writing test",
+  "host": "192.168.2.112",
+  "serial": "0309FA590900303",
+  "certificate_sha256": "527af761368117e670669b2b89d19d20fb70a272a34cb957924db954c2301d5e",
+  "local_package_sha256": "9f42cf282349801fc50f3ab948ab29074313cdcb7bb9b0152c9136d4613ef7e7",
+  "validation": {
+    "valid": true,
+    "moves": 2114,
+    "strokes": 44,
+    "source_geometry_checked": true
+  },
+  "start_sent": true,
+  "events": [
+    {
+      "utc": "2026-11-25T08:56:29.859313+00:00",
+      "gcode_state": "FINISH",
+      "gcode_file": "",
+      "mc_percent": 0,
+      "stg_cur": 255,
+      "nozzle_temper": 22.03125,
+      "nozzle_target_temper": 0,
+      "bed_temper": 21.5625,
+      "bed_target_temper": 0,
+      "print_error": 0
+    },
+    {
+      "utc": "2026-11-25T08:56:32.131592+00:00",
+      "gcode_state": "PREPARE",
+      "gcode_file": "plotnote_write_20261125_085627.gcode.3mf",
+      "mc_percent": 0,
+      "stg_cur": 255,
+      "nozzle_temper": 22.03125,
+      "nozzle_target_temper": 0,
+      "bed_temper": 21.53125,
+      "bed_target_temper": 0,
+      "print_error": 0
+    },
+    {
+      "utc": "2026-11-25T08:56:36.209068+00:00",
+      "gcode_state": "RUNNING",
+      "gcode_file": "plotnote_write_20261125_085627.gcode.3mf",
+      "mc_percent": 0,
+      "stg_cur": 255,
+      "nozzle_temper": 23.34375,
+      "nozzle_target_temper": 0,
+      "bed_temper": 21.59375,
+      "bed_target_temper": 0,
+      "print_error": 0
+    },
+    {
+      "utc": "2026-11-25T08:56:59.047982+00:00",
+      "gcode_state": "FINISH",
+      "gcode_file": "",
+      "mc_percent": 0,
+      "stg_cur": 255,
+      "nozzle_temper": 32.5625,
+      "nozzle_target_temper": 0,
+      "bed_temper": 21.625,
+      "bed_target_temper": 0,
+      "print_error": 0
+    }
+  ],
+  "before": {
+    "gcode_state": "FINISH",
+    "print_error": 0,
+    "home_flag": 847070608,
+    "nozzle_temper": 22.03125,
+    "nozzle_target_temper": 0,
+    "bed_temper": 21.5625,
+    "bed_target_temper": 0
+  },
+  "remote_file": "plotnote_write_20261125_085627.gcode.3mf",
+  "transfer_phase": "readback_verification",
+  "upload_verified": true,
+  "request": {
+    "print": {
+      "sequence_id": "1795596988",
+      "command": "project_file",
+      "param": "Metadata/plate_1.gcode",
+      "url": "ftp:///plotnote_write_20261125_085627.gcode.3mf",
+      "subtask_name": "PlotNote PERSONAL 5 GLYPHS",
+      "md5": "59b5807fcd811a41ec714e4e19dd5c96",
+      "project_id": "0",
+      "profile_id": "0",
+      "task_id": "0",
+      "subtask_id": "0",
+      "bed_type": "auto",
+      "timelapse": false,
+      "bed_leveling": false,
+      "flow_cali": false,
+      "vibration_cali": false,
+      "layer_inspect": false,
+      "use_ams": false,
+      "ams_mapping": []
+    }
+  },
+  "start_time_utc": "2026-11-25T08:56:28.831994+00:00",
+  "transport_write_confirmed": true,
+  "outcome": "completed",
+  "after": {
+    "gcode_state": "FINISH",
+    "mc_percent": 0,
+    "print_error": 0,
+    "hms": [],
+    "nozzle_temper": 32.5625,
+    "nozzle_target_temper": 0,
+    "bed_temper": 21.625,
+    "bed_target_temper": 0
+  }
+}

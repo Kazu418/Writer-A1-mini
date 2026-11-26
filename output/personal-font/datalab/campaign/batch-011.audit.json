@@ -1,0 +1,5003 @@
+{
+  "rows": [
+    {
+      "trial_id": "PN-001",
+      "expected_label": "《",
+      "exemplar_id": "ac615eef3a34d8d66c9bcdd55fd00b10aa4d2e1f9b2f581b92a3213d5f7f87fe",
+      "geometry_sha256": "350744fae7b5d1c17059f69162edd4ee0850f36823aa10e7f4733bc100fe4c75",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "》",
+      "exemplar_id": "f6920178d6c9e5c98cab57b25f6fed73b576081231b0006a16e1a9cce7afda5f",
+      "geometry_sha256": "4074166f42cd663302457df6a619036d66cc780f8c0f2b4b27fdec98fafa994c",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "》",
+      "exemplar_id": "f953d6e9a28af3d37c999c5f1d6c07032bb26d574a68ed5c9daf14d87adc41af",
+      "geometry_sha256": "77e9208ef0179f4407693198aa304d178ef1ea8ce6342a72a3010966fa1b1b83",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "「",
+      "exemplar_id": "536654484ed9a770f9004948a76963cfe1e1ffd2c71034fbbd058b5310428a13",
+      "geometry_sha256": "224d26d3f017ccea5209f7fe211baee666c9bbe06ffd41faa00cb09f2559319c",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "「",
+      "exemplar_id": "5ae08ab3a36231c8acd61fd7c1f8d6609fe9f31ac0cbae9f120846d521390d31",
+      "geometry_sha256": "875368249046433f3b79aa782a0540d3d1d4ca801c923f0dde29be2665631b24",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "「",
+      "exemplar_id": "163baf70f02be156b632c0e09219c81d322e4cec948ca1f4eba9b4a362d016d7",
+      "geometry_sha256": "5464fce4da1967d26add236a4d35e7fd5a0243b4b29dc96b7df75c03452a7b4e",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "「",
+      "exemplar_id": "779f4d51aa22d01a630b406cc6a0cd00a4b56decf5ab9a401ff6bd6d814dd501",
+      "geometry_sha256": "12a2f095b36cdfefd59cc14d1471f4eb74b96af3fcaf0bc8c9576caa27b780c5",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "「",
+      "exemplar_id": "e3c7c197681aec33c5a22b978b59578a66ca3d00eb3cbc97af618f074054bbef",
+      "geometry_sha256": "75957036586f722c1d016298dd04fff9295d9b75ac4ca8d8a5dda01858f725cb",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "」",
+      "exemplar_id": "2f0872bd4f77e246c81e240a70f7e8c4b7329404cc398ae71a38ac66050f4208",
+      "geometry_sha256": "84ec35edba55485d8cbf6d01944de7f179fc08d9701618d9046745f6076d84c6",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "」",
+      "exemplar_id": "92a76aaef14fbb3c3f864e25b5aa5fb6aa5b86e382afeeec007fb5fcbffdff3d",
+      "geometry_sha256": "8b0aaecab4c59da5d781b103532f5da5345d3d4f9b8b14704768cdfe564e9d4d",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "」",
+      "exemplar_id": "8339f2e3b68438aefd164c5f7618ce9b81c5452f8d034518525f907ca1eea9fe",
+      "geometry_sha256": "f6c1297e407715c61d2cf1ae053d3e2b1ec6e68fc4119ff501de3938792e4925",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "」",
+      "exemplar_id": "dc119e2fc578f2ae9b51690cafdb220e6b8c177a133ec95c61be8087c82abd45",
+      "geometry_sha256": "71c06812e3557ff9561d70802ea184c484c2310c196da6ba30323f30ba33daf4",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "」",
+      "exemplar_id": "5b21e1f562e7d2906ebd460e0080f8cc737d08a40dff0942b808508135ca914f",
+      "geometry_sha256": "08648f9a2dea240e55073eb75969057725ff8731619cdf5cebb3fd45345c04b4",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "〜",
+      "exemplar_id": "9dc0235345f56b05fafadb053c876a6bfd00313afe6c279d117f500fc82a2a74",
+      "geometry_sha256": "cafa4d9fc44f729b881825578103cfd4f2c2a2e2b0d1c1323e784f464a268a3e",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "〜",
+      "exemplar_id": "a9262e3d99545f1da58370892fd5f7acf4080592d477604af780c0a79c3bbbd5",
+      "geometry_sha256": "5bcb617d982c662cc17da2191918774400af812349abb0a277775e03e4bcc3b0",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ぁ",
+      "exemplar_id": "2916ad68444a0a5265580c9f76061784a77ddb8431051d61e137bb1908ce74a8",
+      "geometry_sha256": "c21fcb19ba166bc99e8e976685904cab22f22a0ef9e87a8f1cf399f95b67f3e2",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "ぁ",
+      "exemplar_id": "bd9b7134db737fb87d78fb270f62dc4bfb8cb4b0004c13ccc86529227218c9be",
+      "geometry_sha256": "932666e6094c11e90d6c6391feb555a61903df69b1404b814d0eb626a07a1b27",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "あ",
+      "exemplar_id": "bf9ca397c617343bdf7cb46349eaf2277499d71fceb5cc09565639dad16d31cb",
+      "geometry_sha256": "8ac9c1c1f292c0bd978e730ee2ac587f7c94773dc53e99af26ce48ab4bf49780",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "あ",
+      "exemplar_id": "083534bcd40edf9f03e75e5b4aed84b3b2c4c8cc12ed55d53e3f30881c970971",
+      "geometry_sha256": "30a934de152d83104939e5ede05d6ce87a00f2627f7533bd37b4bbd2977fbcac",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "あ",
+      "exemplar_id": "e9d0162418ab1bb9dce65a102b2474504e5fed70e4bcc6025da756be23917c10",
+      "geometry_sha256": "62ff7cdf088223286e1f0346923c4f2729751c1257b503a8d52c9512f2eae7dc",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "ぃ",
+      "exemplar_id": "36acd4e0b9afd917c63a463250096085d81202c040334899973f2034460196f3",
+      "geometry_sha256": "3935292f2ee132435471746ba471d89d93b71a72332e2317e67c4e00b4536caf",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "L-,[A]1533",
+      "all_readings": [
+        "L-,[A]1533"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "ぃ",
+      "exemplar_id": "e030d84f659789952d4aec2fbb15cff9e1636fd1e0ac31ecfd803aff70fe0080",
+      "geometry_sha256": "4f8716e1f76135cdf2ce427f21114f3d55864a5beb4493f272900c6f10976439",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "い",
+      "exemplar_id": "2458080b7401053449c7abc04577ac688365ba3779ad732197bdef548aae22a3",
+      "geometry_sha256": "aca99f3c0d858e877be1cbd2d68b5f0860b3cc87c87b5907acde6e17dbce5acf",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "い",
+      "exemplar_id": "759f2bcee502ff50353ab5712e0b19fb687b18ea19b7dbdecd61995b4f762e07",
+      "geometry_sha256": "19b34902b0a16340d71641286e6859320305935939c0cb676d64ba8d33d75e43",
+      "previously_accepted": false,
+      "page_index": 0,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "い",
+      "exemplar_id": "4aab1758a4ce76e16d6d1ca02b200874453ae0be0ef0ed6d7304be2fd6a7a51d",
+      "geometry_sha256": "72d1d256f48e461a3a7790db6662c03e86c0b4da15a3d688d2b1ab7a1f831bf9",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "11",
+      "all_readings": [
+        "11"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "い",
+      "exemplar_id": "347b2bff37f5063b3a72c167a51eebf7057534d423b1ec1210a74ac92e6319af",
+      "geometry_sha256": "8762c9658cba627a8426239dc9eb693c58d018df4b3091c38a9aff30ba609e18",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "11",
+      "all_readings": [
+        "11"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "ぅ",
+      "exemplar_id": "3d1143b7c2d02ed240ff14ab8b9f128f741d9a212da4b26bbe56886f0690d4b5",
+      "geometry_sha256": "7ecf518dcadfaa4d150564dab9970c9241df8d6ec84e41e00d1357a76956c9a9",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "1",
+      "all_readings": [
+        "1"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "ぅ",
+      "exemplar_id": "c59200544795cce25a6b40aae50aef481171c571b3a865da4bd9c84d13e9a40d",
+      "geometry_sha256": "5065d50a176921613a3db6039687d32225604aaba9b038b3d61bb325e36e1752",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "3",
+      "all_readings": [
+        "3"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "う",
+      "exemplar_id": "63ccd390b03520bab264ddaf412ff8e6afe00636d538696f066b192cabccda82",
+      "geometry_sha256": "8606ae226889652755cd85974294b61938cc5c3f24d18a218076dbb0b5e8580e",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "2",
+      "all_readings": [
+        "2"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "う",
+      "exemplar_id": "cff3299fc89b44f990569725eda0b84b381735fb1eb17f0880b120c8acfc3087",
+      "geometry_sha256": "b18880d07e86a8248ccf964c5178c605566a103d25ca01a5c7796684a71750dd",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "3",
+      "all_readings": [
+        "3"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "う",
+      "exemplar_id": "321ed457e0b450973c93c18a4f482473a12ff560430da526ae48acbb2a74c29c",
+      "geometry_sha256": "7ee47c7012b4950862ea52368ccf84ead54c1ec7cfb9435c8313ca54295b3ff9",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "3",
+      "all_readings": [
+        "3"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "う",
+      "exemplar_id": "3345283de7b27dddde44b75d9148d1583357f65a00373ba709d09b15a962cf7b",
+      "geometry_sha256": "270eaee489d540204e63f14e94b6d7355d5def2a9f575db340fcd59ac769a5b9",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "3",
+      "all_readings": [
+        "3"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "う",
+      "exemplar_id": "0dcd27acd2d3f06b678215a974957240afbab8b32981ab6b44894d0423759d11",
+      "geometry_sha256": "0334d7491292cdcb51675a1620f1612269463c6a1108748460fbf5f848eb8cdd",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "原",
+      "all_readings": [
+        "原"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "ぇ",
+      "exemplar_id": "ae84eedf822feed148f1b6e8a72100e0ae697d4d5415b8bd0a06954d7b98aca8",
+      "geometry_sha256": "bbdea7330f21e24ba1c5a6c59f5bd2cae8fe4173bf7c6cd303fe16d380668222",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "2",
+      "all_readings": [
+        "2"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "ぇ",
+      "exemplar_id": "a23c6c0a856ebed7b81e29126415ce06b86bfc6a20bfed9dd87a6006bb8012ad",
+      "geometry_sha256": "83c231ded7fe6e3f36b3192076b95f6288b0b4b1d5331e2f0b4afb7bd6ef9a38",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "c",
+      "all_readings": [
+        "c"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "え",
+      "exemplar_id": "9aca25d665b3eab0811ca41b98e8ce7e13788457e07e30e9d1c427edd612791f",
+      "geometry_sha256": "3ffa0d8a28608062f63fffe3544f33f3df0bb366a35090d8965eae420da4d5f4",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "无",
+      "all_readings": [
+        "无"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "え",
+      "exemplar_id": "1c3732560351f183ca622c28523def7f4fa2e426faa40aa15e265cb9f6541b1e",
+      "geometry_sha256": "3a8682ad8db2d9cc48ef0dab1cf4aef6a3ad11010f3d71b50015e2011f1f6cf2",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "-",
+      "all_readings": [
+        "-"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "え",
+      "exemplar_id": "e5ab107c8ebe3c749af54f448dee6839e0e03ba1c2b31bbdfbf9cf41a893521d",
+      "geometry_sha256": "e4ba8c40ba05d5b7294b5edb4e741911683d276b036bace40ba5e6926ad5489b",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "人",
+      "all_readings": [
+        "人"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "え",
+      "exemplar_id": "4b04b8130dd76bea6c8fd2d46bfb7936b344f3d04510711d6ab3d9fbf23fd2a3",
+      "geometry_sha256": "60e9fda3256ee62157e671756077944b56feb9237fb16f7296532b28216d539b",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "[illegible]",
+      "all_readings": [
+        "[illegible]"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ぉ",
+      "exemplar_id": "0cfd4d2bf8c7b599c498204183ff26bea1f56bfb885d9f5b8e2fea837f35e1a2",
+      "geometry_sha256": "457a1a823fc4f64b95207f77b5fe24afd0b1a5858129c6e96911dd4d979b395b",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "お",
+      "all_readings": [
+        "お"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "ぉ",
+      "exemplar_id": "82f5aabaf1f7443f5660aed2228ee20d8b163ad901ace3cdcd3294799aab78d1",
+      "geometry_sha256": "321334d42c18e493a1f1d167622af3c8ceefe6abb9eb5d235c1ce194b647f655",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "v/r",
+      "all_readings": [
+        "v/r"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "お",
+      "exemplar_id": "025dcae15dd5c0c6f709b6e047996387b5784ab64c31825d1d68cb0946ee6986",
+      "geometry_sha256": "83703cf8f92e4cbb555070c61c6eeea5ab2c3b4066de0e93fbb4c9cd27319c9c",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "お",
+      "all_readings": [
+        "お"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "お",
+      "exemplar_id": "1f7ef8becfeef1f7abc82b757a10f313b76b65e5b5ee540bd884861030690071",
+      "geometry_sha256": "c58c0cc1b588a333917de6bbc756f3867420a7b723165755ae26a7e42241f2d9",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "[illegible]",
+      "all_readings": [
+        "[illegible]"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "か",
+      "exemplar_id": "415860b37380f7e37bc8aaa7fac88addba7a117c3cf414c0e3c5e5b42d731283",
+      "geometry_sha256": "ce483b1e1e746bf8988413098106e90aa7b38c1bd3323298b5e316031d7ec7fa",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "か",
+      "all_readings": [
+        "か"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "か",
+      "exemplar_id": "d69f7531435b391193b873e3b4f286d3a8ea4c12b5aea559d6af11a2193b13fd",
+      "geometry_sha256": "6bf464d90b579c800adb286bcda9953baec681a464da9f700b67647228d079cc",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "[illegible]",
+      "all_readings": [
+        "[illegible]"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "か",
+      "exemplar_id": "6a85b1a221cd045a4d9737e9994a35aa1240938d4595184241b60d0c57c6dedc",
+      "geometry_sha256": "d32bad84f461ecaf9aa1dd0077aea4c4fa45d7331a4b23c5bf25132e272c9fea",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "か",
+      "all_readings": [
+        "か"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "か",
+      "exemplar_id": "d4e9e1779e0ca16a168096b807f3012a6596ef80b45f7c17c9133095a3807d34",
+      "geometry_sha256": "6993d35d70139450a3e8a637d68eef9ae403258084f1cb2c24018dec6140bfff",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "[illegible]",
+      "all_readings": [
+        "[illegible]"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "か",
+      "exemplar_id": "84b4ca872c30db2545f594f06ec71d2577634eaa538466f94f995881bf9a114b",
+      "geometry_sha256": "3c853121c701605ad69003564f001ef94947b20459c1a0ca6c8b465c38dce102",
+      "previously_accepted": false,
+      "page_index": 1,
+      "reading": "数",
+      "all_readings": [
+        "数"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "が",
+      "exemplar_id": "f20fa76100e96ec4790e6b04c0b12ff12df68826660a627b951c7a1c03ffd6f0",
+      "geometry_sha256": "d63bbc7a48666151b4569d2cf6a710b7ea10e6d60958f1b61fd33b90ecf8e231",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "が",
+      "exemplar_id": "f686e46df39e94ee77f78130398659514a7bccf518f3fc2236ef2b29a28bae8e",
+      "geometry_sha256": "de389beefd4840be708d46910f04f97b2f169e1554fc56d59b2221582d37ad50",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "が",
+      "exemplar_id": "fe4d384f6eb6a876b28805331e3baf63a8af00f921b530b24e6ee73fb6091abf",
+      "geometry_sha256": "5012363a02c8b5b5c6d73fe742e7b8442734b811bcd2135d04724482443e4246",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "が",
+      "exemplar_id": "36b23192c3a76c736eecbd5a0cf91e15c2c47804c1bca3852c6d78929ec40848",
+      "geometry_sha256": "85744eb72048782892ff5d25913d54ddee73166c2903984853e5282e28659b14",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "き",
+      "exemplar_id": "67edeecf309b833fd87fbabd1780a4f4f7fa186af7198f297c85c86891524c3d",
+      "geometry_sha256": "873a078ddd7b76b05714a12ae001c9938c266312e62179c912abda180bdcbbc4",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "き",
+      "exemplar_id": "1100bba6b43b7171d6d13727a8bf08f7ce15272588e45dbf24b6c0c3f2f51ce2",
+      "geometry_sha256": "9767961e35f5896261f9b27e15aeb4acd31ddddcb74755ca77e70deb6f3010d6",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "き",
+      "exemplar_id": "8632d090bf4d7893a5de08d1ece2178747860f0d8b0731d76bb66970e0edd0c6",
+      "geometry_sha256": "9e687978292c2d1f63727bd16ce69db5324be49c776f7ad5cb215f879959ffe0",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "き",
+      "exemplar_id": "66e1aed6634eacd4744d26edc8a0545705e38b0974beba1f64d358dd48c92965",
+      "geometry_sha256": "50e4ae1d6083ed1f21f8090e8e4abb375a39fcc502fb7243bbf4db3d29b2bfda",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "ぎ",
+      "exemplar_id": "56b6137cd9bee92304ec82cfe9994b0895437fad69afd6d1752388d8bac02bb7",
+      "geometry_sha256": "b6bd1362244330cf39ded9ad6f34f09e1472fa97579c6851b2bac1502b491477",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "ぎ",
+      "exemplar_id": "87694030320548f504b70531a77440c8a81aa6e2d9b88e315aa7b7a406e3cd70",
+      "geometry_sha256": "439de54f0c4eae8d006ce161e2a12ed02c1ce2bf0b79e8ffb9aa83d217abf580",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "く",
+      "exemplar_id": "6749a545e161fd99b62490e7023448ed2ba71540bdd9122fe028d02913f003c1",
+      "geometry_sha256": "e645d9caecac7e9ff497a8807c9cf549205b6e9fb182246e33b95d27ed427edb",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "く",
+      "exemplar_id": "837b72373dcb11a5c03cf693453cf3046cccd50a3920a314134340e6f48bae33",
+      "geometry_sha256": "93620375393afb0ee41e8c904b03c4ce8f20131628a508b6c99416c34f2a5e87",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "く",
+      "exemplar_id": "1da96a5da7324de612f1ae8162b05f6095f83a02eebc917ff4ba3ba52abea39c",
+      "geometry_sha256": "d9bc5b32a34734752a05dcc2528fcac6f82dbd7b3142e4fcd05c5323e66f784a",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "く",
+      "exemplar_id": "c5ce936c98680ad8de55ec5ec111a312c7931de2080477aa3407605561eb1658",
+      "geometry_sha256": "3d231468aeb06c0651ee08cfe3f639c7382608645e1adafc98526c04511e9200",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "く",
+      "exemplar_id": "e2a0991d670178cc6324c6b71754fedb5ffb75bc048904278cbbf2a0ba5a8d0f",
+      "geometry_sha256": "7e7e9a45b98b16cd92d1aabd84819606e4b149425e1c0fec4b9bf47611672729",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ぐ",
+      "exemplar_id": "7aad3c348258a3b0a7cf6cfd18456b9d2145bf1bfedccd5f871dfa699e2c131f",
+      "geometry_sha256": "7e67a3c6c61f67f815f5689b486108cea9fb99fce32f13047e4dc7a13939c218",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "e",
+      "all_readings": [
+        "e"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "ぐ",
+      "exemplar_id": "200ae5e27b6e77fbb6e58e3d65054f3df745c4dfca9702a3d04d08c0f1f06cb5",
+      "geometry_sha256": "a9fefd6533eb43f982acd419b9c086399ff1a489d6878cc49743b814a35da61e",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "け",
+      "exemplar_id": "e4f70163cc8b0d89764eaf765e7ff016701659f1f0e43a1155839e0c91be8879",
+      "geometry_sha256": "36349da45577d2b48317fb1f57d1c7666d71df1781da4687f36e2fdc755fc42f",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "け",
+      "exemplar_id": "dde024cfe55a3381892b0db58db697a0161727bd76f60f65d467a8adcc709e64",
+      "geometry_sha256": "9ba63b7ce6d9e538365ac5d53804401c4e540280677c5286e984a65e288c16b4",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "け",
+      "exemplar_id": "04fed098edd227dcac4a63d85651f08acd5ab7533c80d1efd204b90d3533a47c",
+      "geometry_sha256": "43b486fbc63a388ccd16a6737db4bd1e279fbc7a6e279a5a57c479f7ee76ee1a",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "け",
+      "exemplar_id": "5504d9d44c38f24802615446c23966ff1e1760824d053a481ed9d0d53b3fbfac",
+      "geometry_sha256": "d5e40613f2c77387c59ac1999bf9f28082831b503885142ccbdbe2b243b65aa2",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "H:",
+      "all_readings": [
+        "H:"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "け",
+      "exemplar_id": "e799a506ce7246846133e70def2084d2aa51b649ba6a58863cccfe20c2ac4047",
+      "geometry_sha256": "f3c869ed9d1d404e51dded3ee4cd5dcfd2a51a66c540df5def097a392eff814f",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "H+",
+      "all_readings": [
+        "H+"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "げ",
+      "exemplar_id": "75c8359ea435d1abd40db048b497036d08eb9b0f2a6a4d6917fc5eb6b1be992d",
+      "geometry_sha256": "028ec289760ddeccc0ad73d2505e70e72a0593d4427445adc02c28d5d3eac97b",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "H",
+      "all_readings": [
+        "H"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "こ",
+      "exemplar_id": "35cd21d8029139a9af28e2a155f4d94f7bad77410568a359d5191e2b604a4bc0",
+      "geometry_sha256": "d5efd9a679a808d008871b23cf55dd58bfb99b4b1117c0f55796db0632b74bfe",
+      "previously_accepted": false,
+      "page_index": 2,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "こ",
+      "exemplar_id": "c698af617782fd237344b574b042bdd6a038522d3b13db1e0a9d5c807da9b616",
+      "geometry_sha256": "a5053c61c9dd9466b87262707c5c6517dfecd49a00aae1b3a9f192f4ab0f5ae2",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "ご",
+      "exemplar_id": "299e30df225028fd8ad9bc2456f3d3f6273bfe3d7e17fa61ac766339a08d53b5",
+      "geometry_sha256": "84ddcddb38f7e2cc2cad8f6e60a98129dfb3acfb6aa060ca6ef1165dcc2ff9f8",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "-cc",
+      "all_readings": [
+        "-cc"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "ご",
+      "exemplar_id": "6b3ff889edecf6b370c89fc588c0328f0d6868a38412f8902a1653feb51b3836",
+      "geometry_sha256": "5e166f0acda752c7a118d4a8cf0c1c33b633a6cc614e71aab37349600d6d77f2",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "ご",
+      "exemplar_id": "37d5cada2174fa3bc263411153164e34c68833ef44cca31d6dc0c74ded01d68e",
+      "geometry_sha256": "b27c09d59a2362c82e558c0a88ea01bd48973e9c86df0a52eb679301d102956f",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "xf",
+      "all_readings": [
+        "xf"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "ご",
+      "exemplar_id": "b434b620e0084d3d86089a47fd2d0896f4f2726e26da65118003aaa1f63033bf",
+      "geometry_sha256": "b34635bff5ac6104ebdce85a57ee434401ea5e775a8c53041438d892e948d498",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": ")==1",
+      "all_readings": [
+        ")==1"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "さ",
+      "exemplar_id": "36861eaafd13e8cf5d3b84931d347295e9e925373fcbac4dc1ae50ef2d506690",
+      "geometry_sha256": "032285116eed5f9c55b896b5e6838cb1f49658e7e2f2529c815e0779e446ae03",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "さ",
+      "exemplar_id": "c561de07d860530f1517ecba16b2e24ee7ced95ded5b318ad50d3e155abe02aa",
+      "geometry_sha256": "42335b66d622af7d5d5b983b653ad109ad1fdf1c50a4ab5cc34d3a75857978ff",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "さ",
+      "exemplar_id": "6cff65c7535114a49527f7aac3c8150c32e5d35c114ab9782f8b29e2130547c4",
+      "geometry_sha256": "a57e812d6f3e32f17cbe696f97f28b539d65e70058d3b6fa04be04da6d20ddde",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "+,",
+      "all_readings": [
+        "+,"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "さ",
+      "exemplar_id": "b61859c32c26fc8c186efdafc8768035daae691e7f1804ff45ab7aa2f0254f15",
+      "geometry_sha256": "494e3321d36d685a991fd32932ac58ba67c99a65ed3c92f24fddcbffbc289192",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "さ",
+      "exemplar_id": "f858b2ef1e8e5397c70b1eabfe4954cbc2e9212504bfe3fb59b29ae2cdeff73f",
+      "geometry_sha256": "efe7ada51bf5e63cb6e4cd78ef08d07ad0feddd100184f6ecc6ed330c21560d3",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "ざ",
+      "exemplar_id": "1ded0fb0d234afe27835da2bd4f211e806f5f2fdf17d99a7a58b4809b2a2047f:split:2",
+      "geometry_sha256": "6ab5a0f6191b7c704c7bf8774af7e71fb43397889136557d9252f2901378ea02",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "ざ",
+      "exemplar_id": "13d1c1ae37dc49e5490b99aa417a340d5c772966a304ec43f02beb1f0fff4866:split:1",
+      "geometry_sha256": "05d2d34c51f2df380ffb5f099cf7272e965308fc14b771c4260f1c780354b4d6",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "ざ",
+      "exemplar_id": "449d7aa81b0065a18ddbb03ed3d139083776641e5df5d5dfb2e5792fc2297bff:split:3",
+      "geometry_sha256": "d87995c4f0f0d162479a5ad2b38fa8b33605318326769293d38e93937c2a38ab",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "し",
+      "exemplar_id": "5a540ebe1ed09a05cc33501db48aaf6143bab64558ad7f4d2ac12bc78f4874be",
+      "geometry_sha256": "2fc7a222c2a5b6d4ce99d35084b169668a8113fdc73a152070f94a86093659c5",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "し",
+      "exemplar_id": "d060479b6e881ce6e4ba80b56903ffa0b2ef91ec5dc7a6bbb3850af935d76bf5",
+      "geometry_sha256": "3c6001c508636affc1a18089dd7879718169fc63a26ff8fc8e87d1daf700c228",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "し",
+      "exemplar_id": "a249b29a868cd56d2cc77ed0c3afec87667dce06f7eb826d7113d01ecf437c17",
+      "geometry_sha256": "b36cdf861f550a8edfee89fe9b7b7593b8ca633fc194847a8475c9e924ac035b",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "し",
+      "exemplar_id": "0b9cddbd9741689895595270e8638ec31cbde4f05621d0bc0acd3ba90f2687c2",
+      "geometry_sha256": "6e8d158b56babc37ffb026d7ff40135fb0f21ddc79bc97c4453ebc0854454044",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "し",
+      "exemplar_id": "44486ba6ee717ed57d4a5be2c5a55177e2e65737227b0d63b5f501d24def94a4",
+      "geometry_sha256": "1f077d69504b785ec9af2110ae78a3ef7a45b7bc46685122b51b0c187a9368af",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "じ",
+      "exemplar_id": "b96077cb29b71c0742e491c95dc699264b9addbe23fa848cff716b95d6d02acf",
+      "geometry_sha256": "e62cd47fc413d732f56d847ffc5445590410f98c189ccffa5650b0003b4d9a94",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "じ",
+      "exemplar_id": "2b708db7a818958ffc76857c56ddac36ead425e68da96331b62057aa1424937d",
+      "geometry_sha256": "20b466dac68d95aab5337d29a1d56c5cf3c368d1bc1e0ef36c1cb4fc2c891551",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "じ",
+      "exemplar_id": "9fbfcd6a0b6f4923d23f9d4c3e903f40908ccb8b1d4fc6fe879381d2ac0b0e31",
+      "geometry_sha256": "02a6cfa6242f4e1ecc3b327e299a97258fc93780ee16a55eaf5b16c58bea7e77",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "じ",
+      "exemplar_id": "a1b62d91807aeb095df40e7348c624a2eb0fbf67f7dd2eb9d11e1c45cb3c53eb",
+      "geometry_sha256": "edf510f252b6f32bebe6509943c746d38bb1f0838c68412933e6d20c481fc32f",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "じ",
+      "exemplar_id": "f557626e589c17be5f13b095d568d81d507713088394858eb3cd2e4d43da0722",
+      "geometry_sha256": "9cdc0d585af895f35c0358af8e6bb2265b8a52c56ad2c6e7be1374390dfec9d5",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "す",
+      "exemplar_id": "3016a39247454b872506ecc6c8a0bf30a7249b90c9773c498cfa333c4f79414f",
+      "geometry_sha256": "2b22b541f2356ad5462c355038b3971e65e5a88ec69796fc028e5be71ed8f2fa",
+      "previously_accepted": false,
+      "page_index": 3,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "す",
+      "exemplar_id": "15d1cbe881720c204e3b1adac31bb1316780754cde69cf08a54769ebae2d7fc5",
+      "geometry_sha256": "dd85a4acab40e979d49f5c13fd00b97fcc6066fb84f3a3ccb884e5ae213139f6",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "す",
+      "exemplar_id": "fe8038f3976a918c5289dd617896598a3bcd22b58d2ca734e38ae8b3b027877e",
+      "geometry_sha256": "17f8cd918b1d25db364bed46dc9dc725aa0d15c2f4edfa7183cc4854a1e18ccb",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "す",
+      "exemplar_id": "a97cf7b2738d6b0c7b8720045208b77989f0c6a14950b676905250dedbf94bb4",
+      "geometry_sha256": "a7916ff089b2701c03c42fab44f6258986f35cda915dd0a520b385fbeeb11fba",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "す",
+      "exemplar_id": "569b389f2f46c0aff9056ba6946114d8daaebce553352e81de811c6d6f96fd1c",
+      "geometry_sha256": "101549143da62589e4c26c2d992f1fc12723b051b9f7e5010ebf35893d8be41f",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "ず",
+      "exemplar_id": "eb7cbe65e8a3f95a97a8102de18cdbf4fb7357031a8de9c85d774bb87492354f",
+      "geometry_sha256": "1d2ec34a97c71c3b5529f3cb2f5eec9a968d2d9bf61b29f84ff6d6db76a45493",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "ず",
+      "exemplar_id": "ab1309d390af1e927bcd108fa711d83b980b00a6e7f41e4c6279af91c4fa4a57",
+      "geometry_sha256": "cb4f61087072059d2879c31002678e8563101a3f6841120ffb8c9d27405d0a4a",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "ず",
+      "exemplar_id": "f79f7f159eba22a8dae4906b6c17194e6b455cdd8670bdebd99ad98eed8cc2b3",
+      "geometry_sha256": "4c09f94585fe104de648f87ab1c7e5fd097bf80f0ed49909d9ab70236d051df9",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "ず",
+      "exemplar_id": "e8cc8c5c3513663bac2bd90aba1eb8e4771b15407b954d55b3198d59edb54a86",
+      "geometry_sha256": "cb9fb32ddb9c5c9404a8f1d8da13f0803d34cdd8a1d4ebdad1b5742d03f9be58",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "せ",
+      "exemplar_id": "170d2db1f68dd4811b902e2d8e13cfc41b82a477c9700b66b1cfaf52d1b802d4",
+      "geometry_sha256": "5553e3652529a793ad67698fbe6ae454b43f8d1e4c4d621eb199b6e8527c31a3",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "せ",
+      "exemplar_id": "97230ca5d648ab475a974cba4dfc99b3a0dba8e896a8194f91308dd5d1a0da9b",
+      "geometry_sha256": "eaf1b4d37f8363b1afaba436423e0256c3ef957269e054a85ff765360f5b9510",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "せ",
+      "exemplar_id": "555784d4d944ee30f1ae92f20299a5586fe2e1192f3618933e2ca44eccb65235",
+      "geometry_sha256": "eec2a4a689fa406836bfee1e9e83f22c7cb8b3ce9b85bb25a7de7c7453f28f43",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "そ",
+      "exemplar_id": "73158260e86b7fb5f5e32d52a8a0a205ee8bb8f19688287323183c5d4f140bf3",
+      "geometry_sha256": "dc8619cccd2f93fb4d78a12523ebe853ad706aaec0553a4c8a76c8eb2a0f0a99",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "そ",
+      "exemplar_id": "23596ddfeb86d28741c264c3c6f8b177fb7a3276a7c28be8badbe531a670ca2f",
+      "geometry_sha256": "68998ca9f717b164597aafa5694812ae34c4f030f7ea5c13188b24510bb5b0a7",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "そ",
+      "exemplar_id": "1b5e7cad2f2bf10ab85cda8583d9bc88a0c932e8643c79244f441d619b80277f",
+      "geometry_sha256": "9832a989e45460956b3f263c24ba8216fe4638b15cc0cb9e0f4436646b6e2067",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "そ",
+      "exemplar_id": "33fb1d91fc05c0859a10dc4ea7f760f273c3432a652be9ffcf01c9921dcbab7a",
+      "geometry_sha256": "8e712e7647e706b513f46ad19a9046678952b6c01dad075b814b82d18a34b0b5",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ぞ",
+      "exemplar_id": "fe7d0a68bf251b0b869fbd16bbf28473f0b69ca67c7b505a30e3eabda5f4e0a3",
+      "geometry_sha256": "3d2955d85c9ca21a818f4ce427d864655b6b09aad8ea30c75f675d8efc2a9ff9",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "た",
+      "exemplar_id": "ea36b93c92bcfd439b2d8818d8655f7e60eb75d1b580d43f01c0b0cdef483eac",
+      "geometry_sha256": "3a07f6ca5d621ccc8a1d466c5c5a1cdbb1fad223e7779c904d4a0ab6656ea87c",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "た",
+      "exemplar_id": "6ffe3df014404a2574db9c94ffad1061103ff64392d3d288f58337825337b530",
+      "geometry_sha256": "77eeab735ac48ed349fc7911fa43ea81db7f05d8821d8b721d11623dac73ab19",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "た",
+      "exemplar_id": "a329c660e64a66d5bf10f685646e191d7e78a1e1e90deedb2d28d3ed564f3c73",
+      "geometry_sha256": "51fed4a34b3bc6ddae9796f67aeb419c046a12fa43af2d9885b6d0452c148c31",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "た",
+      "exemplar_id": "d99b15e007a79552bae5f2482ea8b222ff1d8feca5c88005afb788e6d07ad079",
+      "geometry_sha256": "50941d21b1f920957db1877b46dbeb71b62dcb76371cbb688c2c86f8cefd84bf",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "た",
+      "exemplar_id": "45ec39554fe1676908d65bcc66cadead28ca48cdca4201627413d6c9007cc3e6",
+      "geometry_sha256": "03f949a88e71e2de6ba03022012777c8cad757d46ebeed728330b06f55fd7445",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "だ",
+      "exemplar_id": "d39b0aec17d1ffc3df20f8d6b9593f16ba7afa80350e04922f0b67f30b520600",
+      "geometry_sha256": "20132a417de3fe8847a2e8e6a927a7a3545878b8be571cd00ea00813d0e4db2b",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "だ",
+      "exemplar_id": "5ad3397f575aa94ee38c3ee663f63ff9c8732ca3fa20deacac90fa1c6ae89106",
+      "geometry_sha256": "977ed1b86dcf9d728d7d93fb9986952b017daf659a038d81fa04cd4a361ca92c",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "だ",
+      "exemplar_id": "14f95a35f2c874ce110e7d49bd203c652937b37923bc3ea229debe23f33757a9",
+      "geometry_sha256": "7d3d45c59c024ed88418ed91e27a9debe7e352af9f986bf999250ec14b7e3059",
+      "previously_accepted": false,
+      "page_index": 4,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "だ",
+      "exemplar_id": "1c538b1c0f9bc793f7ae3e7feadcad2164caa23366313f0b7da0d73a9dea0a4e",
+      "geometry_sha256": "104142d56b1bce2046e384da5b2746b3c32e3180970e02dcc3b90a2ab76d2452",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "だ",
+      "exemplar_id": "d935452a542ff93ae790ebd5b802a3342bdeb70e1619e9745170bd0fdd306133",
+      "geometry_sha256": "1c2ad5ed7a598839a5a68154e465c2c1246db9756730d3dbb7d2b9cb42502635",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "ち",
+      "exemplar_id": "f5e0a230cf92ae7e6f5b342152a2e3ce7f3a78471ad110df40af0819607bd617",
+      "geometry_sha256": "15119ac507412953e0e562df40937f5882de60e02850d75c2b7e807efe743af8",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "ち",
+      "exemplar_id": "ea407e17150b70e4e6523fd08ba0712c3aa38faa4374eaba0112dab717004dac",
+      "geometry_sha256": "388797a3cfeead377ae94ade9a7c21a930e155f7ab8eff0a545c4f2a5c7c7be9",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "ち",
+      "exemplar_id": "24413a9b853562f0d8e829b1744a255db377498dd7df364e8f5d112474eacec3",
+      "geometry_sha256": "850884ab96289defdabfc0f95c5dda1c1dff3e6edb5d0e96b045a0633da6cf20",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "ち",
+      "exemplar_id": "0178a08da4b7180080a15a8c8301d361d9f519a090dff86f0769deb055c52d0a",
+      "geometry_sha256": "ae66a65636800c51b2d93e7aa5bea5716ada4b8aa37f007f528f89ee706c5279",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "っ",
+      "exemplar_id": "e2fe95e8a09bd45de25cf42f54f32bcf9a630702aa9b737c9752e373cab4e6f8",
+      "geometry_sha256": "3366bb88f6de5898e7fc4fca95e4fdafa16c0d1561da1fbea23e2243640e46c4",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "っ",
+      "exemplar_id": "66293aad7a18574ad1ec25433d869a31456241aed20f68a229822a171aa74245",
+      "geometry_sha256": "dca29518e53517049c6b09067f1218e3d29c0cfe770cd8aecd48a9922bf06143",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "つ",
+      "exemplar_id": "ed0afc7d1c39c1d63c3922b83536a570f45bb35b77c07c11e56539c847b96e17",
+      "geometry_sha256": "626422df9abf84a8ec1fa3a0712252b68afa90de95bf0312f69783ca03072696",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "つ",
+      "exemplar_id": "f0845d853ef72c2dbbc8a46a00999380d78f0445d192d379461f51fc47918b03",
+      "geometry_sha256": "dbb3229da8ecff9142e1c41077234186064ec80a756a953a4b175e37b429c666",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "つ",
+      "exemplar_id": "5b1152160acc7d0e46e8f81426af9e5b500f4bb6594405dbee4c7b99260d6d47",
+      "geometry_sha256": "cccb60c294aca5bed84c59876f9955a8f22c5ebed512363b00dd4b9b2b3a0122",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "つ",
+      "exemplar_id": "b35e64aa2ac8970b20cad95dc234ad16addcb0cb20363102503238e1a156a3fc",
+      "geometry_sha256": "fce9435cb20521a24a74ef8b5ba0e4b2456a7407a1faa45dc8c64debc597eecf",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "つ",
+      "exemplar_id": "abca8b955d0169bd91066de52c9e66b7487ac16d983990751985e5041e8e00a6",
+      "geometry_sha256": "7c8025c5eaa1feb2b8d7b6ae34d060fd77cd2e4b1f2a85e76fb8429f4bd88ccd",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "づ",
+      "exemplar_id": "6c9c733c4dc3fa2b25b87cecbdee165c4da5ae108c84bb9fa35c3f2424e7ecdc:split:0",
+      "geometry_sha256": "09941e6abe8959d2bf8eb3c854e9c18979715dcd6293815374ab92dd74bb70ef",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "づ",
+      "exemplar_id": "9f2a0338e601d4997d5fa3bcb71d2444b5269ac742c10ba717e3a901184aa60a:split:2",
+      "geometry_sha256": "9fdf5ce322d6851b59a48aa1bba4dbd9afd883ad299a637fbc2ab91cdf8d34fc",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "づ",
+      "exemplar_id": "2a187d681d97808bb4de69038d80b55f657c696bd1ac28884e9351fd9852ac6b:split:0",
+      "geometry_sha256": "bcba5205fbe7ae4b0f56541d2ac71879fa262546433004047858ac2d8c2a138c",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "づ",
+      "exemplar_id": "3a10315c7bbc89594e6f2b95e18aed822f56fcf474b81d347a65a1ead498e1e9:split:0",
+      "geometry_sha256": "e80bddaf5216a96485a97f932212bee878cfe525d8d79ef9b22d36ab5eac1258",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "て",
+      "exemplar_id": "113d82f0aedd330598cc78d19525f9cf519e3521824e0f43ccd00779d15b0828",
+      "geometry_sha256": "f697942dcf90180d1daa08ae7b605125f9c00ec202074b367c1022e5de2bc1eb",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "て",
+      "exemplar_id": "b33d4b674bf239e59119da1cac6725c21945198f0dc0c49e63c5ba9123dc27d2",
+      "geometry_sha256": "85ad0e6a102357973c037caafa9af90035c2c286244595b6c57db0fad63e2bb1",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "て",
+      "exemplar_id": "8346ba84b5a3d89d83af249baca3b50ea2754be7f1769162306866f21437b8c9",
+      "geometry_sha256": "1cb6c8c3b7e7ea2f931efbd13f4090256ee6bf953a806669e4783f5564d467ca",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "て",
+      "exemplar_id": "4e1b292dff8eb4393a2e6c90b45d99aa76f28bed0d33c36532829bea17c77473",
+      "geometry_sha256": "84bd96ef5e46701b3fbcacdad99928c20fccd55c5e53cba4efc607e2920e18ac",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "て",
+      "exemplar_id": "5ff17f385eb0f2d407050cd4af7950c072d8cb903471157836817e2070ce5e86",
+      "geometry_sha256": "a1a666ffc03698f329ab162adc891dcc77790828bff898f1f11c9c083fcc0686",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "で",
+      "exemplar_id": "79fc8b42a64e1dc09e2521d3f67a43c33edfe97f2778f4715156c282e6f0235c",
+      "geometry_sha256": "0fc8d232822fac24068a2a2966b194012a36bc8c9cd3b59fd380d1d4ab1724ef",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "で",
+      "exemplar_id": "5b863751e973e4c3b3c1f34fc483dd8c3a2fe81e87e539fca5ef3fd35d85536c",
+      "geometry_sha256": "4c96e3419440300c623aad70c6e43014cb7e37136eea6ba5bec2ccddf3af7b29",
+      "previously_accepted": false,
+      "page_index": 5,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "で",
+      "exemplar_id": "54c4ca93f31559be22721afd3fe4ef35471f600984b7aabde2e062347371770f",
+      "geometry_sha256": "7804d74e0a4a45c7dc1c7e87f56f902cd3218c1ea1a735a0d09ed6b952ba97ac",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "で",
+      "exemplar_id": "728e948af2719cc9f92edddf321f8e092966dceee96577fe6e16ef9c6b0966c0",
+      "geometry_sha256": "e542f915e3b1ed250682dad481af9f5321f4cb756d706fee29ff0e719d436c60",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "で",
+      "exemplar_id": "183c5bc469fc9b2df563768d264e32e1259272652712b4d740028df33c99ab2e",
+      "geometry_sha256": "450a61916cac0d6a87575023602de0e93762bad7bc246fc872dabb2ff8cf62dd",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "と",
+      "exemplar_id": "dd81c12b1d4cfb5c81f8064e822b02290c42d7a88fac1ac47d20cabd9210c8ae",
+      "geometry_sha256": "094a64a2b878b8bb9be9175a50a40802c7e8e30e2c820db9d4a2739dd55eb82a",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "と",
+      "exemplar_id": "4d0dc39b1ee37d60059147f59c5890fa43188dea4b91846833b1dd89f02a355b",
+      "geometry_sha256": "d402414453dba14e9aad597160693a01f895b8bb962dce8f3820d935bc1cb196",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "と",
+      "exemplar_id": "297ec9acbb612c99be496f5d7941317d564b4b4b23e2b69131841d88dc750c0f",
+      "geometry_sha256": "60c5942322edb27267a55022bae9554705cda8674ee0d291d95006cec764379e",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "と",
+      "exemplar_id": "c8e16d210fb52946e023d0a60d687d3455377d15eb2782fc15253b3d3d85dd7f",
+      "geometry_sha256": "ba4c04f08c1388ac30bc63be837237a4d048c622af4eed0e6f382f1a912f62e5",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "と",
+      "exemplar_id": "2e4bb7cf0db6c1b3f3d6768b050bbc257bfa0db50d088d15646c4af44376ae69",
+      "geometry_sha256": "34b2980024b94de859cdaf0f08671f5a659b7c42a52f97bc922c89c710713fb8",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "ど",
+      "exemplar_id": "d31b00bb270f6ab6f457ccf8247be61fd62624a64c63844b9c86a6ffd2731be6",
+      "geometry_sha256": "3dfbb78f1e3791c6063a238de1b120f4dbe181fa04949f8a3c824040bc9a76b0",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "ど",
+      "exemplar_id": "5983c64257fe0e9d39108f1191ea6cfcf56cae0710cae8ea76f1d89926b24c1e",
+      "geometry_sha256": "fb503155da903ea90e91118966182bacb97c94882f07aeff6a58aba2a1d37e07",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "ど",
+      "exemplar_id": "23bc551ae67ba38c02df4dc0d84b751150397d9b662c4074c0f7abef53a39b97",
+      "geometry_sha256": "c8592472fd9d2795076d894a580183658556d9fb9d3ea8dc69fbd852d28b3c81",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "ど",
+      "exemplar_id": "4ad3dee719d339e38e5211c98a9fac6ebf16087d24aad192b70232570ec82b6c",
+      "geometry_sha256": "c2163a7eaf117862a4dd877f22d9044e91d9720a57b006de5441ac50d069e106",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "ど",
+      "exemplar_id": "37b8462c6628b934d18a0dbe3911fa1822641e83258cad220d806c6a46445828",
+      "geometry_sha256": "78133ca985156103fc316e57c0d81358208d101b27de152f8c80ddbf42dbe40c",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "な",
+      "exemplar_id": "3f373fc06997b01069b3365ef694841df46ddff134bbbca687ec4b591769108c",
+      "geometry_sha256": "28ed94efc9e0cb58474eccb4f3fce8dac10c31a3f2dbdbc91643586f9d05d69b",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "な",
+      "exemplar_id": "20b10905b8b84b4e506321076febccd0c8780f62c682d7d6fd9065e53faeeba0",
+      "geometry_sha256": "512aca786b39084601cbde36cbc743b19d9f0e5792759d109b25e1c7bf446b6e",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "な",
+      "exemplar_id": "b60a59c66df3e7623fc50465d98b8a4abc79bbb1426f53cdd7c3535de97afd00",
+      "geometry_sha256": "c86eb99aa7d8a9e199594fc59202094259ad6f63815bbef3b78fb460c28e1cb4",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "な",
+      "exemplar_id": "f38ab5d9514ab8a4e5e3c8917a3dbf43ddfae798d2369978cc51b4ee4f92df1f",
+      "geometry_sha256": "8ca94dd3ec0685523c14b72d8f622336b2498c68eabdefeed432ec0a45b733f3",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "な",
+      "exemplar_id": "67d98951645c41310ed7b7adabc90b475d516949487ab823ad437194b7eb85df",
+      "geometry_sha256": "b593268949eb7c0151958c3dd246bf66e3cfd030791c4b85fb8195f46f9fe58c",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "に",
+      "exemplar_id": "a47ed0ef0f1099ee8009417173286ab887c52e16a397ab613a6f426ed0ee84cc",
+      "geometry_sha256": "2ea7e01b856c90f8da8b9df1392e2408a526de7eff3a9e0550d2def8bdc53a02",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "に",
+      "exemplar_id": "fca96897627ec2b8d650261e86c652201223fcd45b51482f3bdd4251dff90fe6",
+      "geometry_sha256": "ff239194fab88f630b743307cc985dd5b0b922b974fd922e4969c78bfa0e0a60",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "に",
+      "exemplar_id": "3b7472dec372491c16bc5b9b29e7183739bd77d7c2feefad0db73c530c005351",
+      "geometry_sha256": "0c443fcd145bd45f7c698247a083d0284dc7e29c649e7e105bb2200530f7520b",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "に",
+      "exemplar_id": "68e87552eafe821141a811fbc70f7f67c936f77f7a9edd9e7657e3f461f6290f",
+      "geometry_sha256": "4743513d3f9cb280d95c11af7d74c693306d31f6d80b63baaffc653bdbc9112e",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "に",
+      "exemplar_id": "619eec1d26407835544a84d6eb20c3e2b9e4b368eb5abc59ac46525e87afe7e5",
+      "geometry_sha256": "36c8a198d211d6dc646e0bc1af997e7f42d471864a02bd878d155008ff9dfe0b",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "ぬ",
+      "exemplar_id": "16dfe85e391068e317f922ba5a7b7f1f82835489b3a8d41156c40c19a7ca9514",
+      "geometry_sha256": "d4eada4352af36276fa33f6212bcd5788e160291ee885b8f235e03b3502f8fc4",
+      "previously_accepted": false,
+      "page_index": 6,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "ぬ",
+      "exemplar_id": "56ba4926937daffc8fa51cad139c8a541b72f7b695b12f560c1ea0cb8b3ef3a1",
+      "geometry_sha256": "b53b215d248b4c2e68e43378565aafb478678b9cfcd928fb0d74e1dc9b02f842",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "k^2=",
+      "all_readings": [
+        "k^2="
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "ね",
+      "exemplar_id": "8220d7c0e4388feb9c26b2d223f85e1bd8eb0b6af354eee291f7c71ff0dbd48c",
+      "geometry_sha256": "be2f1c4c1d575781377074217e78342d0766e226ebb7b11304dc6bae10a3e9a8",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "わ",
+      "all_readings": [
+        "わ"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "ね",
+      "exemplar_id": "43f5c1ffe0b03b1a2a7cae5f8aec82c2e6157a2a6dcff4b52af7e4206db20f30",
+      "geometry_sha256": "ff0b698fb406f727e169800d92836a870163af6dd53e2da044155e81afd68464",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "—",
+      "all_readings": [
+        "—"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "の",
+      "exemplar_id": "9b2e8eaea00b487c9d139df6e72b072af20582e0467b2db7472cf11b8e5541eb",
+      "geometry_sha256": "459f7f218f428bc29a15d0590101b5e52258d4c04c3c5dba9553238364bc27eb",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "の",
+      "all_readings": [
+        "の"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "の",
+      "exemplar_id": "0015a96ff9d24885000901ffaba40863636adcc5c01a2f9c6ff4e38c4b9100ad",
+      "geometry_sha256": "ccbb90f90a6b48b6a9adfa3a45888766549b216e8fc5ddba580bcbeac87f113e",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "の",
+      "all_readings": [
+        "の"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "の",
+      "exemplar_id": "523f77e798479072ceb8d6c4fe6a1c1778457fc9004f8ba06eab1b9f9d9aa857",
+      "geometry_sha256": "05d1935906d9aa1ba956245b9ee21ee5bd0346d13dc214d3c78768e4e2a2fbb4",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "の",
+      "all_readings": [
+        "の"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "の",
+      "exemplar_id": "cdb881e36cd9e79333661268f77c7e5248ee5e11707e6c1cc261c373a2ada459",
+      "geometry_sha256": "ac506770fa5aef895e995b3baeda24df2d3d07ea9417ff816bbdf8251c3c726f",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "の",
+      "all_readings": [
+        "の"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "の",
+      "exemplar_id": "82be3db1ec8c645a9f62a73eb7b2627bb651df5c7fb5164cc9e18c5151177870",
+      "geometry_sha256": "0d542df5aeea9da3f16590fa67e467576a6b302ab4d9e14cce01cb59fdbcbbe4",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "のかっ",
+      "all_readings": [
+        "のかっ"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "は",
+      "exemplar_id": "0e57ec451074bea25b015dc2b4901497fed73f5951305bd4c2a593aa391f36a5",
+      "geometry_sha256": "c812aac9a1eee0b67c4c07b05de8e3d28d47c79a9fde6c92b53195e1c7b8d6a7",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "は",
+      "all_readings": [
+        "は"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "は",
+      "exemplar_id": "51eb6bcb27bd9e17149be33e1bdacc8ef642c48aa71bd7328c262c73e68369cc",
+      "geometry_sha256": "dbd50903659850277d2c0fc2cc6cca40761fa15f2c5e171ecb6834107d6c7b0e",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "は",
+      "all_readings": [
+        "は"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "は",
+      "exemplar_id": "0e66a660fce33f3562f7cbcbf51a79cbed8aca8abae895bee427ccd3f7f637d3",
+      "geometry_sha256": "aa06667b69d8e5d31ab55e84ad03efe4fac306b7fe41536e1b52667c2a71b467",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "は",
+      "all_readings": [
+        "は"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "は",
+      "exemplar_id": "6883d7bd2ab288a57805e1b0af80932616672d452e6bed9da46fdedaa8ce11b8",
+      "geometry_sha256": "27b78c71b306b8f850009157996e85b88534d954fde0e933f4db47efd545307c",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "覚",
+      "all_readings": [
+        "覚"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "は",
+      "exemplar_id": "cddf01f87cc00cfd395259b0e7e607b474d396732c10393b6eefe1a41a54dd68",
+      "geometry_sha256": "5af00906801af5db395dbab5c89e9843937e3b5ed681d56ffd2e99607262623f",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "—",
+      "all_readings": [
+        "—"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "ば",
+      "exemplar_id": "470f61db5df0378681ec84c94cff81a5efaad14643f78cae517321f1637745b4",
+      "geometry_sha256": "92d72347a0f2a16dff4494d68dee1094b7c6d3e512f0af19b5e38ddffcafcd02",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "ば",
+      "all_readings": [
+        "ば"
+      ],
+      "ocr_status": "match"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "ば",
+      "exemplar_id": "e297ca6080d68b50f9584111d4369257a503bb5be3804a9d222fe49bfc65d7d1",
+      "geometry_sha256": "b1ebe7690e6ca45121db8da3b7613612005ac9ec8a42f2bf2d390054fe28c277",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "良",
+      "all_readings": [
+        "良"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ば",
+      "exemplar_id": "25e959ab81bf767f9ffa16b5475ca5610c8554fced105d094a95c3bc0b9fee69",
+      "geometry_sha256": "b5d485a90e82e291e9776fee2f4f2b25fb4ae74e44339abe4e0b5a0717c278ba",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "[]",
+      "all_readings": [
+        "[]"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "ば",
+      "exemplar_id": "4de8ecca2788b126582115a8eeab1d115824481649b1c90a3e973ec686c70096",
+      "geometry_sha256": "3f86233291442ba5b6cda2724470945cfd5b3b0b0da861bc0e455581dcd82ebf",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "力",
+      "all_readings": [
+        "力"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "ば",
+      "exemplar_id": "0a89d13997fcec9c2c567255dd7cb6401da429a8d62091f26cfff952a8e85a32",
+      "geometry_sha256": "91c17c8ffa87b621a048e3d5241f70e8cce3dbacec51fc3b32a7e8da6c9f13a3",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "=",
+      "all_readings": [
+        "="
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "ぱ",
+      "exemplar_id": "e1830cf398d93d1eaf50c477700abe59d0f1397f3696a42318e43d4b3543c851",
+      "geometry_sha256": "131154e55788e5ed4a7fe2a84896a49fd5cd398ad4c2f9d2b948e567151d8f77",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "心",
+      "all_readings": [
+        "心"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "ぱ",
+      "exemplar_id": "f7d7e0c8b525f50fbb2911bda4865ef507cbf66caffac5d0e93e9feddc0c24aa",
+      "geometry_sha256": "6183177c2db83d172e76dddd99019127ae64306d6f75b820635e086fa0e444b7",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "|",
+      "all_readings": [
+        "|"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "ひ",
+      "exemplar_id": "b66b17a4668173e456e99b557d5ff484dd065bbe55c00b6aab648d39f427cdd7",
+      "geometry_sha256": "96e3ed60acaab5c5f3817464fa94a34d25e501be3eb09edbe550b842157f700b",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "入",
+      "all_readings": [
+        "入"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "ひ",
+      "exemplar_id": "8da7d7380879c380b9ce6ed78f126ce4b5a9be8793b8d8db99ebebac2d4a45a8",
+      "geometry_sha256": "1b1540dc553c5e73d80920b2050abbcf16986b2f65c05195a2fd93d5656aad98",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "かか",
+      "all_readings": [
+        "かか"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "び",
+      "exemplar_id": "2227c685d4b3b3826de44117d61d206881cad1424366c92edff96eb19e63e869",
+      "geometry_sha256": "1f107dffeef569eeea755fb5bb1953e7a8d9350cef271a8948d72acc2f48c0d7",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "治",
+      "all_readings": [
+        "治"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "び",
+      "exemplar_id": "203372665627b916e1c7b56e4318478a4c7e0cc84ae42d301f853985a0ce5dba",
+      "geometry_sha256": "4f25db372aaaa213cf48970f2f349fca13b1949169e0b4faca877e29e39dfc49",
+      "previously_accepted": false,
+      "page_index": 7,
+      "reading": "書",
+      "all_readings": [
+        "書"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "ぴ",
+      "exemplar_id": "acc4228c775ae1ec71c9e1f646e54caa0754e7ae3e940c3c92d5ad3573a9983f",
+      "geometry_sha256": "bb0a9c6152247617be1f7ecbc523213e5083e9dacdfbf840b576e45dc3a6cede",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "2",
+      "all_readings": [
+        "2"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "ぴ",
+      "exemplar_id": "c562946304608efadf9201650093e1440772dda96a2c515010beddc18481df05",
+      "geometry_sha256": "99673daf2a79bb572c2b97893e133c160ed4a5de44e1e88f3c603376f2a765ea",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "ふ",
+      "exemplar_id": "797402625ade96bb6558b12a1963093e0a2d541a7bcb2c5145ffce4da11d2647",
+      "geometry_sha256": "0b983837f72e084e28762b37df3bb198e0e4dcd4ccb46de91e2ea985ae1ffbee",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "ふ",
+      "exemplar_id": "7dc932866c0f9e5eaa7f858404e037918f747a906ccacf0b36759e18b9ad02e7",
+      "geometry_sha256": "2d0eb03dd612fac059b8c4bc11c3a942a7164f671ad8b2fbaf83c76e3d436f8e",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "ぶ",
+      "exemplar_id": "edd19b01d4cfb1642d006bbc7672d5476abd6422ae9c13feff4b0b98ec51accb",
+      "geometry_sha256": "4244cd2067258a6ba7025ac2df536d8e089f37f4be5d11151b82c773f54be8b4",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "ぶ",
+      "exemplar_id": "5abf2b7ef8bf12d81b6dedfed3e916bcf3968d0b9c13f1d64993029024c03cdc",
+      "geometry_sha256": "0f138edb48402394d43cb83758c6d610db75cd372f124bba838c5207a1bbc6b1",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "ぷ",
+      "exemplar_id": "01c098d422eebf97bd529cd49ded1df41481e43e871764f490a8472f733f1f5a",
+      "geometry_sha256": "54a6f268371ca5eb44e743c42f385e2c52be323a9bae626b60928bd035f93719",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "ぷ",
+      "exemplar_id": "430800fdfe97c10a65bd0c494b80c5dc8aae5a1aacc7e2565e159059c41e1d2b",
+      "geometry_sha256": "51a2a94d1c3fddf05e58b682bbd83b11b544cea3bbb67a518694eac4ff21afda",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "へ",
+      "exemplar_id": "a1bffc1fb1f2051947db19ab6db5abeed2e8c11401d278377306b0bf7ec9b41b",
+      "geometry_sha256": "4bbc1fb4e232fc3d53e2f53846f5c5a6beb8a32c06d7462b21dca3b196d6e919",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "へ",
+      "exemplar_id": "7b2552e74747a12755c95ce32a6550ddeb4bfe5ac963083b836a3aacc44496e0",
+      "geometry_sha256": "d14f0112b90cdb19f09c3d4070864671d1180de7b50f6c9560b537355ccf4193",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "へ",
+      "exemplar_id": "d48a715636000d5188cf6047f76ad6d06d9347c00d2dbb840180f50dcaa6d9f5",
+      "geometry_sha256": "da6165b524673511b75ef39d98e71f66376493919f4272d1e22b5139f1a57e0c",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "へ",
+      "exemplar_id": "44d978d7a936ace3170b92ad0d5c556c63267370d00153c693b7396529feb049",
+      "geometry_sha256": "9de79d9ea234c899863c153bd7f13d34101d8ff30788857efc92eb17c56b59d3",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "へ",
+      "exemplar_id": "701a1cda35b29bd700896eb6312bec685f95b3829b88ae7fc99321c3e5e6e725",
+      "geometry_sha256": "d95396123510308a671f8d7144a512e97ccb530ca8421fb6b10cc074cb9b37bf",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "べ",
+      "exemplar_id": "5b87eeffec6394f72d291bd49fa40952aea657906367e0cf9e8273861581608a",
+      "geometry_sha256": "4514edd4922c894fe9c3c152fc0a83f556ce31cbb2ea91ecff35319b35cd5ba1",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "べ",
+      "exemplar_id": "5ce4d1e99d49e1e6932775c9885758fcf88dd189b0d62bfd8a526b1b34428b8b",
+      "geometry_sha256": "72e24a4ced6a151fb251bee04af0d6222a44f1e868d7ffa292ac6b41f0d90415",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "べ",
+      "exemplar_id": "d76300dd8dba88ca68253590c163bf1a3df6c141fb12d289535945d4056fe4a2",
+      "geometry_sha256": "c7dc9cbad12182100768710d28be5e0769a24210a9a1d7a2c52ee9756264cbd6",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "べ",
+      "exemplar_id": "d468ac0f3e0c3ddcca6c2e05d186cd18e849bd1de3c63bfeea1ac46313877ba8",
+      "geometry_sha256": "99190f96efba4f42e13802ed37361ae14b444fcda75c4e908db13ac3c72461b3",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "ぺ",
+      "exemplar_id": "a460dfa730e8a576f92f4ca0595e0bd45e6f1ce74516e450461ab63c6d13bf19",
+      "geometry_sha256": "4081144a5ffe0c093786fdd9b35dfbe6717ec2d86324fe7ff5a09794dad14841",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "ほ",
+      "exemplar_id": "dd634c1c37a34659ba58d062771fd49c06624651da9b60aece699f2ba31f0afe",
+      "geometry_sha256": "5d58843c7a22dddd980a1343d222122523441d45ce8e36f21ef71806642ae711",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "ほ",
+      "exemplar_id": "b8ba88e76c2c0d0ece129c4beb28d4d548b58e698f3a4be6b12a6ab3f4f0a82f",
+      "geometry_sha256": "21ac9b6ad87f85915abe2b29e2e1eca4dd90ad06c05be794bf7c6dd917d15c90",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "ぼ",
+      "exemplar_id": "4891fa1808ea477a65cb0dbd9af52fedb2e56a6d9425f4c0ef93d2f8fce0bf0e",
+      "geometry_sha256": "a9a2c0f2250dd1e27fc6d8b99182dfc25f2e247b0dbe3bed143f6d52db4da333",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "ぼ",
+      "exemplar_id": "63eb6545eaacfc4efdcd4a57a3e505ddbbd2913f92aaa383149da5cd4a9cd24f",
+      "geometry_sha256": "73d288a55a1bbd46740ddbb0e05b04cdeca53b54126635e892db3a9e19f0575c",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "ぽ",
+      "exemplar_id": "4b49093ced5adad208810018a496828c17a64adb5d82baadae729e3af724292d",
+      "geometry_sha256": "757ec194a2423dc4d084582a077c64d7c6ce660768665a15c826150d6799cab0",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "ぽ",
+      "exemplar_id": "08d15e3baef72993655606406b6b096647d9fcfb2c18d443641b0770b10239a8",
+      "geometry_sha256": "8b0142a017eb7cad180bead847bd3863df98a6fb756153f35a69a36b56d9767d",
+      "previously_accepted": false,
+      "page_index": 8,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "ま",
+      "exemplar_id": "6fb980c2cd4a8a5bcb6f7ffb1136143e79d6a1be3808cbb841931525b4a8e824",
+      "geometry_sha256": "3d572c8a91e9c696908add980fb44045a78bf41818a488467c5c0cff32f2d621",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "ま",
+      "exemplar_id": "4853aae6096349d5a15f2aeba9075c81fb43d0085ab35bf47acbe8ab0ecf0ead",
+      "geometry_sha256": "913af281181cbe44f0f19a4fcad0e3c27e951efe6211a7e3dcf97ed5fc3ee622",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "ま",
+      "exemplar_id": "422bf9d26ba15710de9ac8c3ef6b9b4261182161fff85884d9e2a23bb82880c2",
+      "geometry_sha256": "bb42a0c3ab032a8f4df041db1315082171c53b79e08454d23b5f72344b8e244b",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "ま",
+      "exemplar_id": "47860d7573467206033333755bd10f1fb6d852dbb6d8f80d585a7cc712dd933f",
+      "geometry_sha256": "b7547ccc8263948a019043c0608a9a21feae88db05223bd0a41e3af3e3c052e5",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "ま",
+      "exemplar_id": "5808bace45223974ff50355c4994ade6ee2fcfbf8e42ac5944f0ac56453c1951",
+      "geometry_sha256": "3836a13a8abfa83c39bebbd94b78bde59c6c99ffcb5456338f767d122fb391d8",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "み",
+      "exemplar_id": "d38fb02a83780a1958d1e93e400f859cab695c337980bb20b6e8b952db487a6d",
+      "geometry_sha256": "fe9c7b2c1705e7ff9da584d395dfdc4ebcc3a65df678ad250ab7b424256139ee",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "み",
+      "exemplar_id": "56c25b642c1f0fe89723552654393178d2f381f88f07390d1b61f981a2201f7f",
+      "geometry_sha256": "ecad9caa2dd43aca164f649a9dda7aad25df8c7d7f5f3ba4ba05de4cd13987f1",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "み",
+      "exemplar_id": "ebcb006d9ab605054f201998ebdc29b6387424c7325759c0776da048c5312cbf",
+      "geometry_sha256": "27ad2a965933d9de91bc0f346f6b32deb1f7bcca6c099092201e282d396880e7",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "み",
+      "exemplar_id": "dcbf6c6da6f599513b24f36a5d6cec2e42835c29940710fe5cb76c3efa5e6e4a",
+      "geometry_sha256": "08f1f56ccf4418d3a1f9be6dd1ebde123b72d30cc75e13506650d6ed1b231d25",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "み",
+      "exemplar_id": "d44fef3f081ca7970e9edb8a879e616440d7f412fb2f2679be458bc4f2fa5b94",
+      "geometry_sha256": "dfafa6254e6bf458e6d3f1f2ed2a605eec3e0dca81b96fa7cdb8cdc3c81edf34",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "\\frac{4}{2^3}",
+      "all_readings": [
+        "\\frac{4}{2^3}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "む",
+      "exemplar_id": "4eb4779461ba3282e451d793f673b0972b3700a2d0d971390918843f9a08eaee",
+      "geometry_sha256": "893dac0b8b7f0fe590e0e3812312c0642a4a9ac3b66fc8235d2ea498e3265b47",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "む",
+      "exemplar_id": "699ea0b9280d5b85bdbeb2c9b6e633b8814099683fd0bf661e716cf66a7aa3dd",
+      "geometry_sha256": "f5878920e28831c75adbdef150e114527a6fcf3083543670bed0ad6bb19c0d0b",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "め",
+      "exemplar_id": "1d8448fd99fe305d7187267553f3e5637595bc7f9f2bb8ce24a3f714fafcd4a4",
+      "geometry_sha256": "a83d9bf6a0a688c3bf8b1589913830a4c5d29debfac697a66d34fb8dad40f16b",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "め",
+      "exemplar_id": "3518fec6f38ca6bbf536c697bad373ae8ba3a142dac6498c4c9d625f03652003",
+      "geometry_sha256": "7cb544a1053242da6ece9eb5e8fa16a82255433d26c5d7974a3a8921b0615f9b",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "め",
+      "exemplar_id": "3d11545ce1915e23196bbc421566ea735d63c69bb9809ad3b99b43ea4f413c97",
+      "geometry_sha256": "d62f63c15bfd2bb8368af0a61410bde4608576c6e7e97cc64155705afab59c27",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "め",
+      "exemplar_id": "a68d73e7ef2215d206188f78840ba5e0e8c8eed6389cd6728802197c070757f4",
+      "geometry_sha256": "9a5fb1193d3b43b7f1ccf8b8e6a07d35cf1e1ca724f038f922c90b1b9713ad12",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "め",
+      "exemplar_id": "002ad195b0ee18502e48722d1122a87f6cd4f9f919824b10cb610add999a8f77",
+      "geometry_sha256": "b9781fe3b6b9351813681278b4b0e17f2f511c14c866ff55b7b6a8c66534bc2a",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "も",
+      "exemplar_id": "64db1409aaecec9d06272255fa31a0aaebd752bb81d5ad2dc7baff4af0df9ad9",
+      "geometry_sha256": "7dff9391476230f450fd4a3d12a68d4f8147aea1627fb1ee78bac7d8e08e76e1",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "も",
+      "exemplar_id": "9287d6e7c70783196f8872630acfae736991e350623ded63629281b09db2989c",
+      "geometry_sha256": "dfd7512c1ebf67127606cb9c7215b1f77e8dfa216777430331d44ab0a0e5574c",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "も",
+      "exemplar_id": "ccbf1a012895ac05eefc830af5769b0da11a4c77fb5ce70ad284573a83563f07",
+      "geometry_sha256": "64e53d607a35d8f22ac01d56fc7aa0c1898c22842880f2f1d61f5fc718f64b3c",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "も",
+      "exemplar_id": "347980258619a43dd33bc4b4d29481f20938e3a4908fc632719c69e269405106",
+      "geometry_sha256": "a8ce9666b49db50f5caec66752a48f385ff2c7b07f5a12eaa5d38170ab117eeb",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "も",
+      "exemplar_id": "96964cb94bc3e8d417852d6135d762781d078bdb7ffb7c705b6da7bfc52b7493",
+      "geometry_sha256": "d29a94d3f1a030308f8e5a132575de50bb4aad6de487c0e1e52e8b46ff1ea689",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "ゃ",
+      "exemplar_id": "fc515925e9d3a476229d28755c69bca7d79950502274a7befd69b5392645d85d",
+      "geometry_sha256": "f50f1b5a379617d7f13590a02bd1c786fd150e27841f2ba0cba79ec8fd83d71c",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "ゃ",
+      "exemplar_id": "31832d0197b8d718a4211ec0938ecd18885fde0628a50b1f79b6959e0d2aebdf",
+      "geometry_sha256": "9924191895cc5e03018a3c1d1862ad02c5c09c5e5bf2826aa86bb187e9193048",
+      "previously_accepted": false,
+      "page_index": 9,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "や",
+      "exemplar_id": "dccd1f08bcffda190054a90637a227ca1309585bfe8dbc4c27783afcc8411eb5",
+      "geometry_sha256": "311cf11940f925c44b81a1ffbdb47b0c0f3de0fb4ee0446cff55e35711f6a437",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "や",
+      "exemplar_id": "50bfa5a048f2d076f5c2cb923031b27ff996133cb6d3255f3fc012a0e9646b0b",
+      "geometry_sha256": "b36f8d23435a5d6a24ac0326a3d672c164ffa83d42f9cd21c59a0fbe11e70f6c",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "や",
+      "exemplar_id": "9d15d0df0851020bd4cece2a13692abf1ae600c1478c80775c32539803a7175f",
+      "geometry_sha256": "78e619c23f8ca13d72628e4712bfe8afbdf88d4b7eebc584ba891c1d4e20478f",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "や",
+      "exemplar_id": "9a1baf57163081cb4cea03796f2d69a06173743df4793cb28e010f7e46642145",
+      "geometry_sha256": "196533de2142d9cf42082d4281219a24832b8a9a85cb4c440b7390324c65c7c7",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "や",
+      "exemplar_id": "ea4f944fddb7e5beba88f685fe49f9e675e4039ce70bc3df5578761b995e5d9f",
+      "geometry_sha256": "c9342c07de61cc31d878663621e8e5e665599fbe293312d5461f0a9bad5f9eb1",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "ゅ",
+      "exemplar_id": "ac464c9ea5d05402a2f032893125992e6fa3afac3ab2453aa9ffb23c5d0c4850",
+      "geometry_sha256": "926ec50be4d4d1abb5b066f44704dff5bf09da92ad61632b3b42dbe2fa4a9894",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "ゅ",
+      "exemplar_id": "3968e04d7161ffa89e5df019efc1ea029a2b02824b2f0f9cf39bc7cbcf52ddbc",
+      "geometry_sha256": "43fc3c8eb253491f9e617ed502aba738ae403f8777eba3551f7003218dced5de",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "ゆ",
+      "exemplar_id": "db6bccd28becefb99fb7165613b77b1f98c282ba754fa87a739fdd1974f875eb",
+      "geometry_sha256": "d4ef879041968619ac925080417c76104b4da085f6d3a1f2453004b0f2ac187a",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "ょ",
+      "exemplar_id": "f243d1cd9a348b69baff0103fb45207d40cc120a3a74449dd3655ae835e666ea",
+      "geometry_sha256": "89f1286a12c4aac573c12b0167f7e4359b3d1edfa86e990b467052b4b53bfe11",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "ょ",
+      "exemplar_id": "6e8dd6fbe88f3f607b43ae6a153da39671cde35110a5add30c74fa4c822c71c8",
+      "geometry_sha256": "cd4a18003c71625d55bade9d01b7c5288513a2fa3c31f2a37738055ea88d953d",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "よ",
+      "exemplar_id": "fbf11e88c990d96e6fb77411e2a173424e09eaba0eecd6811fa93c32fb79004f",
+      "geometry_sha256": "1f254c834a8ff278fb57e435f3c28e9c8f01266ada2a65e0d432981804943c2e",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "よ",
+      "exemplar_id": "f5a32bfbe4138ad0111c5859ac898be205172cc8d8a62271536c889508ca6d25",
+      "geometry_sha256": "3143b1e91e6f5dac6614968ff53c9b7dec5090e29a8010f77482aa1f03bd0e72",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "よ",
+      "exemplar_id": "a20dc7a8d86ccdde0adc097e1fbf3d7f1e89ec921eca2c24aa3281e9f2f4c9f3",
+      "geometry_sha256": "bf20631791ba01fcc60e737eb3e5fe6492f07ac8464909b693202282bb2737ec",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "よ",
+      "exemplar_id": "445f93b633b997ddf1d0f9d16e13f1b3765ab7fa8c789b4db631ad9ecd313f6a",
+      "geometry_sha256": "93ed18dd0674c2650e3b488d674c313fd6ad6878018d03066fc10ef43a2b7c0f",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "よ",
+      "exemplar_id": "92fcca4231eccf90f4dea7e2ba65e5859c29a9cfd640a71855107dd96406fa82",
+      "geometry_sha256": "89709445e4c5074399f21f0159ce00ddddc0aad043b74f7504fe28d8b34d9d83",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ら",
+      "exemplar_id": "e00ea4d43e36829319ee34ec73d3b5b6aa3aa2285d0dccfa5bdd18d93eb427cb",
+      "geometry_sha256": "33474f71fe8420cbbc653b91f7f23cd9454623ab790c8107acb333bda6f81d25",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "ら",
+      "exemplar_id": "3938e792a0f53e7f13a44cbc25d1789bb6accdce95611baf916874d01903cdc1",
+      "geometry_sha256": "6344c9ad880498e0b63b09d10f623bfcc52c44c16deb37d67c7b177eed18404a",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "ら",
+      "exemplar_id": "cc46558ccb5f119f8bf1d47824a3a21faf1b85c2001fb954720a1a888fdfc788",
+      "geometry_sha256": "7143f1649cc045b13297081c4540c1295c3164e8fe4e67434bf54bbaccdc1618",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "ら",
+      "exemplar_id": "2a575b76d1432ad11d29aeea913377e0db7a338c7b4226ffa6f437ed8b548c88",
+      "geometry_sha256": "f29fafcb7d255089ff09a68357ae00459bcf3e577906ae696fdaa680a4b3e676",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "ら",
+      "exemplar_id": "71f72edb99d4d98de9bfd04ea405fb6784f4854f29b7a1e367e8777330f7f5b1",
+      "geometry_sha256": "5bbeef00668d23b9b59f8dbf051f4e901c27743320593685db7d378e2843b914",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "り",
+      "exemplar_id": "fa88e1f72e9d241cc37fc8e9483ec48678d33c293da0af1d92d8c2889e857224",
+      "geometry_sha256": "28b203b8dfc194766fbf9346ed7d7fb99b3fabd8ce49e7c43f60448e1a13da91",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "り",
+      "exemplar_id": "87f3a796b080e00d6e93d4bde075f77dde80cf0a0800491eee541dcf7b6c21c7",
+      "geometry_sha256": "d455eded437cfeae0be531670fc48d7ddb774167ac4d04d9e1fd2278b081f44a",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "り",
+      "exemplar_id": "77486376a8821f06fe7834d1d9cccc68a130888b3f52746a74d69f36b85ca80d",
+      "geometry_sha256": "32a1ac792524eacf34397b84b35e458568783f50e494cb73d2dfe319dff03d25",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "り",
+      "exemplar_id": "b4e73e591adde6b7af86f71ade898a5e473fcaa39926950e8592091e73a918c6",
+      "geometry_sha256": "7bef245a2b1e3fcf1c68a8ae783836e73ff0ae57c5fdf9b43376b046a31ce3f6",
+      "previously_accepted": false,
+      "page_index": 10,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "り",
+      "exemplar_id": "d7121358d8e4261dbcdd5e62bedcb355168a6e929ff5f796b5d3409024ffae9d",
+      "geometry_sha256": "a18bc8590667401cbcaee8a64e1c460747885eb00093db48b23761c5768cb0bc",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "る",
+      "exemplar_id": "4b6c527095c592a616f31c030e13cb973f889ef58dc36c29bc6e36cf7cb6faef",
+      "geometry_sha256": "1c9261694c1c7d49329aa53142399c815c2c7764c95222f1c7a17037d30c9d9c",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "る",
+      "exemplar_id": "392f1d933c5b58843e98c56221115b03b86830038b06f0aec6301591c237b103",
+      "geometry_sha256": "aa07671c8bc5b1d322f810c59f4cc00a4ecb797789f8b347e7a9e38d9d1d1ae4",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "る",
+      "exemplar_id": "77817b2545e3e1bf260e726372694a726d1d7476164c20b4309e38bf0457e7b6",
+      "geometry_sha256": "acd095bf9a4ee6d8bf0e63a850cbef334adec52c3ad145ebf727ae858e40229c",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "る",
+      "exemplar_id": "158e250ae04befcf2028b6530a43c55ca9053081575999e6595b74fbe729fb1a",
+      "geometry_sha256": "0e4e83ff9918abf2660792455d163d2f806bc3c392f4d2b50290362ca807b3e4",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "る",
+      "exemplar_id": "e7e2c588caee8346b2c16cc6c7cc8b21509ce79d3f7320c3c1d9b037d4868118",
+      "geometry_sha256": "05fc27d9450747167ed0b21eaba72605a405e10b3321c7125809fe12ed5f9247",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "れ",
+      "exemplar_id": "401feb8b5b6c0b73e325315236ba2de26ad881fe749622c89aca4aa58d18ffdb",
+      "geometry_sha256": "6faa8da82e122f1fb08ac8b574540ddc3c563d1e1fdd9ab7014e1585da18ecff",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "れ",
+      "exemplar_id": "1a460b14231b9f6df3a36f3ba815f35b3157462e48de9731c35fad6b6992d3a5",
+      "geometry_sha256": "cda5dc102c37b0441c5f7f642cf12536b7a5b50bbc0717c72844050b7c76b0a7",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "れ",
+      "exemplar_id": "868850d37cdc6d364328d45203581e370de7d118bd62f63bb70dc0ed3320be38",
+      "geometry_sha256": "cc5efdb7f6d0b0f8a5b7ebc88b4687d0f6e8f347598edce7a23431abd6983509",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "れ",
+      "exemplar_id": "e1c9ba6b3f02690cc696cdef77ddf975901e3af0eddf1ac9d062d22fe2da739b",
+      "geometry_sha256": "65f0a413ad90dbf5fda67c0f0a3e709492da4ea4517f1d61c91a9e04bf49e1ab",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "れ",
+      "exemplar_id": "a7ba81f163a64c118d1c78e0b275ffe6444690075db6c79ccea037dca2b9e065",
+      "geometry_sha256": "fceb0cd7d26cb41c9f649d3225a24b580b4c26573f498aac6a7b70ababecec07",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "ろ",
+      "exemplar_id": "d7d3d08e7e39fa0cf89914596a6935008f35a0f7a33c0d85110953d3d6165ea9",
+      "geometry_sha256": "907f7c480187955c9b89870dd3de795b54df57581e9e837d1ec74d1279eebc75",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "ろ",
+      "exemplar_id": "13aaac1404d1bfbd24dc492b8502633ea778265b5429f2dd5111ac2ce4b98299",
+      "geometry_sha256": "ecdb487b130aafbdf0a283c44973f61f8c34ccc4507cced271782da4be959bec",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "ろ",
+      "exemplar_id": "e2568c5d952048b28f0c238f9ed2a91b5fbc9bdaa3bb8e360a89eb25e6972e8a",
+      "geometry_sha256": "2b3255af9b7df3415580d928dd005d2f27d3b03cfd9e7fa7485a055e20cf9b30",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "ゑ",
+      "exemplar_id": "1d640a529e487fe54903f6a8f91b8660dcbb7161e627ed0bd284fde1d0123a54",
+      "geometry_sha256": "c16f8824163c62a80d044e27b84f32ad442e1a1fc384b8c3b5282050e6479d99",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "を",
+      "exemplar_id": "dceb0965adc45e3c677edf89406d5fcb8668850347b381bb8a2cb0bdbf97c8bd",
+      "geometry_sha256": "d49bcc84efa9dedadaf5c9c149ac55192be101eb1755f2f152b93716711e5adc",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "を",
+      "exemplar_id": "195087ec31c98b29037395cb86e83069a865b895cbfe4df51d83649d5cedc17e",
+      "geometry_sha256": "05a4942b164db1c075786cd27366294476e54f4b59453eec9c155dba2d42984b",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "を",
+      "exemplar_id": "13c7594db2c351b3ec40324203d3d452f50ca8e5e094c36464c1f0a732b50179",
+      "geometry_sha256": "c0f1fa0fdfd63dd7f2d6520a6751262707528c40c73f33616b0826bcc1f57149",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "を",
+      "exemplar_id": "d9349645ec417e4abb0e965f285cd768f8b51286c93dc077025e68b5b9772ee9",
+      "geometry_sha256": "01f0fbee905a0fd659ea5e15c07f0cdd3700de1e5e9f5d2c92a16bba161a3369",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "を",
+      "exemplar_id": "7899200536fd863cc4cc5441c83e3f08c12970e8c72f021f1664371690c4ad8f",
+      "geometry_sha256": "aabad2c342c38ee0ebe14fe9450e3826149543c3069b42ebf02604133bb38b66",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "ん",
+      "exemplar_id": "af019d9f45912fa7f6bd2a8c6504148cf18d5203ec93bdf5b29ca4da0b6e0fcd",
+      "geometry_sha256": "1ba10f31e504be502be16eec38c355777e03aa9da032991e3371ccb1bbd3a49f",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "ん",
+      "exemplar_id": "c8d55428e92bc25d063894e3b33c6dc4acfa1716e0a0f5c7bac1768c8c403ab5",
+      "geometry_sha256": "5f858c10d3f76e785caf582927199ac28401f39010987b624f189aeb2bda8a87",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "ゝ",
+      "exemplar_id": "3f4cd8a7a1b7f4a5cac41733589334247a50104a7e3ba90a8111ffd0eee53df2",
+      "geometry_sha256": "c74429e4b9b35f8d34001c5987dde8b8e43e5823ecf69cd7a7717b13ce0cf104",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "ァ",
+      "exemplar_id": "112be41d6f1c296ae13f86436932dc8b2b18b454544131b0babe5bee6a171635",
+      "geometry_sha256": "9fe18eb74ae4b492ec7c2ac2c5f9a77cbaeb039a0cd6b944c838845f5d88626e",
+      "previously_accepted": false,
+      "page_index": 11,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "ァ",
+      "exemplar_id": "4e3fab7b7a8e20e108e9c39a98dc3c249f3e66156275151ec9ed5322558d59f3",
+      "geometry_sha256": "716e3e1a0f77c26bd2d3e828c3059584d4df7c7d3bb22316f8fb2f9b212b608d",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "ア",
+      "exemplar_id": "71d4f23fcfef9d94086d0018c67e9d4191661b77fdf6207d5cdd99ff899dc105",
+      "geometry_sha256": "875ece4472520a1c1e952db0232b216c1a21bd175278a2903213e57069e2e9ed",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "ア",
+      "exemplar_id": "4d928c08c80fff148af4e861c0c4f5b4893b6bf74635adc4f5487445e8c478c5",
+      "geometry_sha256": "a16b9748365ff3c780b5ff039b4a28bf0036b851d13ea3e61d80be89d60c870a",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "ア",
+      "exemplar_id": "0f327335cff2a27eea56fe6314a57d4d1e706d78015bd30f080d77e623f6adb5",
+      "geometry_sha256": "11e00844646a01cc01ae82c13e5909475e1c74ce0bd46c59466f2e373c456414",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "ア",
+      "exemplar_id": "7bad8b0e21afa750bcfb0d3ced0a9490320978afb65d752682fe465392c0b805",
+      "geometry_sha256": "0ffee231f45850948e88fbe67a9a9b64be597cee3dc88c6c8313d696f75ddfc2",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "ア",
+      "exemplar_id": "f2649bfa30b73a02b16dbd2ab83c946c0d578fa811024202ac0b1d8112775a03",
+      "geometry_sha256": "13f0594a9b3773a2867d2557eb890df5e3c4c48d28270ff4d312b7fd4924983a",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "ィ",
+      "exemplar_id": "3731774667acd42d12cca7f360a6ada73093f9a2d2b68fd88486929912f272eb",
+      "geometry_sha256": "5cba01d05ef4a018c76ec1242737054cedec9dfdce34fbce2f898294c19026e1",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "ィ",
+      "exemplar_id": "aa18c3d5d9954693a9203d70125d33807f2c1ca732bc8a988487aec7e1f9e43c",
+      "geometry_sha256": "90e4800a606aa4d8ce436b03e1adfc47483b704e40353facaa53e917eb64b39e",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "ィ",
+      "exemplar_id": "d481a7527af19697ad4d04d3b874c5a053c5d61ed9ce17e181ff3cfb6a674c38",
+      "geometry_sha256": "375a3f7b96a100335b8ba6554f7f1892649f83b3217c78837453338c89e1de49",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "ィ",
+      "exemplar_id": "efe3ce4c3bcdad06b23443395ce825593cf06aa4a4b4de9584211eb44bd4def7",
+      "geometry_sha256": "f785fd9a5cf7812d4433ca5ca49fb3bb22466489abc0ed26a97af01d5e7c983c",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "イ",
+      "exemplar_id": "cda23dff91b7b1828ee5bb164380830c9757ede48d3ede8f944a10cb906f7d66",
+      "geometry_sha256": "c8578e2714b498c2c0b7d6332efe8378da47843cadf5e47f5a8f3b700ad21c5d",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "イ",
+      "exemplar_id": "366402e2db0355012a2bd47bf5d756e984aff71f30ca862fb70feaeb74e0e19a",
+      "geometry_sha256": "df9f0c27f27e703fe0d5733ba50aaa836764d1fd8c826b24a8466d1409475824",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "イ",
+      "exemplar_id": "8fd268d915380f1d5f2cbba39365afed091f6577a6b74446ece5f72b8ccb5db4",
+      "geometry_sha256": "9c0b2143a48cb58c760785bd72ad242b26b994b482e064e179b7335001787770",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "ゥ",
+      "exemplar_id": "2467b3d732722344478b556d567a119d39ae5b6e718d8c6967145e3843593321",
+      "geometry_sha256": "c630f37e3cc4ac8c5aaa3e68df5c707cbeecfff6b70138b0a7d9a5f246d20315",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "ゥ",
+      "exemplar_id": "4ee0292b7f1461dcb2e97a5e61ae3a61bf1214912becf1c686868174fc238d43",
+      "geometry_sha256": "95e9c8594606037d3fbb7c11279e27d36dbea35e66e4691e1548ce08c48f8b7b",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ウ",
+      "exemplar_id": "751124846c78a1cf227f49747ccd003d11bcab0f81b9630b654f5fde6471e0d4",
+      "geometry_sha256": "f6b4819dd6e3d5eff2f324042d5f9757a6cad4800cad674c71ced8e57b9494fe",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "ウ",
+      "exemplar_id": "81ff1ca9ed19c3d1d65105ae6b4ce243be0762241a462a2a2b5c11980aa529ff",
+      "geometry_sha256": "0338662482c3fb1ca053277b591b377b9afb6d0d94033b13904a45a04988ebcc",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "ウ",
+      "exemplar_id": "20374e7afc9909b0f0c6454d07a9286f9b230b7132724bb0cbcf447704e0c925",
+      "geometry_sha256": "b5752827d0bb8891eb7a093a038e8e87aaefe9bc65ca0b9d4f02d744b422aabe",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "ェ",
+      "exemplar_id": "9fda183ff8cf51cc9cb1f0c0c10afed2440480c96f6cc288e40e4c48b5826e16",
+      "geometry_sha256": "b005fbedac1dd8de15918dca51d737a08cfd02fd29306571a341ca9295660c07",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "ェ",
+      "exemplar_id": "edf9245ccbde4adf56658dc7079521fed3b1000f582dd01bf34b7c748a797a58",
+      "geometry_sha256": "2c2c839269f3e84adbc8f32f24ef689a80e8f1d0ac320dd6d9fe94383c62cda7",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "エ",
+      "exemplar_id": "637d61a51aead788b68c6adfb99f5471e92e4d73434404d37001934581c698a0",
+      "geometry_sha256": "cbecbdbda3954a0fb4ec4ca1f56203b0afc60dd1bd2fbc9d94579d7dfbbc0cf3",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "エ",
+      "exemplar_id": "4b5a16b022cfb11da60300bb645e788be53dc3aff21c821ae57546785015af26",
+      "geometry_sha256": "201c68bc7d253bee2dd6f37035d758f2a33fa529075667e51085318f1e8bc842",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "エ",
+      "exemplar_id": "feea61de41d838e999b519b639887c7969cccba31a22b014fb68f8ecd4475f4c",
+      "geometry_sha256": "cdd8fe7d81ef3ab436d58fddfe4e651f072cd8f5d3bf40de1ddf3ee2ce347c51",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "エ",
+      "exemplar_id": "d80173b2913929e7a103228903560924f21050cac7fe5e53dbd0a78792bf9350",
+      "geometry_sha256": "793e712e05fc9970ae5992c333d30d7908ef42ea8d0a8cceddfe36efdfb8b2db",
+      "previously_accepted": false,
+      "page_index": 12,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "ォ",
+      "exemplar_id": "312d481637fe5dc4e712f9b6a8792f1e49e9ef59b03b999f686d788cb5618624",
+      "geometry_sha256": "eee5feb7faf4450549ca0c19c818929bb74c29a9379a77b05dc4743124030975",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "オ",
+      "exemplar_id": "07ff6181785111eaa4abeaf6362adb7cc8a0f2515b3c47e5117686dc3c2ec162",
+      "geometry_sha256": "7be8c01c2f958901cfc75ac5cb9618a455c30a9f0e79ab56b40b97737ca89050",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "オ",
+      "exemplar_id": "0c6af4a296541a88ddefd0e318d61ba811a7c55c9c960773b5f8697bdd6bdbaa",
+      "geometry_sha256": "d6c33dd9b8e41bb17bd3c3afcb13c18a7e93d33cbdd0b18d9c07350ecbd39dba",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "カ",
+      "exemplar_id": "9e5459a934595dae186d9c930f7870788cf80beaf9e88e0f112ab09b1e586e74",
+      "geometry_sha256": "d321bd0a0cbd81e52cab1ae3a9867c51a5aff79c17a00b920e54a1158a10f50a",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "カ",
+      "exemplar_id": "f4bedadb164cca356ad70f32048757c75d2f013edc119ed0e08145e0b8b609e8",
+      "geometry_sha256": "ea0cb1a9d25555dae5e2787ff9f6d0b05f6746e9de36f830b1c2ad10bdb1e5d7",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "カ",
+      "exemplar_id": "a84b1c68d2c541a33ae7b072e2e4521e42d9a8458c5b4874ee58b86750a1c5dc",
+      "geometry_sha256": "a5fee7affee458090873461878d630daeae6ccbd1d95559171a4b5e5b2bbbdf8",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "カ",
+      "exemplar_id": "7da3d230629746de9d7a0d9f5efc4577417336dbbbc2370fccaac4b49c6da030",
+      "geometry_sha256": "eef47035752ba7ad78b8118ac602f19a71ff8304556f85243ef7d7c7a062e58d",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "ガ",
+      "exemplar_id": "0ce3146b601cdec036e0fbcc22683018b0fae55076c3c43c0de94254c055b7bd:split:0",
+      "geometry_sha256": "cee00719e3b60eec04c703da31a1924404374bb732a04f75789f3d6bb9121975",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "ガ",
+      "exemplar_id": "d8feec3d20fae8f638aab1045f47b0c1fc908b934876dcc8957c9cefa395468c:split:0",
+      "geometry_sha256": "b13586c382652767d388e19b7ff130a6db2226149af90b32ec68e16d4ff3f8cd",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "ガ",
+      "exemplar_id": "e98431c88a7d51bf0cb4a8ab404606cbec06f08b176d4249e068890b79f9855e:split:1",
+      "geometry_sha256": "a37adbe247be4fa9647d1985b1b29a3978f74a0abd789d1269df8d8aae98aa08",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "ガ",
+      "exemplar_id": "f2a1bdf5c9c9e96ce8d631c459307e686ae1ad332d73bea0358c8eec8c4d9724:split:5",
+      "geometry_sha256": "90fd130726c9a8ac9bb155252c57c25820cf6e493add1b772a2e0d80599fe115",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "キ",
+      "exemplar_id": "6aea1f591bc1e7533db05a4f29e4cea67cf7f56dd9a5bb37acb80ec5d56f7a25",
+      "geometry_sha256": "a860df97a5126ea92681172ae39dd16b305eecf811c180a644b741c281bd4c9f",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "キ",
+      "exemplar_id": "c22ff9900df4d4a5b0c890c0143df809c8bf0f95a6cde79479f256f95810ece8",
+      "geometry_sha256": "fe2cf1745f0fcbe45175019d223a507935b6622ccd7ca3bfb0a30a23a5593e0b",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "ギ",
+      "exemplar_id": "05535066413567e06efc3e1f8671e81f4749db848881cb5852a92ce4666eb735",
+      "geometry_sha256": "774051ffc5cf43e39799e1412facc16c1230ef612202641eb3382325dc0095b0",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "ク",
+      "exemplar_id": "5e4a6ed5b03174ae80e074f1fa3df9a77adb8478c479962c7d563d6d6920289f",
+      "geometry_sha256": "45f3bbe6fb2d2f475459af2d2c3f80e4544a9ab52ef5fed5865409ab6d19b5f6",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "グ",
+      "exemplar_id": "c63ea3519442b17b34eabcd02b7c8883387fed6812d5ae47667f3eea04bc659e",
+      "geometry_sha256": "1f3ab684c9171255687a5bcf6e8943b6f60a8eb0349c9577c4ac1915b84fd372",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "グ",
+      "exemplar_id": "5b60d00e055968d4e08bad00a7e78e7ae94e9105af8c7218bf2f796284744ac9",
+      "geometry_sha256": "179886b5d478a012ce1c4b05fc93592743470208f8ec3bd7e03523851a390bd9",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "グ",
+      "exemplar_id": "49005e8171d5a0ccd8e00aac52d939555c1ec053d2f9825cadae9dd3df10042f",
+      "geometry_sha256": "c3c5de73d7240d4e0d23a112ee715cc4c0d0b1832c2c32d7d7fd4099b28b9354",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "グ",
+      "exemplar_id": "38540c98d9c6d851682e8be28120cbe899c50377b175f61bd2096c180761b520",
+      "geometry_sha256": "b3a0014d4982ea256add4ab2ca48936a436d7fd3705f637695034bb586e2c573",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "コ",
+      "exemplar_id": "ebbaae05124d709fabcee8d7bccae52d8c66df261ff2dfbacec58fb9595a1399",
+      "geometry_sha256": "ea896d4a612430f211a5ee2106476044899a8ab8ca594db375e65df751751a30",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "コ",
+      "exemplar_id": "74a87016b01c3c36bd999db4aa8480f75c1a8ca953f0a5958c659ea31273468b",
+      "geometry_sha256": "ef6928181bb85f16166bd8818ce04e4072b050b019c178cafe8c7da3835bfdea",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "コ",
+      "exemplar_id": "675afecee6ec0b8edf5651f2223c4a3432a4b4b2b4cf368ecb7567c90c5af2e5",
+      "geometry_sha256": "46fc2b205c30df99d741a2269a84680d8d5f9c7432a993b0bda764a25843a285",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "コ",
+      "exemplar_id": "e64ba98c2c21e89d06440ac75eb9b6349fce9e665ad99eb48621e973e6d9733a",
+      "geometry_sha256": "00943003abb5ae52b3fae2a09de194cfd5d6613c4b1efac3051cebc3de710d0f",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "コ",
+      "exemplar_id": "bb629a3aeaf301df6dfc6dd22e5271fc05d76396c392b76529da2546f052f4a8",
+      "geometry_sha256": "d572939f100c786cb29410f03b208a745930a1963417ae3fee28d5a4bddb224d",
+      "previously_accepted": false,
+      "page_index": 13,
+      "reading": "",
+      "all_readings": [
+        ""
+      ],
+      "ocr_status": "missing"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "ゴ",
+      "exemplar_id": "b3890f4e5b43d83ea0c5892dab25f02092639b80f9fa0760a7a34492dbc138cf",
+      "geometry_sha256": "7cdec892dd7d6509a1251b006761cac2e5efd1c7bc9339dbd05c96d08da9a19a",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\frac{x-1}{x}",
+      "all_readings": [
+        "\\frac{x-1}{x}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "サ",
+      "exemplar_id": "6744d51e96da7edda5eca904700946d5211ebd36949ab870d591a3c10d8e4886",
+      "geometry_sha256": "9128aa58bf849bb9ea0f1bf8908ef258fcaf8fc820ca1bf18917906b8b93bfbe",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "π",
+      "all_readings": [
+        "π"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "サ",
+      "exemplar_id": "abf83aefda2cce0c3d90c9d7a8ae5275a8e0edf7411b45a5f0d09b48df9ae48b",
+      "geometry_sha256": "83206da6a3e00cb10e338819baf39efcd9df70c646e0130baebeb79af998906d",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "π",
+      "all_readings": [
+        "π"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "サ",
+      "exemplar_id": "0243e7461a3313e768848effa29f4d005edeeea7265c02264aaf62d271ec8368",
+      "geometry_sha256": "c7b2dabf99f1ee0c1446caf24588aeeb63a53359447f3ae981a8775f5b043de8",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "π",
+      "all_readings": [
+        "π"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "サ",
+      "exemplar_id": "002789e448609cc330c9dde2a11dce35de1d3180babcba713200ba1961abebec",
+      "geometry_sha256": "8f95a066f57e8b2945e62e9829e3e9a26635fcbce02ccb4306c939f9d56f6984",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "π",
+      "all_readings": [
+        "π"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "サ",
+      "exemplar_id": "e387767379c13fed3ad91fdba62c96dd33181a171f70b67fec18b16ad12bd071",
+      "geometry_sha256": "68816eae58a2fbe3c14a10ab69d6ffba377eb1ad1aa258ba35bf299461aa17d2",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\phi",
+      "all_readings": [
+        "\\phi"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "シ",
+      "exemplar_id": "ad115b910edee82918996636153c418e31fed070b8ef5be26fd76a23d04118fc",
+      "geometry_sha256": "1cf9ef819bed4d0c2978d3e703043ac9a664665a5d72c4f332af4b749cb3f07a",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\searrow",
+      "all_readings": [
+        "\\searrow"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "シ",
+      "exemplar_id": "473ba75c4e7637573f45463898fd51013be604e4ff828d9545cb4e1879339c07",
+      "geometry_sha256": "5bb1d9faf6909528d255aa1015706ee42c0d10efc05191f9d6ba77482fbadae6",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "2",
+      "all_readings": [
+        "2"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "ジ",
+      "exemplar_id": "7b60937ba6e8a247844c2a80f94c68055b69d2247633c293291d09cf1e1f6dd2",
+      "geometry_sha256": "256dddfdaf8b72252c0af1954f53d068e3802b84bea75aae7f4bf24878fb804d",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\downright",
+      "all_readings": [
+        "\\downright"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "ジ",
+      "exemplar_id": "509339180b62a8a04d1a54b7595f7bade67bd4a2e852607c46e6578c8f24b037",
+      "geometry_sha256": "f1cf2500bbe42bdd6a3b86ed010bcc54deb4ec6e6edf6ce229ad85c4bd42aea0",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\downright",
+      "all_readings": [
+        "\\downright"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "ジ",
+      "exemplar_id": "1d5ba9c1e07d9211b515085e98932c4063b59440a17358eb81ee2207975a1620",
+      "geometry_sha256": "1dc0b89c27fca918368e0c80f28b472d4a21dfd9911d3d30b6bb043bcc269506",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\begin{array}{c}\\frac{x-1}{x}\\\\1-\\frac{1}{x}\\end{array}",
+      "all_readings": [
+        "\\begin{array}{c}\\frac{x-1}{x}\\\\1-\\frac{1}{x}\\end{array}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "ス",
+      "exemplar_id": "336ad209b721e0abdcfda334b370bd390938a48b67c7864c8720c2c210fc7894",
+      "geometry_sha256": "8e2c2ba45657722a66430a5e890273f1cdd4fe22ba1a6fc04ec839cda327c971",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "π",
+      "all_readings": [
+        "π"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "ス",
+      "exemplar_id": "dca14ceba7033c7ebfb24dc43f204402e75ff3b9444a670f2ae2ae22ea9d68a5",
+      "geometry_sha256": "86c20415334635d62a153dd1b434e0297446c9240581a175a25b4869411a03e2",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\lambda",
+      "all_readings": [
+        "\\lambda"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "ス",
+      "exemplar_id": "85adb3c333417b7cd70573ab8c392802d30a175046bab8210380caea9c5522af",
+      "geometry_sha256": "474cd3deb99b57487602d9d78fc6bb39e90259e410eef6df42b2944ca8fbbd69",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "π",
+      "all_readings": [
+        "π"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "ズ",
+      "exemplar_id": "93bba37219fcd573346201728d203a1884923ef77b6113dd76290afdd00998fc",
+      "geometry_sha256": "4a51e0860eeae02d94e81f8ff4d007b7edac5ece35d31717df667b590aaa9d74",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\mathbb{C}",
+      "all_readings": [
+        "\\mathbb{C}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ズ",
+      "exemplar_id": "a95025b4acaeed01d6c80adcd0348f52aa330183b305ac7f044aa410eed8b666",
+      "geometry_sha256": "7f81bf86dcb1e7b7a4b2eac9adcc4d22a2f47eda8f5642b77325cd3f4ee74f4c",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "I",
+      "all_readings": [
+        "I"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "ゼ",
+      "exemplar_id": "ec98ef8d6d9e68e253067f6583bcb3969a106e16dfa1e617975747c798919a0f:split:2",
+      "geometry_sha256": "bdbd75bb72594c0e0e54190c95911738ab52f3c1ad9cece96ffbbbdf8a655fd7",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\psi",
+      "all_readings": [
+        "\\psi"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "ゼ",
+      "exemplar_id": "6de8044d0e8bab672b7cb6c025a51fb34e0259f67e43a2786273b7732f8e4b1b:split:0",
+      "geometry_sha256": "d79e22537320842def6b856258b7b20fc97742112702f4b5492fb0cbf20f6fc4",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\psi",
+      "all_readings": [
+        "\\psi"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "ゼ",
+      "exemplar_id": "7784e515ad935e648b35771a6066d04439686d96d99a3ed3ce0e1b03a5711d4d:split:1",
+      "geometry_sha256": "d4d8671f07789dda24c29672daa13ebbbfc1466bcf3cb12c885fc133cc7905ea",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "'\\rightarrow",
+      "all_readings": [
+        "'\\rightarrow"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "ゼ",
+      "exemplar_id": "13971800aa6292dd3564b0fc992f9a9dc73a27f4cf83542bbbd88c1e004d7228:split:2",
+      "geometry_sha256": "ed4a91ade575cf09b62bfa42c9ae4b1f62cc328be52cb1c812256a9b94a4594e",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\downright",
+      "all_readings": [
+        "\\downright"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "ソ",
+      "exemplar_id": "0a992f2d7b0da0055782b695971b36dff5a7c6ad743b1c504e0033234bcbab78",
+      "geometry_sha256": "266e960be09aed3fc096c2a27cc49e7abf8ef3d0d3a83358a3bf0eeaa77afa22",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\begin{array}{c}-8\\\\-4\\\\1\\end{array}",
+      "all_readings": [
+        "\\begin{array}{c}-8\\\\-4\\\\1\\end{array}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "ソ",
+      "exemplar_id": "82547dc782885ac96f3ab4952a73a254091805f60fc0a8d10cf8461279564f95",
+      "geometry_sha256": "80e38d10dbe7e102e2edbdc74632020cc3a5a549b566a934ee8c7929fb83fed1",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "-1",
+      "all_readings": [
+        "-1"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "タ",
+      "exemplar_id": "9118e0c1bb811fc98280d2eae7eacbe5af445d4ad713b116a2ae7fafbe120171",
+      "geometry_sha256": "14219541db7288e33203cae10ff8e6f568d68aeffb3e197f918ea9c1f8438fe0",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\mathbb{A}",
+      "all_readings": [
+        "\\mathbb{A}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "タ",
+      "exemplar_id": "1dad3decd3ef6226933f4f4dbcad6eaed126f21235b98758dd75ce3b8b9bef68",
+      "geometry_sha256": "038204a0ff6b8f788c276a64d96ddd22cd22f2db0b320e365884648d2a7ff119",
+      "previously_accepted": false,
+      "page_index": 14,
+      "reading": "\\eta",
+      "all_readings": [
+        "\\eta"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-001",
+      "expected_label": "タ",
+      "exemplar_id": "1b9f1332b0989f832952f6333ff169397ef557ae242adf29e68a670edb13775d",
+      "geometry_sha256": "db807ea44e5736e9ddace225229e17222ebca6a6599d2f94e34cae80229ab924",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "1",
+      "all_readings": [
+        "1"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-002",
+      "expected_label": "タ",
+      "exemplar_id": "e8faf153b2b0f6c795f7bbfc96ae084c0b403e0dc00c0ee85cd4edc0c0c75437",
+      "geometry_sha256": "4c1edae8f13c1b12085cc9454b01a96886efb135fa4d3e540b17d8b0d2f78e4d",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "数",
+      "all_readings": [
+        "数"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-003",
+      "expected_label": "ダ",
+      "exemplar_id": "836525023c6272abe4f52e07fe33efb6ef01cf0067766162bfaf763f1a8e1a65",
+      "geometry_sha256": "f3155e22c1f1db802ffcc5f0516833c9ed228d1f449942e12326aa59ab1c43e7",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "B",
+      "all_readings": [
+        "B"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-004",
+      "expected_label": "ダ",
+      "exemplar_id": "910b5bb612f4bd9e2c84bdf598afad151ee3d3dce33b0e841591528afafea491",
+      "geometry_sha256": "8b117e5e9ad304a2fcf3beea60c534fd241fb4ce4f992b5a50f463fac8cb6463",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "1",
+      "all_readings": [
+        "1"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-005",
+      "expected_label": "チ",
+      "exemplar_id": "45260c9eb9c64746791ec1ea60a30e94698239559865f9edbc046622b8217b57",
+      "geometry_sha256": "e57591cc8d30adfa88347bb92e9424fed74601ffa78f00a44c97ba09dcb5f8dd",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "4",
+      "all_readings": [
+        "4"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-006",
+      "expected_label": "チ",
+      "exemplar_id": "ae60c4f08ca1543486460c680c23bd6f2cc6b8cd154ed7946ab6e9dcea43d2e1",
+      "geometry_sha256": "773dcd34fedac36c4ac2c2183d3a1c1eb32150dd3ad96547e99114b36b5e9d5f",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "L",
+      "all_readings": [
+        "L"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-007",
+      "expected_label": "ッ",
+      "exemplar_id": "b6fb2f04f602105d0cfabfa447e30fd25ac53d9c480b534b482a8780bd8253e8",
+      "geometry_sha256": "c99d42be08e07a5de4c7c0a9896fa868681d68ed79cb05ac7df59f703ecb4b67",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "(1)",
+      "all_readings": [
+        "(1)"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-008",
+      "expected_label": "ッ",
+      "exemplar_id": "25d9e9836ef4a02f4384e7f8a8dd873fc68c7f09b85e20b134363cbb0d8090d3",
+      "geometry_sha256": "07bb76892da38001fe1ac2193221f67faf5a672bcaa622ba544c482b9013b10a",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "→",
+      "all_readings": [
+        "→"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-009",
+      "expected_label": "ッ",
+      "exemplar_id": "65ffdd06e4a015ea511282d0507b7ed60b80e829ff0c7cbb7698fbe57459ff11",
+      "geometry_sha256": "c4e2f8bf4707f633c341f5c428e4123147570d043c7ca78e92993157a0b8e735",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "N",
+      "all_readings": [
+        "N"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-010",
+      "expected_label": "ッ",
+      "exemplar_id": "7bd67574aaf37bc23a3e90956f7a7f423b77eacbaa413646a0afdbc7bf6ea6fe",
+      "geometry_sha256": "6f3f2d89fdab902c9e49c9358d332bb1f749caf236129a3ef28402aa39fe7af9",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "1\\vdash",
+      "all_readings": [
+        "1\\vdash"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-011",
+      "expected_label": "デ",
+      "exemplar_id": "4a62fd8c8ce3b7716ee713c02b6fbf12634e1873e97cb2908ba99c09827a4750",
+      "geometry_sha256": "2e21031e2ad8e45788f3f7e2025d6132898e12866c5590d094ac6130a2d3db21",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "π",
+      "all_readings": [
+        "π"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-012",
+      "expected_label": "デ",
+      "exemplar_id": "34df0cede6f285c2bf8fba5fb0dbe11d3d47904a888847cbc1a4147088a1e9c7",
+      "geometry_sha256": "3ac586e167eb60609a0185abfabdb3c5e8101882a6dbb8bac47292baf72c33d4",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "\\frac{\\sqrt{6}}{2}",
+      "all_readings": [
+        "\\frac{\\sqrt{6}}{2}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-013",
+      "expected_label": "デ",
+      "exemplar_id": "ec5d00f47d4331e619898ace07fd631cf38410286fb415307c071514d3839c50",
+      "geometry_sha256": "52b214cedc7a402ebd25ac73273f8c1cf049954e882a43a9d7b1c91b52ac37f1",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "\\frac{\\pi}{3}-",
+      "all_readings": [
+        "\\frac{\\pi}{3}-"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-014",
+      "expected_label": "ト",
+      "exemplar_id": "5ccc3bd4247a53df1dc7c2c116eba31c431ce7114b6f7ff505d5243952cf6def",
+      "geometry_sha256": "1be4d8f9100ef4ae7d13891fedd53b58f4b5d3c935ce9f550d9c7c0f15e0978d",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "|",
+      "all_readings": [
+        "|"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-015",
+      "expected_label": "ト",
+      "exemplar_id": "e59b86f39ec9b7cf42af80be2730133284e5f43b26f96a64515a786a13ff24bf",
+      "geometry_sha256": "c2b224621e73220c31977351d101ca6be58dc9b407a39a31b0c86345c4b9b89e",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "H2",
+      "all_readings": [
+        "H2"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-016",
+      "expected_label": "ド",
+      "exemplar_id": "0c4d5b76215981dd4f34314cba1a2ad0cc7cce7e926ffe4f33891b303b4ac81f",
+      "geometry_sha256": "b00db2fcb423f02ca82171aee49cd0e5684251edf237335dd8221882ba518b59",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "|",
+      "all_readings": [
+        "|"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-017",
+      "expected_label": "ド",
+      "exemplar_id": "a237724ff99f5b5fc40f9f887bf40534e8a34646f8a45fb686ee4d9ce7a06061",
+      "geometry_sha256": "9ba8b53ff0e654572a9c70f308e20cc35a96b3c257b8d5f9819cbf330e14cffa",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": ")",
+      "all_readings": [
+        ")"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-018",
+      "expected_label": "ナ",
+      "exemplar_id": "32bd675451c14ae29ac4fcf2c0e67ea8da0f7f2f7ca989f23a5d285ce70ff960",
+      "geometry_sha256": "34a9bc1a6112ef5cf771e8037c8a53e6d433d8b1df8635e5d7e6e00797a6f512",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "—",
+      "all_readings": [
+        "—"
+      ],
+      "ocr_status": "different_single"
+    },
+    {
+      "trial_id": "PN-019",
+      "expected_label": "ナ",
+      "exemplar_id": "6e5f46098aaf2e0697a3b69416e393ee964f7ced401bf1357f70d0a51912c0df",
+      "geometry_sha256": "a8415dcc4c1696f8f5dbbe2fc3d8ba3f421a6b4137f723217b0c58a6c99da98b",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "\\frac{\\pi}{16}",
+      "all_readings": [
+        "\\frac{\\pi}{16}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-020",
+      "expected_label": "ニ",
+      "exemplar_id": "811a63f360c625da6f2c83b498dd6d5159d4e35d9a62ba85b44c7d6e3a497622",
+      "geometry_sha256": "fc56a7201ad7ebf29c25108f1483b274194c1bf1ad321262f92f356c78790196",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "=-\\gamma^2-",
+      "all_readings": [
+        "=-\\gamma^2-"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-021",
+      "expected_label": "ニ",
+      "exemplar_id": "efe4d97c4b7e667aa8869220c07008df4889f793eee879abbbfb5a482f15e898",
+      "geometry_sha256": "196dace0e0718d8d1741cf5d92e8b144ec072dca3c57e74c533a831844da2295",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "=-",
+      "all_readings": [
+        "=-"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-022",
+      "expected_label": "ヌ",
+      "exemplar_id": "963e24affef159f9f490bb803c8bb47702bc0a141baf83ee3c3ccb73bbc6faf1:split:0",
+      "geometry_sha256": "48c1e844421e3faa1f0275a6e91acc99da215637702ebed3c6eb97886b1d7a34",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "\\lambda",
+      "all_readings": [
+        "\\lambda"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-023",
+      "expected_label": "ネ",
+      "exemplar_id": "0be76da2c25f0832ec554b4e07aa1be5ee27a2c8a82b5e6f50405bc16ca78b56:split:4",
+      "geometry_sha256": "aede4fb2a32b7b42dcaad60531b155885a8d6853311e028a8c103f0378baa701",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "\\lambda",
+      "all_readings": [
+        "\\lambda"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    },
+    {
+      "trial_id": "PN-024",
+      "expected_label": "ネ",
+      "exemplar_id": "6de8044d0e8bab672b7cb6c025a51fb34e0259f67e43a2786273b7732f8e4b1b:split:1",
+      "geometry_sha256": "ce474f030b72d783684543ed6b222ced6dc3f49fd504090134f5199a3f473fde",
+      "previously_accepted": false,
+      "page_index": 15,
+      "reading": "\\dot{\\lambda}",
+      "all_readings": [
+        "\\dot{\\lambda}"
+      ],
+      "ocr_status": "multiple_or_unreadable"
+    }
+  ],
+  "counts": {
+    "missing": 277,
+    "multiple_or_unreadable": 46,
+    "different_single": 50,
+    "match": 11
+  },
+  "warning": "OCR agreement is evidence, not review approval. Original ink remains unchanged."
+}

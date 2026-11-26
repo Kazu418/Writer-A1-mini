@@ -1,0 +1,376 @@
+{
+  "format": "plotnote-visual-review-v1",
+  "source_manifest": "visual-words/manifest.json",
+  "source_sha256": "a391180495192fc6d856590d1354894f8712466d1aed0821719b2c70bf5b2f61",
+  "reviews": [
+    {
+      "id": "ce17575b95109d76a253f69803a3b0f01bc8e5807af35f0d9dbc9b2892a7aaba:split:0",
+      "label": "i",
+      "status": "accepted",
+      "geometry_sha256": "77a9b8bb1d6ebe2e1ba6bab70e821a8ecf70961fb11d972162c994b725691d99",
+      "sheet_page": 1,
+      "trial_id": "PN-002",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "2c532a07682a3d70bf00a1ff2e6a025ccd5a767b7d48b1aa776eaec26a32dcdd:split:1",
+      "label": "ィ",
+      "status": "accepted",
+      "geometry_sha256": "5c6cc5781e2e04e2753e7c32c22a02cc0600986b13f848a2628c23997010419e",
+      "sheet_page": 1,
+      "trial_id": "PN-005",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "3ffb7a167e5bedeb2a24d38204159695c7e811be54ff30b8f01638b66680e3d3:split:2",
+      "label": "ゴ",
+      "status": "accepted",
+      "geometry_sha256": "b6611078b43c044f95ba1fc776cba6226158b829c8da0ddd3a4d69ab4186dd8f",
+      "sheet_page": 1,
+      "trial_id": "PN-006",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "71f80e3e01cfd798d523ffc6e5d9df827dd01ddd753aba65387b8d72f7fefc90:split:0",
+      "label": "テ",
+      "status": "accepted",
+      "geometry_sha256": "49a46e9340dd58be8425a51bea62c19e31d06fc40fc3c1bb86414156011f4bfd",
+      "sheet_page": 1,
+      "trial_id": "PN-009",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "424fd58206af7c11f661d0de7c27566ccf33548b1b21d68a3bfc464faee17fac:split:3",
+      "label": "バ",
+      "status": "accepted",
+      "geometry_sha256": "fd91a8d202e30c471c6f44540cda0523bd9006e0b39d8537fe4c01044da131af",
+      "sheet_page": 1,
+      "trial_id": "PN-010",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "87a3e41a3f621d595b0996e7a7233d112dab1bbf73ca594d610c1c67fc3d0dbe:split:3",
+      "label": "件",
+      "status": "accepted",
+      "geometry_sha256": "ee0719449633ff298da5c1f6dbdb69133f42dfa27832b526f52ad19757da373c",
+      "sheet_page": 1,
+      "trial_id": "PN-011",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "49fa2c1beec5bbea40e2b05d6a7dfee9746eea5c10ffba48e1782134f6363a57:split:0",
+      "label": "処",
+      "status": "accepted",
+      "geometry_sha256": "e6f750383841440374adab178dad9482a0f21a952a105085fcfb1c5485628f06",
+      "sheet_page": 1,
+      "trial_id": "PN-012",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "cd385e3488c3855c249e35eeb43c13fe501ec4afc003ebe009696108a07947cd:split:3",
+      "label": "判",
+      "status": "accepted",
+      "geometry_sha256": "43324f4916aef9e4aa5cb3e57b88df0b93367a2f91cb2c2dbba085896d1a4f14",
+      "sheet_page": 1,
+      "trial_id": "PN-013",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "5b78c837f215e7e87f318101836c13e12dfea1ca3d1abc133cfddb24f4891763:split:0",
+      "label": "可",
+      "status": "accepted",
+      "geometry_sha256": "0fc0b061e2c02014c4c45c009e4494e1979ac17b1a06fde8fc0f4c1d7b9111aa",
+      "sheet_page": 1,
+      "trial_id": "PN-014",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "d8c23cd76580d08974ed5d7b5eee6d09b354fc98b0b4fbca8195f7caecdae446:split:1",
+      "label": "号",
+      "status": "accepted",
+      "geometry_sha256": "4cb24bd4115ff8c4821064f8a68eec0a4a0a9bf535ac91a3a793edc32a555031",
+      "sheet_page": 1,
+      "trial_id": "PN-015",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "c400c6cecb5a51510a9422e147ee4adf9c55d960f604bae68576f19c514ea675:split:0",
+      "label": "各",
+      "status": "accepted",
+      "geometry_sha256": "c135aa5f347c1b945b897f5b019da008b81e535baeb503b272fb6e7af6821d61",
+      "sheet_page": 1,
+      "trial_id": "PN-016",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "221719990f5692ea8334b16ebf92431ddfd2ded79d9c1a25b700c7c8ff1f7fd9:split:1",
+      "label": "善",
+      "status": "accepted",
+      "geometry_sha256": "d7d446664f578cfc6661702b3d6b97534557b13878da023a2b9a7cd10acfe186",
+      "sheet_page": 1,
+      "trial_id": "PN-017",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "29fc7275fbf2d5ca2428892122093a4c0baa35b62020aa01e23625ad6ce1b830:split:1",
+      "label": "四",
+      "status": "accepted",
+      "geometry_sha256": "b2bc860e7af6ba488738bc8aaf6d8ac29080a2d08aef71a13aeff473e24fa8e1",
+      "sheet_page": 1,
+      "trial_id": "PN-018",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "642f85ee5a0393e4b26632a8fc845ed6ec8d0b2e936f16b5dbd50703df32429f:split:9",
+      "label": "均",
+      "status": "accepted",
+      "geometry_sha256": "b299ac95c11a6d33dfe898299738ff6eb82b87405dd8bea87ebcec87e885f4e7",
+      "sheet_page": 1,
+      "trial_id": "PN-019",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "0cefee9f919a7515844c8ec0a3104c688412f69f4c0f6c959dd6e0847054b093:split:1",
+      "label": "域",
+      "status": "accepted",
+      "geometry_sha256": "68cc15623fca9ad19ed243aaa0a96273655d28107900b63d8c180195ec20e5ea",
+      "sheet_page": 1,
+      "trial_id": "PN-020",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "3bca1886d562e5333e37a99124d28c3dd65e4c9751153815a4031dd925023750:split:0",
+      "label": "幾",
+      "status": "accepted",
+      "geometry_sha256": "9b780081a437d1a20b23a57385793435770c5e90d13063f7599821b21fd6a2b6",
+      "sheet_page": 1,
+      "trial_id": "PN-021",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "de6b42224aed7af7e3d8b434989bee2443cc42cc7df8ee779957c920e0eb3c19:split:1",
+      "label": "広",
+      "status": "accepted",
+      "geometry_sha256": "708f63ea45cbdfbcb5c3c4f3781ca61fbde3bbd0505b724dee645a36cb173a70",
+      "sheet_page": 1,
+      "trial_id": "PN-022",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "f36b2d384ed19a81b5c44d037b56846ad9832eb5a3e1cf867bc0765c71515dab:split:0",
+      "label": "復",
+      "status": "accepted",
+      "geometry_sha256": "36723010e1414aacfc928b77fc17f5bbc1580d417753206a666abda5dd4d9d72",
+      "sheet_page": 1,
+      "trial_id": "PN-023",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "5f35617d8b7d3d5d0c2fcab1e1ed8ac0cc09f2f66a68bfc3cb76cf5c63093833:split:1",
+      "label": "徴",
+      "status": "accepted",
+      "geometry_sha256": "c0fd5c820140b413f8a0daebbd85b370974027fa4ff73b83f10144f4ca7ed7eb",
+      "sheet_page": 1,
+      "trial_id": "PN-024",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "f2d49048075c45d38aa5e84ef75076e165f49dbb38a3a3f00bd8f608820050ef:split:1",
+      "label": "景",
+      "status": "accepted",
+      "geometry_sha256": "d1031bf4a40534a694abedfb09dc1139d0e7d80153b5d5dca8df76d8ed8a3c61",
+      "sheet_page": 2,
+      "trial_id": "PN-003",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "abd09d29347529f841b5f92c096eb27acec09ffe38cb094978e69c3da1b8f061:split:0",
+      "label": "更",
+      "status": "accepted",
+      "geometry_sha256": "5ec758e554efff4e50cb053c38a0c20261532e1bd9a6fed449590f3f41d16eb8",
+      "sheet_page": 2,
+      "trial_id": "PN-004",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "be262544e3acecb6a0b4d0252a22266a1ee11959485cb1d3e06f536904c22fe9:split:4",
+      "label": "条",
+      "status": "accepted",
+      "geometry_sha256": "594abb8cefa7297103c5e78074ea27e25f265360711de14ecc7517af4abfe0bd",
+      "sheet_page": 2,
+      "trial_id": "PN-006",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "fb487f9d4e1ee1b9af0f97abbc5e114da55f377f68de3520d5bd72d52af5f0bf:split:1",
+      "label": "果",
+      "status": "accepted",
+      "geometry_sha256": "ca986408b6e5052356acbfcef4e9c8c36c24edbdb464895f615651db95b69f35",
+      "sheet_page": 2,
+      "trial_id": "PN-007",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "0bf03c7142071a388785a33ddc10bc7ba6122f14325fb5d394d4d5507fd0a86c:split:0",
+      "label": "機",
+      "status": "accepted",
+      "geometry_sha256": "cca3a062c7f5248a734b1d4d8126972fd53ba2a9e9ee4449d8beaea19df45975",
+      "sheet_page": 2,
+      "trial_id": "PN-008",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "5f7e1aaac821c3aba19b95e4d3c136ea32c421c2e1cdd838922857472de4877b:split:0",
+      "label": "温",
+      "status": "accepted",
+      "geometry_sha256": "8221b7648efcb2a2e576a32d35bb65ef34f1ce4085b5d6b515e5cc1849d0c06a",
+      "sheet_page": 2,
+      "trial_id": "PN-009",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "34a4985ea84638254f2c416acca49b98e730df33dceb137c4b6c71522f58d473:split:3",
+      "label": "源",
+      "status": "accepted",
+      "geometry_sha256": "09c50a1418ca273537f6507f3477e8d00008566b674fc46dcff03e9d0b1da81e",
+      "sheet_page": 2,
+      "trial_id": "PN-010",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "09a1cc8ab93fbbeb42ed8f40bb099685c6f4e09709f0b18ce178147779630fa6:split:0",
+      "label": "準",
+      "status": "accepted",
+      "geometry_sha256": "22c14c0cbf19a820be374e4842746f926f91a207f8253474634c355eebfc0fb2",
+      "sheet_page": 2,
+      "trial_id": "PN-011",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "e2365c55820a69ce9b813cd35635a98a0961e8c231c23617c022b9909b66ee95:split:1",
+      "label": "為",
+      "status": "accepted",
+      "geometry_sha256": "1898d4c10107039d39b9c73ccfbf85b64cbc3973ed0413df53c629eacf473b98",
+      "sheet_page": 2,
+      "trial_id": "PN-012",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "8786c7cf55bb2569a13080b5dec40d51f07d284968f04cdd28b5daf8c9ea7227:split:2",
+      "label": "状",
+      "status": "accepted",
+      "geometry_sha256": "5ccac9c614339e8d42072b8a731851c671fd44045135419baea229a2af424e12",
+      "sheet_page": 2,
+      "trial_id": "PN-013",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "497ca20badfd3a82708b383aa5938172d418793dc728bb739df9ac501056489e:split:0",
+      "label": "相",
+      "status": "accepted",
+      "geometry_sha256": "47fb1bb4a4445f5a46a41f35d7f63a62fa3f98007f19c49d567759f6378783ae",
+      "sheet_page": 2,
+      "trial_id": "PN-014",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "31af3ae54b8a6decd83b79fbe30cf7eaba979e553a4baf3305fd1a89f84c1080:split:2",
+      "label": "策",
+      "status": "accepted",
+      "geometry_sha256": "a309853ea3365faf2a32c25882f8f5353d22b66bbcce7a53fee9b8b260c82143",
+      "sheet_page": 2,
+      "trial_id": "PN-016",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "48ffa9716c4b86a35f66f6d7efbbb000d759fe6db4ec35db48df915fbe1c44b2:split:0",
+      "label": "算",
+      "status": "accepted",
+      "geometry_sha256": "3741dc8f4b7be97e095064191df1a5f0469eb23b73aab078ecefbab6ee94bade",
+      "sheet_page": 2,
+      "trial_id": "PN-017",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "6b8fad3dd64a97f960a88c428055f7ea37bc3cef51aff8ea28b5315be1b59f9c:split:0",
+      "label": "範",
+      "status": "accepted",
+      "geometry_sha256": "fb4838809d183df13d49654e0d78510ea26a00fc6b3d4e72fe70b5ed54bb709f",
+      "sheet_page": 2,
+      "trial_id": "PN-018",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "fe9d04c8af8b1936fc8bb86dbb802af41fb2919e6fb9a7bfe960f58cf4cd33a5:split:0",
+      "label": "統",
+      "status": "accepted",
+      "geometry_sha256": "11bf628cfe6c7f2f29f533110bf44555df7d44d1715defc04782bdbb43a27231",
+      "sheet_page": 2,
+      "trial_id": "PN-019",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "8c5359f8b0129546343609c4d40552871237d3342d3a5a6b5ca2632958de66e9:split:0",
+      "label": "絶",
+      "status": "accepted",
+      "geometry_sha256": "d3bd9bc61ad542c68a80a81b875cead589252a47707abfe514359bc8981df46f",
+      "sheet_page": 2,
+      "trial_id": "PN-020",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "4e16e1e932abda3d0b23c986af3a0d0cd56f608d2c7562520b240e11fba604cc:split:0",
+      "label": "評",
+      "status": "accepted",
+      "geometry_sha256": "48072f3eac41a68678d98df6895bc3f1b3e65eb7e0cee804ddaf697ffa74600f",
+      "sheet_page": 2,
+      "trial_id": "PN-022",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "a49d8d0ed0d493c715e563f11ea928f4edf90a23ae331b962a79ec818d14e4c8:split:3",
+      "label": "足",
+      "status": "accepted",
+      "geometry_sha256": "8d713fef33262625bf418c1c798ecde2912f482565ec60fad422e9a239cd4c8b",
+      "sheet_page": 2,
+      "trial_id": "PN-024",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "9e919c228544a45058a2d5cde349f5f317bed2a0252981db6a0263e36578c352:split:0",
+      "label": "階",
+      "status": "accepted",
+      "geometry_sha256": "3c09925cae942bb2577bd334346b4f2bcc2bf1e8600da2212fdeba6913505782",
+      "sheet_page": 3,
+      "trial_id": "PN-001",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "deddfaf285c18c43167f1e3123ab0456699b0d40d769451a726f3125c5831fd6:split:1",
+      "label": "際",
+      "status": "accepted",
+      "geometry_sha256": "09ceced57292c365531d70a981fb1ef4714de2db831dfa71734d4791492fecbc",
+      "sheet_page": 3,
+      "trial_id": "PN-002",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "5569b1033519997d2055354ef6c7fcac4b7a2c104c150d5bfcedd65634b8e04f:split:0",
+      "label": "難",
+      "status": "accepted",
+      "geometry_sha256": "707a3b350a3e489af4d50b13d6aaf3e16ee4b0464941bae8e0578b0207d1a699",
+      "sheet_page": 3,
+      "trial_id": "PN-003",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    },
+    {
+      "id": "0a489b26563dfff1018aa76f3c612bd38a71c557e52ac939d70db48fd1b00c07:split:1",
+      "label": "験",
+      "status": "accepted",
+      "geometry_sha256": "08eee3adf7310822b6756b91a34b6f50b710f75e3ae2e0546c5d5c2688034fe6",
+      "sheet_page": 3,
+      "trial_id": "PN-004",
+      "reviewer": "Codex visual inspection; source-word context checked where needed"
+    }
+  ]
+}
