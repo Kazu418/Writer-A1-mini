@@ -114,7 +114,7 @@ python3 scripts/archive_project_materials.py restore \
 - `examples/japanese-note*`: 初期変換器のPDF/SVG/プレビュー例。
 - `docs/THIRD_PARTY.md`、`src/plotnote/data/*LICENSE*`、`LICENSE`: 依存素材とコードの権利。
 
-プライベート共有であっても、コード、標準フォント、元ノート、本人の筆跡、データセットの権利をひとつにまとめて変更しない。
+公開リポジトリでも、コード、標準フォント、元ノート、本人の筆跡、データセットの権利をひとつにまとめて変更しない。
 
 ## 下線付きキーワードの書体を変えた版
 

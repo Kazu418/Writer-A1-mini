@@ -1,10 +1,12 @@
 {
   "repository": "Kazu418/Writer-A1-mini",
-  "visibility": "PRIVATE",
+  "visibility": "PUBLIC",
   "title": "Writer A1 mini",
   "historical_transport_gate": "WRITER_A1_MINI_OWNER_CONTROL=1",
   "bulk_materials": "archives/project-materials/manifest.json",
   "license_preserved": "AGPL-3.0-or-later",
   "live_printer_transport_modified_for_publication": false,
-  "latest_example": "output/exam-note/a4-v5-standard-keywords"
+  "latest_example": "output/exam-note/a4-v5-standard-keywords",
+  "publication_scope": "Code and existing archived project materials, including personal notes and handwriting, published at the owner’s request.",
+  "data_rights": "Public access does not relicense personal notes, handwriting, or third-party datasets; see README.md and docs/THIRD_PARTY.md."
 }
